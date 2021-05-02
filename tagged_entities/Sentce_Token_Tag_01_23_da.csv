@@ -1,0 +1,6273 @@
+Sentence_Token,Tag
+Sentence: 1_1,sap hana
+Sentence: 1_1,sap hana
+Sentence: 1_2,sap hana
+Sentence: 1_3,sap hana
+Sentence: 1_4,sap hana
+Sentence: 1_5,sap hana
+Sentence: 1_6,sap hana
+Sentence: 1_7,sap cloud connector
+Sentence: 1_8,sap hana
+Sentence: 1_9,sap web ide
+Sentence: 1_10,sap web ide
+Sentence: 1_11,sap cloud platform
+Sentence: 1_12,sap fiori
+Sentence: 1_13,sap fiori
+Sentence: 1_14,sap hana
+Sentence: 1_15,sap cloud platform
+Sentence: 1_17,sap netweaver
+Sentence: 1_17,sap netweaver
+Sentence: 1_19,sap netweaver
+Sentence: 1_19,sap netweaver
+Sentence: 1_20,sap netweaver
+Sentence: 1_21,sap netweaver
+Sentence: 1_23,sap cloud platform
+Sentence: 1_23,sap conversational ai
+Sentence: 1_24,sap netweaver
+Sentence: 1_24,sap netweaver
+Sentence: 1_25,sap mobile platform
+Sentence: 1_26,sap cloud platform
+Sentence: 1_27,sap cp
+Sentence: 1_28,sap product lifecycle management
+Sentence: 1_29,sap fiori
+Sentence: 1_30,sap fiori
+Sentence: 1_31,sap hana
+Sentence: 1_32,sap fiori
+Sentence: 1_33,sap hana
+Sentence: 1_34,sap agent connection
+Sentence: 1_35,sap agent connection
+Sentence: 1_36,sap cloud platform
+Sentence: 1_37,sap fiori
+Sentence: 1_39,sap netweaver
+Sentence: 1_39,sap netweaver
+Sentence: 1_40,sap quotation and underwriting for insurance
+Sentence: 1_42,sap quotation and underwriting for insurance
+Sentence: 1_42,sap quotation and underwriting for insurance
+Sentence: 1_43,sap hana
+Sentence: 1_44,sap cloud platform
+Sentence: 1_45,sap cloud platform
+Sentence: 1_46,sap cloud platform
+Sentence: 1_47,sap commerce
+Sentence: 1_48,sap cloud connector
+Sentence: 1_49,sap netweaver
+Sentence: 1_50,sap netweaver
+Sentence: 1_51,sap hana
+Sentence: 1_52,sap hana
+Sentence: 1_54,sap hana
+Sentence: 1_54,sap hana
+Sentence: 1_55,sap hana
+Sentence: 1_56,sap hana
+Sentence: 1_57,sap hana
+Sentence: 1_58,sap hana
+Sentence: 1_59,sap hana
+Sentence: 1_59,sap web ide
+Sentence: 1_60,sap cloud platform
+Sentence: 1_61,sap hana
+Sentence: 1_62,sap fiori
+Sentence: 1_63,sap hana
+Sentence: 1_64,sap hana
+Sentence: 1_65,sap hana
+Sentence: 1_66,sap hana
+Sentence: 1_67,sap fiori
+Sentence: 1_67,sap fiori
+Sentence: 1_68,sap cloud platform
+Sentence: 1_69,sap web ide
+Sentence: 1_70,sap fiori
+Sentence: 1_71,sap fiori
+Sentence: 1_72,sap fiori
+Sentence: 1_73,sap fiori
+Sentence: 1_74,sap fiori
+Sentence: 1_74,sap fiori
+Sentence: 1_75,sap fiori
+Sentence: 1_76,sap fiori
+Sentence: 1_77,sap netweaver
+Sentence: 1_78,sap cloud platform
+Sentence: 1_79,sap web as
+Sentence: 1_80,sap web as
+Sentence: 1_81,sap fiori
+Sentence: 1_82,sap hana
+Sentence: 1_83,sap cloud platform
+Sentence: 1_84,sap agent connection
+Sentence: 1_84,sap agent connection
+Sentence: 1_85,sap cloud platform
+Sentence: 1_86,sap web ide
+Sentence: 1_86,sap hana
+Sentence: 1_87,sap cloud platform
+Sentence: 1_88,sap fiori
+Sentence: 1_88,sap fiori
+Sentence: 1_89,sap gateway
+Sentence: 1_90,sap fiori
+Sentence: 1_90,sap gateway
+Sentence: 1_91,sap hana
+Sentence: 1_92,sap product lifecycle management
+Sentence: 1_93,sap hana
+Sentence: 1_94,sap hana
+Sentence: 1_95,sap hana
+Sentence: 1_96,sap hana
+Sentence: 1_96,sap hana
+Sentence: 1_97,sap hana
+Sentence: 1_98,sap cloud platform
+Sentence: 1_99,sap crm
+Sentence: 1_100,sap cloud platform
+Sentence: 1_101,sap cloud connector
+Sentence: 1_103,sap circular authority
+Sentence: 1_104,sap netweaver
+Sentence: 1_104,sap fiori
+Sentence: 1_105,sap gateway
+Sentence: 1_106,sap fiori
+Sentence: 1_106,sap fiori
+Sentence: 1_107,sap hana
+Sentence: 1_108,sap api business hub
+Sentence: 1_109,sap netweaver
+Sentence: 1_110,sap product lifecycle management
+Sentence: 1_111,sap policy management
+Sentence: 1_111,sap erp
+Sentence: 1_112,sap fiori
+Sentence: 1_113,sap web ide
+Sentence: 1_114,sap web ide
+Sentence: 1_114,sap hana
+Sentence: 1_115,sap hana
+Sentence: 1_116,sap cloud platform
+Sentence: 1_117,sap web ide
+Sentence: 1_117,sap hana
+Sentence: 1_118,sap hana
+Sentence: 1_118,sap cloud identity
+Sentence: 1_119,sap hana
+Sentence: 1_119,sap cloud identity
+Sentence: 1_120,sap cloud identity
+Sentence: 1_121,sap cloud identity
+Sentence: 1_122,sap cloud identity
+Sentence: 1_122,sap hana
+Sentence: 1_123,sap quotation and underwriting for insurance
+Sentence: 1_124,sap web ide
+Sentence: 1_125,sap hana
+Sentence: 1_126,sap hana
+Sentence: 1_127,sap hana
+Sentence: 1_127,sap hana
+Sentence: 1_128,sap product lifecycle management
+Sentence: 1_129,sap hana
+Sentence: 1_129,sap hana
+Sentence: 1_129,sap netweaver
+Sentence: 1_129,sap netweaver
+Sentence: 1_130,sap fiori
+Sentence: 1_131,sap cloud platform
+Sentence: 1_133,sap netweaver
+Sentence: 1_133,sap netweaver
+Sentence: 1_135,sap netweaver
+Sentence: 1_135,sap netweaver
+Sentence: 1_136,sap netweaver
+Sentence: 1_137,sap hana
+Sentence: 1_138,sap hana
+Sentence: 1_138,sap hana
+Sentence: 1_139,sap hana
+Sentence: 1_140,sap hana
+Sentence: 1_141,sap product lifecycle management
+Sentence: 1_142,sap cloud platform
+Sentence: 1_143,sap cloud platform
+Sentence: 1_143,sap cloud platform
+Sentence: 1_143,sap cloud platform
+Sentence: 1_144,sap fiori
+Sentence: 1_145,sap hana
+Sentence: 1_145,sap hana
+Sentence: 1_146,sap hana
+Sentence: 1_147,sap hana
+Sentence: 1_148,sap netweaver
+Sentence: 1_149,sap hana
+Sentence: 1_150,sap cloud platform
+Sentence: 1_151,sap cloud platform
+Sentence: 1_152,sap cloud connector
+Sentence: 1_153,sap cloud connector
+Sentence: 1_155,sap cloud connector
+Sentence: 1_155,sap cloud platform
+Sentence: 1_156,sap mobile documents
+Sentence: 1_156,sap mobile documents
+Sentence: 1_157,sap cloud platform
+Sentence: 1_158,sap hana
+Sentence: 1_159,sap hana
+Sentence: 1_161,sap cloud platform
+Sentence: 1_161,sap hana
+Sentence: 1_161,sap hana
+Sentence: 1_162,sap hana
+Sentence: 1_162,sap hana
+Sentence: 1_162,sap hana
+Sentence: 1_163,sap hana
+Sentence: 1_164,sap cloud platform
+Sentence: 1_165,sap hana
+Sentence: 1_166,sap hana
+Sentence: 1_168,sap cloud platform
+Sentence: 1_168,sap hana
+Sentence: 1_168,sap hana
+Sentence: 1_169,sap hana
+Sentence: 1_169,sap hana
+Sentence: 1_169,sap hana
+Sentence: 1_170,sap hana
+Sentence: 1_171,sap cloud platform
+Sentence: 1_171,sap cloud platform
+Sentence: 1_172,sap cloud platform
+Sentence: 1_173,sap hana
+Sentence: 1_174,sap hana
+Sentence: 1_175,sap cloud platform
+Sentence: 1_176,sap cloud platform
+Sentence: 1_177,sap cloud platform
+Sentence: 1_178,sap cloud platform
+Sentence: 1_179,sap api business hub
+Sentence: 1_180,sap cloud platform
+Sentence: 1_181,sap api business hub
+Sentence: 1_181,sap cloud platform
+Sentence: 1_181,sap cloud platform
+Sentence: 1_182,sap netweaver
+Sentence: 1_183,sap product lifecycle management
+Sentence: 1_184,sap cloud platform
+Sentence: 1_185,sap hana
+Sentence: 1_186,sap fiori
+Sentence: 1_187,sap cloud platform
+Sentence: 1_188,sap cloud platform
+Sentence: 1_189,sap cloud platform
+Sentence: 1_190,sap cloud platform
+Sentence: 1_191,sap cloud platform
+Sentence: 1_192,sap netweaver
+Sentence: 1_192,sap netweaver
+Sentence: 1_193,sap fiori
+Sentence: 1_194,sap web ide
+Sentence: 1_194,sap hana
+Sentence: 1_194,sap fiori
+Sentence: 1_195,sap fiori
+Sentence: 1_196,sap hana
+Sentence: 1_197,sap cp
+Sentence: 1_197,sap cp
+Sentence: 1_198,sap cp
+Sentence: 1_198,sap cp
+Sentence: 2_1,sap product lifecycle management
+Sentence: 2_2,sap product lifecycle management
+Sentence: 2_3,sap build
+Sentence: 2_4,sap cloud platform
+Sentence: 2_5,sap cloud platform
+Sentence: 2_6,sap cloud platform
+Sentence: 2_7,sap cloud platform
+Sentence: 2_8,sap cloud platform
+Sentence: 2_9,sap netweaver
+Sentence: 2_10,sap web as
+Sentence: 2_11,sap cloud platform
+Sentence: 2_12,sap cloud platform
+Sentence: 2_14,sap hana
+Sentence: 2_14,sap hana
+Sentence: 2_15,sap cloud platform
+Sentence: 2_15,sap cloud platform
+Sentence: 2_16,sap cloud platform
+Sentence: 2_17,sap cloud platform
+Sentence: 2_18,sap cloud platform
+Sentence: 2_19,sap cloud platform
+Sentence: 2_20,sap cloud platform
+Sentence: 2_21,sap cloud platform
+Sentence: 2_23,sap netweaver
+Sentence: 2_23,sap netweaver
+Sentence: 2_25,sap netweaver
+Sentence: 2_25,sap netweaver
+Sentence: 2_26,sap netweaver
+Sentence: 2_27,sap cloud platform
+Sentence: 2_28,sap fiori
+Sentence: 2_29,sap cloud platform
+Sentence: 2_30,sap fiori
+Sentence: 2_31,sap cloud platform
+Sentence: 2_32,sap web ide
+Sentence: 2_33,sap sales cloud
+Sentence: 2_34,sap cloud platform
+Sentence: 2_34,sap cloud platform
+Sentence: 2_34,sap fiori
+Sentence: 2_35,sap circular authority
+Sentence: 2_35,sap circular authority
+Sentence: 2_36,sap circular authority
+Sentence: 2_36,sap circular authority
+Sentence: 2_36,sap circular authority
+Sentence: 2_37,sap netweaver
+Sentence: 2_37,sap netweaver
+Sentence: 2_38,sap netweaver
+Sentence: 2_39,sap netweaver
+Sentence: 2_40,sap web ide
+Sentence: 2_41,sap hana
+Sentence: 2_43,sap netweaver
+Sentence: 2_43,sap netweaver
+Sentence: 2_45,sap netweaver
+Sentence: 2_45,sap netweaver
+Sentence: 2_46,sap netweaver
+Sentence: 2_47,sap hana
+Sentence: 2_47,sap hana
+Sentence: 2_48,sap web analytics
+Sentence: 2_49,sap cloud platform
+Sentence: 2_50,sap cloud platform
+Sentence: 2_51,sap cloud platform
+Sentence: 2_52,sap cloud platform
+Sentence: 2_53,sap netweaver
+Sentence: 2_53,sap netweaver
+Sentence: 2_54,sap product lifecycle management
+Sentence: 2_55,sap netweaver
+Sentence: 2_56,sap cloud platform
+Sentence: 2_57,sap cloud platform
+Sentence: 2_59,sap sales cloud
+Sentence: 2_59,sap hana
+Sentence: 2_60,sap netweaver
+Sentence: 2_61,sap netweaver
+Sentence: 2_62,sap document center
+Sentence: 2_63,sap cloud platform
+Sentence: 2_64,sap cp
+Sentence: 2_65,sap cloud platform
+Sentence: 2_67,sap cloud platform
+Sentence: 2_67,sap hana
+Sentence: 2_68,sap netweaver
+Sentence: 2_70,sap cloud identity
+Sentence: 2_70,sap hana
+Sentence: 2_71,sap hana
+Sentence: 2_72,sap hana
+Sentence: 2_73,sap cloud connector
+Sentence: 2_74,sap cloud connector
+Sentence: 2_75,sap hana
+Sentence: 2_77,sap cloud connector
+Sentence: 2_77,sap cloud connector
+Sentence: 2_77,sap hana
+Sentence: 2_78,sap cloud connector
+Sentence: 2_79,sap api business hub
+Sentence: 2_80,sap api business hub
+Sentence: 2_80,sap web ide
+Sentence: 2_81,sap netweaver
+Sentence: 2_82,sap netweaver
+Sentence: 2_82,sap netweaver
+Sentence: 2_83,sap netweaver
+Sentence: 2_84,sap fiori
+Sentence: 2_85,sap fiori
+Sentence: 2_86,sap fiori
+Sentence: 2_87,sap fiori
+Sentence: 2_88,sap netweaver
+Sentence: 2_88,sap fiori
+Sentence: 2_88,sap netweaver
+Sentence: 2_88,sap fiori
+Sentence: 2_88,sap netweaver
+Sentence: 2_89,sap fiori
+Sentence: 2_89,sap fiori
+Sentence: 2_89,sap fiori
+Sentence: 2_90,sap hana
+Sentence: 2_91,sap hana
+Sentence: 2_92,sap web ide
+Sentence: 2_93,sap web ide
+Sentence: 2_93,sap web ide
+Sentence: 2_94,sap web ide
+Sentence: 2_95,sap web ide
+Sentence: 2_96,sap web ide
+Sentence: 2_97,sap netweaver
+Sentence: 2_98,sap hana
+Sentence: 2_99,sap netweaver
+Sentence: 2_100,sap fortify
+Sentence: 2_101,sap hana
+Sentence: 2_102,sap hana
+Sentence: 2_103,sap hana
+Sentence: 2_104,sap web ide
+Sentence: 2_105,sap web ide
+Sentence: 2_106,sap cloud platform
+Sentence: 2_107,sap fiori
+Sentence: 2_108,sap fiori
+Sentence: 2_109,sap agent connection
+Sentence: 2_110,sap agent connection
+Sentence: 2_111,sap cloud platform
+Sentence: 2_113,sap netweaver
+Sentence: 2_113,sap fiori
+Sentence: 2_114,sap cloud connector
+Sentence: 2_115,sap cloud connector
+Sentence: 2_116,sap hana
+Sentence: 2_116,sap hana
+Sentence: 2_117,sap hana
+Sentence: 2_118,sap hana
+Sentence: 2_119,sap hana
+Sentence: 2_120,sap netweaver
+Sentence: 2_121,sap netweaver
+Sentence: 2_122,sap document center
+Sentence: 2_123,sap analytics cloud
+Sentence: 2_124,sap hybris
+Sentence: 2_125,sap lumira
+Sentence: 2_126,sap commerce
+Sentence: 2_127,sap hana
+Sentence: 2_128,sap hybris
+Sentence: 2_129,sap hybris
+Sentence: 2_130,sap cloud platform
+Sentence: 2_131,sap cloud platform
+Sentence: 2_133,sap bobj
+Sentence: 2_133,sap cloud platform
+Sentence: 2_134,sap cp
+Sentence: 2_134,sap cp
+Sentence: 2_136,sap cloud platform
+Sentence: 2_136,sap hybris
+Sentence: 2_137,sap crm
+Sentence: 2_138,sap cloud identity
+Sentence: 2_139,sap hybris
+Sentence: 2_140,sap sports one
+Sentence: 2_141,sap bobj
+Sentence: 2_141,sap bobj
+Sentence: 2_142,sap hana
+Sentence: 2_143,sap digital consumer insight
+Sentence: 2_144,sap lumira
+Sentence: 2_145,sap lumira
+Sentence: 3_1,sap hybris
+Sentence: 3_2,sap lumira
+Sentence: 3_3,sap iot application enablement
+Sentence: 3_4,sap cloud platform
+Sentence: 3_5,sap hana
+Sentence: 3_6,sap hana
+Sentence: 3_6,sap hana
+Sentence: 3_8,sap product stewardship network
+Sentence: 3_9,sap product stewardship network
+Sentence: 3_9,sap lumira
+Sentence: 3_10,sap cloud platform
+Sentence: 3_11,sap cloud platform
+Sentence: 3_13,sap cloud platform
+Sentence: 3_13,sap digital for customer engagement
+Sentence: 3_14,sap hybris
+Sentence: 3_15,sap innovation management
+Sentence: 3_16,sap hana
+Sentence: 3_17,sap innovation management
+Sentence: 3_17,sap erp
+Sentence: 3_18,sap hybris
+Sentence: 3_19,sap successfactors recruiting
+Sentence: 3_20,sap hybris
+Sentence: 3_21,sap web ide
+Sentence: 3_22,sap web ide
+Sentence: 3_23,sap web ide
+Sentence: 3_24,sap web ide
+Sentence: 3_25,sap web ide
+Sentence: 3_26,sap web ide
+Sentence: 3_27,sap ar warehouse picker
+Sentence: 3_28,sap ar warehouse picker
+Sentence: 3_28,sap crm
+Sentence: 3_29,sap hana
+Sentence: 3_30,sap bobj
+Sentence: 3_31,sap marketing
+Sentence: 3_32,sap commerce
+Sentence: 3_33,sap analytics cloud
+Sentence: 3_34,sap analytics cloud
+Sentence: 3_35,sap analytics cloud
+Sentence: 3_36,sap analytics cloud
+Sentence: 3_37,sap analytics cloud
+Sentence: 3_38,sap analytics cloud
+Sentence: 3_39,sap hybris
+Sentence: 3_40,sap lumira
+Sentence: 3_41,sap hybris
+Sentence: 3_42,sap analytics cloud
+Sentence: 3_43,sap analytics cloud
+Sentence: 3_44,sap hana
+Sentence: 3_45,sap hybris
+Sentence: 3_46,sap hybris
+Sentence: 3_47,sap erp
+Sentence: 3_47,sap hana
+Sentence: 3_48,sap crm
+Sentence: 3_49,sap hybris
+Sentence: 3_50,sap erp
+Sentence: 3_51,sap hybris
+Sentence: 3_52,sap hybris
+Sentence: 3_53,sap hybris
+Sentence: 3_54,sap erp
+Sentence: 3_54,sap hybris
+Sentence: 3_55,sap erp
+Sentence: 3_55,sap lumira
+Sentence: 3_56,sap appcenter
+Sentence: 3_57,sap lumira
+Sentence: 3_58,sap lumira
+Sentence: 3_59,sap lumira
+Sentence: 3_60,sap lumira
+Sentence: 3_60,sap lumira
+Sentence: 3_60,sap lumira
+Sentence: 3_61,sap crm
+Sentence: 3_62,sap crm
+Sentence: 3_63,sap hybris
+Sentence: 3_64,sap bobj
+Sentence: 3_65,sap sql anywhere
+Sentence: 3_66,sap sql anywhere
+Sentence: 3_67,sap hybris
+Sentence: 3_68,sap hybris
+Sentence: 3_69,sap hana
+Sentence: 3_70,sap lumira
+Sentence: 3_70,sap lumira
+Sentence: 3_70,sap lumira
+Sentence: 3_71,sap hana
+Sentence: 3_72,sap hana
+Sentence: 3_73,sap hana
+Sentence: 3_74,sap customer profile
+Sentence: 3_75,sap hana
+Sentence: 3_76,sap lumira
+Sentence: 3_77,sap lumira
+Sentence: 3_78,sap digital for customer engagement
+Sentence: 4_1,sap hybris
+Sentence: 4_1,sap hybris
+Sentence: 4_2,sap lumira
+Sentence: 4_3,sap analytics cloud
+Sentence: 4_4,sap lumira
+Sentence: 4_5,sap digital consumer insight
+Sentence: 4_6,sap digital consumer insight
+Sentence: 4_6,sap digital consumer insight
+Sentence: 4_7,sap sales cloud
+Sentence: 4_8,sap cloud platform
+Sentence: 4_9,sap hana
+Sentence: 4_10,sap hybris
+Sentence: 4_11,sap lumira
+Sentence: 4_12,sap lumira
+Sentence: 4_13,sap cloud platform
+Sentence: 4_15,sap product stewardship network
+Sentence: 4_15,sap product stewardship network
+Sentence: 4_16,sap sql anywhere
+Sentence: 4_17,sap analytics cloud
+Sentence: 4_17,sap crystal reports
+Sentence: 4_17,sap crystal server
+Sentence: 4_17,sap lumira
+Sentence: 4_17,sap sports one
+Sentence: 4_17,sap cloud for real estate
+Sentence: 4_17,sap financial statement insights
+Sentence: 4_17,sap realspend
+Sentence: 4_17,sap sql anywhere
+Sentence: 4_17,sap sales cloud
+Sentence: 4_19,sap copilot
+Sentence: 4_19,sap hybris
+Sentence: 4_20,sap hybris
+Sentence: 4_21,sap cloud platform
+Sentence: 4_22,sap hana
+Sentence: 4_23,sap lumira
+Sentence: 4_24,sap lumira
+Sentence: 4_25,sap hybris
+Sentence: 4_26,sap cloud platform
+Sentence: 4_27,sap hybris
+Sentence: 4_28,sap hana
+Sentence: 4_28,sap hana
+Sentence: 4_28,sap hana
+Sentence: 4_29,sap cp
+Sentence: 4_30,sap crystal server
+Sentence: 4_30,sap crystal reports
+Sentence: 4_31,sap business one
+Sentence: 4_32,sap hana
+Sentence: 4_33,sap hybris
+Sentence: 4_34,sap hybris
+Sentence: 4_35,sap business bydesign
+Sentence: 4_36,sap erp
+Sentence: 4_36,sap netweaver
+Sentence: 4_37,sap supply chain management
+Sentence: 4_37,sap sales ondemand
+Sentence: 4_37,sap business one
+Sentence: 4_37,sap businessobjects
+Sentence: 4_37,sap hana
+Sentence: 4_38,sap marketing
+Sentence: 4_39,sap hybris
+Sentence: 4_40,sap hybris
+Sentence: 4_41,sap hybris
+Sentence: 4_42,sap hybris
+Sentence: 4_43,sap cloud platform
+Sentence: 4_44,sap sql anywhere
+Sentence: 4_45,sap hana
+Sentence: 4_46,sap hana
+Sentence: 4_47,sap analytics cloud
+Sentence: 4_48,sap lumira
+Sentence: 4_49,sap lumira
+Sentence: 4_50,sap lumira
+Sentence: 4_50,sap lumira
+Sentence: 4_51,sap lumira
+Sentence: 4_52,sap lumira
+Sentence: 4_53,sap lumira
+Sentence: 4_54,sap lumira
+Sentence: 4_55,sap web ide
+Sentence: 4_56,sap hybris
+Sentence: 4_57,sap hybris
+Sentence: 4_58,sap hybris
+Sentence: 4_58,sap hybris
+Sentence: 4_59,sap hybris
+Sentence: 4_60,sap hybris
+Sentence: 4_61,sap hybris
+Sentence: 4_62,sap contact center
+Sentence: 4_62,sap contact center
+Sentence: 4_63,sap contact center
+Sentence: 4_64,sap contact center
+Sentence: 4_65,sap contact center
+Sentence: 4_66,sap hana
+Sentence: 4_67,sap cloud platform
+Sentence: 4_68,sap cp
+Sentence: 4_68,sap cp
+Sentence: 4_69,sap hana
+Sentence: 4_70,sap hybris
+Sentence: 5_1,sap single sign on
+Sentence: 5_2,sap hana
+Sentence: 5_3,sap real estate
+Sentence: 5_4,sap hana
+Sentence: 5_4,sap access control
+Sentence: 5_4,sap hana
+Sentence: 5_5,sap businessobjects
+Sentence: 5_5,sap businessobjects
+Sentence: 5_5,sap businessobjects
+Sentence: 5_6,sap crystal server
+Sentence: 5_7,sap cloud platform
+Sentence: 5_8,sap iq
+Sentence: 5_8,sap lumira
+Sentence: 5_9,sap adaptive server enterprise
+Sentence: 5_10,sap hana
+Sentence: 5_11,sap hana
+Sentence: 5_12,sap hana
+Sentence: 5_13,sap sales cloud
+Sentence: 5_14,sap solution manager
+Sentence: 5_16,sap vehicle insights
+Sentence: 5_16,sap cloud platform
+Sentence: 5_18,sap cloud platform
+Sentence: 5_18,sap product stewardship network
+Sentence: 5_19,sap hana
+Sentence: 5_20,sap hana
+Sentence: 5_21,sap crystal reports
+Sentence: 5_22,sap digital for customer engagement
+Sentence: 5_22,sap lumira
+Sentence: 5_23,sap digital for customer engagement
+Sentence: 5_24,sap solution manager
+Sentence: 5_25,sap cc
+Sentence: 5_26,sap bobj
+Sentence: 5_26,sap bobj
+Sentence: 5_27,sap hybris
+Sentence: 5_28,sap hana
+Sentence: 5_29,sap lumira
+Sentence: 5_30,sap lumira
+Sentence: 5_31,sap lumira
+Sentence: 5_31,sap lumira
+Sentence: 5_32,sap lumira
+Sentence: 5_33,sap hybris
+Sentence: 5_34,sap hana
+Sentence: 5_35,sap hana
+Sentence: 5_36,sap hana
+Sentence: 5_38,sap cloud platform
+Sentence: 5_38,sap digital for customer engagement
+Sentence: 5_39,sap businessobjects
+Sentence: 5_40,sap cloud platform
+Sentence: 5_41,sap hana
+Sentence: 5_42,sap cloud platform
+Sentence: 5_43,sap cloud platform
+Sentence: 5_44,sap web ide
+Sentence: 5_45,sap hybris
+Sentence: 5_46,sap hana
+Sentence: 5_47,sap hana
+Sentence: 5_48,sap erp
+Sentence: 5_49,sap hana
+Sentence: 5_50,sap hana
+Sentence: 5_50,sap innovation management
+Sentence: 5_51,sap hybris
+Sentence: 5_52,sap hybris
+Sentence: 5_52,sap hybris
+Sentence: 5_53,sap hybris
+Sentence: 5_54,sap hybris
+Sentence: 5_55,sap hana
+Sentence: 5_56,sap marketing
+Sentence: 5_57,sap digital for customer engagement
+Sentence: 5_58,sap hybris
+Sentence: 5_59,sap lumira
+Sentence: 5_60,sap cp
+Sentence: 5_61,sap cloud platform
+Sentence: 5_62,sap netweaver
+Sentence: 5_63,sap netweaver
+Sentence: 5_64,sap netweaver
+Sentence: 5_65,sap netweaver
+Sentence: 5_65,sap netweaver
+Sentence: 5_66,sap netweaver
+Sentence: 5_67,sap netweaver
+Sentence: 5_68,sap netweaver
+Sentence: 5_69,sap netweaver
+Sentence: 5_69,sap netweaver
+Sentence: 5_70,sap netweaver
+Sentence: 5_71,sap netweaver
+Sentence: 5_72,sap netweaver
+Sentence: 5_73,sap netweaver
+Sentence: 6_1,sap fiori
+Sentence: 6_1,sap hana
+Sentence: 6_2,sap environmental compliance
+Sentence: 6_3,sap netweaver
+Sentence: 6_4,sap hana
+Sentence: 6_4,sap hana
+Sentence: 6_5,sap cp
+Sentence: 6_6,sap hana
+Sentence: 6_7,sap hana
+Sentence: 6_8,sap product stewardship network
+Sentence: 6_9,sap product stewardship network
+Sentence: 6_10,sap product stewardship network
+Sentence: 6_11,sap cloud connector
+Sentence: 6_12,sap cloud connector
+Sentence: 6_13,sap gateway
+Sentence: 6_14,sap cloud connector
+Sentence: 6_15,sap product stewardship network
+Sentence: 6_16,sap fiori
+Sentence: 6_17,sap cloud platform
+Sentence: 6_18,sap hana
+Sentence: 6_19,sap hana
+Sentence: 6_20,sap hana
+Sentence: 6_22,sap netweaver
+Sentence: 6_22,sap hana
+Sentence: 6_23,sap hana
+Sentence: 6_24,sap hana
+Sentence: 6_25,sap cloud connector
+Sentence: 6_26,sap hana
+Sentence: 6_27,sap hana
+Sentence: 6_28,sap hana
+Sentence: 6_29,sap hana
+Sentence: 6_30,sap hana
+Sentence: 6_31,sap lumira
+Sentence: 6_32,sap hana
+Sentence: 6_33,sap netweaver
+Sentence: 6_33,sap netweaver
+Sentence: 6_34,sap cloud platform
+Sentence: 6_35,sap transportation management
+Sentence: 6_36,sap transportation management
+Sentence: 6_37,sap hana
+Sentence: 6_38,sap cloud platform
+Sentence: 6_39,sap cloud identity
+Sentence: 6_41,sap cloud identity
+Sentence: 6_41,sap cloud identity
+Sentence: 6_42,sap hana
+Sentence: 6_43,sap hana
+Sentence: 6_44,sap hana
+Sentence: 6_45,sap copilot
+Sentence: 6_45,sap hana
+Sentence: 6_45,sap copilot
+Sentence: 6_46,sap hana
+Sentence: 6_46,sap fiori
+Sentence: 6_47,sap integrated business planning
+Sentence: 6_47,sap jam collaboration
+Sentence: 6_48,sap cloud platform
+Sentence: 6_49,sap cloud platform
+Sentence: 6_49,sap cloud platform
+Sentence: 6_50,sap build
+Sentence: 6_51,sap product stewardship network
+Sentence: 6_52,sap cloud identity
+Sentence: 6_53,sap cloud platform
+Sentence: 6_54,sap cloud platform
+Sentence: 6_55,sap hana
+Sentence: 6_56,sap hana
+Sentence: 6_57,sap cloud platform
+Sentence: 6_58,sap hana
+Sentence: 6_59,sap businessobjects
+Sentence: 6_59,sap businessobjects
+Sentence: 6_60,sap businessobjects
+Sentence: 6_61,sap businessobjects
+Sentence: 6_62,sap hana
+Sentence: 6_62,sap hana
+Sentence: 6_63,sap hana
+Sentence: 6_64,sap hana
+Sentence: 6_64,sap hana
+Sentence: 6_65,sap hana
+Sentence: 6_65,sap hana
+Sentence: 6_65,sap hana
+Sentence: 6_66,sap screen personas
+Sentence: 6_66,sap business bydesign
+Sentence: 6_67,sap netweaver
+Sentence: 6_69,sap realspend
+Sentence: 6_69,sap realspend
+Sentence: 6_70,sap realspend
+Sentence: 6_71,sap fiori
+Sentence: 6_72,sap analytics cloud
+Sentence: 6_72,sap data hub
+Sentence: 6_73,sap cloud alm
+Sentence: 6_73,sap cloud alm
+Sentence: 6_74,sap hana
+Sentence: 6_74,sap cloud alm
+Sentence: 6_74,sap hana
+Sentence: 6_75,sap cloud alm
+Sentence: 6_75,sap hana
+Sentence: 6_76,sap hana
+Sentence: 6_77,sap cloud alm
+Sentence: 6_77,sap hana
+Sentence: 6_78,sap hana
+Sentence: 6_78,sap cloud alm
+Sentence: 6_79,sap cloud platform
+Sentence: 6_80,sap cloud alm
+Sentence: 6_81,sap solution manager
+Sentence: 6_82,sap successfactors employee central
+Sentence: 6_82,sap successfactors recruiting
+Sentence: 6_82,sap successfactors recruiting
+Sentence: 6_82,sap successfactors onboarding
+Sentence: 6_83,sap successfactors compensation
+Sentence: 6_84,sap cloud alm
+Sentence: 6_84,sap cloud alm
+Sentence: 6_85,sap hana
+Sentence: 6_86,sap cloud alm
+Sentence: 6_86,sap hana
+Sentence: 6_87,sap cloud alm
+Sentence: 6_87,sap hana
+Sentence: 6_88,sap hana
+Sentence: 6_89,sap cloud alm
+Sentence: 6_89,sap hana
+Sentence: 6_90,sap hana
+Sentence: 6_90,sap cloud alm
+Sentence: 6_91,sap analytics cloud
+Sentence: 6_92,sap analytics cloud
+Sentence: 6_93,sap hana
+Sentence: 6_93,sap hana
+Sentence: 6_94,sap hana
+Sentence: 6_95,sap hana
+Sentence: 6_96,sap product configuration
+Sentence: 6_97,sap analytics cloud
+Sentence: 6_98,sap cloud platform
+Sentence: 6_99,sap cloud platform
+Sentence: 6_99,sap cloud platform
+Sentence: 6_100,sap analytics cloud
+Sentence: 6_101,sap netweaver
+Sentence: 6_102,sap fiori
+Sentence: 6_103,sap cloud platform
+Sentence: 6_105,sap cloud platform
+Sentence: 6_106,sap cloud platform
+Sentence: 6_106,sap netweaver
+Sentence: 6_107,sap cloud platform
+Sentence: 6_107,sap web ide
+Sentence: 6_107,sap api business hub
+Sentence: 6_107,sap cloud platform
+Sentence: 6_108,sap cloud for customer
+Sentence: 6_108,sap hana
+Sentence: 6_109,sap cloud platform
+Sentence: 6_109,sap netweaver
+Sentence: 6_110,sap hana
+Sentence: 6_111,sap cloud platform
+Sentence: 6_111,sap cloud platform
+Sentence: 6_112,sap cloud platform
+Sentence: 6_113,sap hana
+Sentence: 6_114,sap cp
+Sentence: 6_115,sap erp
+Sentence: 6_117,sap ecc
+Sentence: 6_117,sap cloud platform
+Sentence: 6_118,sap netweaver
+Sentence: 6_118,sap netweaver
+Sentence: 6_118,sap netweaver
+Sentence: 6_118,sap netweaver
+Sentence: 6_118,sap netweaver
+Sentence: 6_119,sap netweaver
+Sentence: 6_119,sap netweaver
+Sentence: 6_120,sap operational process intelligence
+Sentence: 6_120,sap netweaver
+Sentence: 6_120,sap netweaver
+Sentence: 6_121,sap netweaver
+Sentence: 6_121,sap netweaver
+Sentence: 6_122,sap operational process intelligence
+Sentence: 6_122,sap operational process intelligence
+Sentence: 6_123,sap netweaver
+Sentence: 6_124,sap cloud platform
+Sentence: 6_124,sap cloud platform
+Sentence: 6_125,sap hana
+Sentence: 6_126,sap fiori
+Sentence: 6_127,sap hana
+Sentence: 6_128,sap hana
+Sentence: 6_129,sap hana
+Sentence: 6_130,sap hana
+Sentence: 6_131,sap hana
+Sentence: 6_132,sap gateway
+Sentence: 6_133,sap gateway
+Sentence: 6_135,sap gateway
+Sentence: 6_135,sap gateway
+Sentence: 6_136,sap gateway
+Sentence: 6_137,sap gateway
+Sentence: 6_138,sap gateway
+Sentence: 6_139,sap gateway
+Sentence: 6_140,sap netweaver
+Sentence: 6_141,sap netweaver
+Sentence: 6_142,sap netweaver
+Sentence: 6_143,sap netweaver
+Sentence: 6_144,sap netweaver
+Sentence: 6_145,sap gateway
+Sentence: 6_146,sap gateway
+Sentence: 6_147,sap knowledge warehouse
+Sentence: 6_148,sap gateway
+Sentence: 6_149,sap gateway
+Sentence: 6_150,sap gateway
+Sentence: 6_151,sap gateway
+Sentence: 6_152,sap knowledge warehouse
+Sentence: 6_153,sap knowledge warehouse
+Sentence: 6_154,sap cp
+Sentence: 6_155,sap operational process intelligence
+Sentence: 6_156,sap netweaver
+Sentence: 6_156,sap netweaver
+Sentence: 6_157,sap netweaver
+Sentence: 6_158,sap netweaver
+Sentence: 6_159,sap netweaver
+Sentence: 6_160,sap netweaver
+Sentence: 6_161,sap cp
+Sentence: 6_162,sap cp
+Sentence: 6_163,sap cp
+Sentence: 6_163,sap cp
+Sentence: 6_164,sap cp
+Sentence: 6_165,sap cloud platform
+Sentence: 6_166,sap cloud platform
+Sentence: 6_167,sap cloud platform
+Sentence: 6_167,sap cp
+Sentence: 6_169,sap gateway
+Sentence: 6_170,sap gateway
+Sentence: 6_171,sap gateway
+Sentence: 6_171,sap bi
+Sentence: 6_172,sap hana
+Sentence: 6_173,sap cp
+Sentence: 6_174,sap hana
+Sentence: 6_174,sap hana
+Sentence: 6_175,sap hana
+Sentence: 6_176,sap cloud platform
+Sentence: 6_177,sap cloud platform
+Sentence: 6_178,sap cloud platform
+Sentence: 6_178,sap web ide
+Sentence: 6_179,sap cloud platform
+Sentence: 6_180,sap cloud platform
+Sentence: 6_181,sap operational process intelligence
+Sentence: 6_182,sap netweaver
+Sentence: 6_183,sap netweaver
+Sentence: 6_184,sap operational process intelligence
+Sentence: 6_185,sap netweaver
+Sentence: 6_186,sap netweaver
+Sentence: 6_187,sap cp
+Sentence: 6_188,sap cp
+Sentence: 6_188,sap cp
+Sentence: 6_189,sap cp
+Sentence: 6_190,sap web ide
+Sentence: 6_191,sap web ide
+Sentence: 6_191,sap web ide
+Sentence: 6_192,sap cp
+Sentence: 6_194,sap cloud platform
+Sentence: 6_194,sap cp
+Sentence: 6_195,sap cp
+Sentence: 6_196,sap cp
+Sentence: 6_197,sap cp
+Sentence: 6_198,sap cp
+Sentence: 6_199,sap cp
+Sentence: 6_200,sap cp
+Sentence: 6_201,sap operational process intelligence
+Sentence: 6_202,sap global track and trace
+Sentence: 6_203,sap global track and trace
+Sentence: 6_204,sap cp
+Sentence: 6_205,sap cp
+Sentence: 6_206,sap hana
+Sentence: 6_206,sap hana
+Sentence: 6_206,sap hana
+Sentence: 6_207,sap netweaver
+Sentence: 6_208,sap netweaver
+Sentence: 6_208,sap netweaver
+Sentence: 6_208,sap netweaver
+Sentence: 6_209,sap netweaver
+Sentence: 6_210,sap netweaver
+Sentence: 6_210,sap netweaver
+Sentence: 6_210,sap netweaver
+Sentence: 6_210,sap netweaver
+Sentence: 6_210,sap netweaver
+Sentence: 6_211,sap hana
+Sentence: 6_211,sap hana
+Sentence: 6_211,sap hana
+Sentence: 6_211,sap hana
+Sentence: 6_212,sap hana
+Sentence: 6_213,sap cloud platform
+Sentence: 6_213,sap cloud platform
+Sentence: 6_214,sap cp
+Sentence: 6_215,sap crm
+Sentence: 6_216,sap netweaver
+Sentence: 6_216,sap netweaver
+Sentence: 6_217,sap hana
+Sentence: 6_218,sap hana
+Sentence: 6_218,sap hana
+Sentence: 6_218,sap hana
+Sentence: 6_219,sap cloud platform
+Sentence: 6_219,sap cloud platform
+Sentence: 6_220,sap cloud platform
+Sentence: 6_220,sap cloud platform
+Sentence: 6_220,sap cloud platform
+Sentence: 6_221,sap hana
+Sentence: 6_222,sap hana
+Sentence: 6_223,sap cp
+Sentence: 6_224,sap cp
+Sentence: 6_225,sap cp
+Sentence: 6_225,sap cp
+Sentence: 6_225,sap cp
+Sentence: 6_226,sap cp
+Sentence: 6_227,sap cp
+Sentence: 6_228,sap cp
+Sentence: 6_230,sap cloud platform
+Sentence: 6_230,sap cloud platform
+Sentence: 6_231,sap netweaver
+Sentence: 6_232,sap api business hub
+Sentence: 6_233,sap operational process intelligence
+Sentence: 6_235,sap operational process intelligence
+Sentence: 6_235,sap operational process intelligence
+Sentence: 6_236,sap operational process intelligence
+Sentence: 6_237,sap operational process intelligence
+Sentence: 6_237,sap operational process intelligence
+Sentence: 6_238,sap operational process intelligence
+Sentence: 6_239,sap operational process intelligence
+Sentence: 6_240,sap operational process intelligence
+Sentence: 6_241,sap operational process intelligence
+Sentence: 6_243,sap hana
+Sentence: 6_244,sap cloud platform
+Sentence: 6_244,sap cloud platform
+Sentence: 6_245,sap hana
+Sentence: 6_246,sap hana
+Sentence: 6_247,sap cloud platform
+Sentence: 6_248,sap cloud platform
+Sentence: 6_249,sap cloud platform
+Sentence: 6_250,sap cloud platform
+Sentence: 6_251,sap cloud platform
+Sentence: 6_252,sap netweaver
+Sentence: 6_253,sap netweaver
+Sentence: 6_254,sap hana
+Sentence: 6_254,sap hana
+Sentence: 6_255,sap business application studio
+Sentence: 6_256,sap hana
+Sentence: 6_257,sap hana
+Sentence: 6_258,sap hana
+Sentence: 6_258,sap hana
+Sentence: 6_259,sap fiori
+Sentence: 6_260,sap cp
+Sentence: 6_261,sap cp
+Sentence: 6_261,sap cp
+Sentence: 6_262,sap cp
+Sentence: 6_263,sap cp
+Sentence: 6_264,sap cp
+Sentence: 6_265,sap cp
+Sentence: 6_266,sap cp
+Sentence: 6_267,sap cp
+Sentence: 6_268,sap cp
+Sentence: 6_269,sap cp
+Sentence: 6_270,sap cp
+Sentence: 6_271,sap cp
+Sentence: 6_272,sap cp
+Sentence: 6_273,sap cp
+Sentence: 6_274,sap cp
+Sentence: 7_2,sap hana
+Sentence: 7_3,sap hana
+Sentence: 7_4,sap hana
+Sentence: 7_4,sap hana
+Sentence: 7_6,sap hana
+Sentence: 7_7,sap hana
+Sentence: 7_7,sap cloud platform
+Sentence: 7_7,sap cloud platform
+Sentence: 7_7,sap cloud platform
+Sentence: 7_8,sap cloud platform
+Sentence: 7_8,sap cloud platform
+Sentence: 7_9,sap cloud platform
+Sentence: 7_10,sap cloud platform
+Sentence: 7_10,sap cloud platform
+Sentence: 7_11,sap cp
+Sentence: 7_12,sap cloud platform
+Sentence: 7_13,sap cloud platform
+Sentence: 7_14,sap cloud platform
+Sentence: 7_15,sap cp
+Sentence: 7_16,sap hana
+Sentence: 7_17,sap hana
+Sentence: 7_18,sap operational process intelligence
+Sentence: 7_19,sap operational process intelligence
+Sentence: 7_20,sap api business hub
+Sentence: 7_21,sap cloud platform
+Sentence: 7_22,sap api business hub
+Sentence: 7_23,sap api business hub
+Sentence: 7_24,sap cloud platform
+Sentence: 7_26,sap api business hub
+Sentence: 7_26,sap cp
+Sentence: 7_27,sap cloud platform
+Sentence: 7_28,sap cloud platform
+Sentence: 7_29,sap cp
+Sentence: 7_29,sap cp
+Sentence: 7_30,sap cp
+Sentence: 7_31,sap cloud platform
+Sentence: 7_32,sap cp
+Sentence: 7_33,sap hana
+Sentence: 7_33,sap hana
+Sentence: 7_34,sap hana
+Sentence: 7_34,sap hana
+Sentence: 7_35,sap hana
+Sentence: 7_36,sap cloud platform
+Sentence: 7_37,sap cloud platform
+Sentence: 7_38,sap cp
+Sentence: 7_39,sap cloud platform
+Sentence: 7_40,sap cloud platform
+Sentence: 7_41,sap hana
+Sentence: 7_42,sap cloud platform
+Sentence: 7_42,sap cloud platform
+Sentence: 7_43,sap cloud platform
+Sentence: 7_43,sap cloud platform
+Sentence: 7_44,sap cloud platform
+Sentence: 7_45,sap cloud platform
+Sentence: 7_46,sap cloud platform
+Sentence: 7_47,sap cloud platform
+Sentence: 7_48,sap cloud platform
+Sentence: 7_49,sap cloud platform
+Sentence: 7_50,sap cloud platform
+Sentence: 7_51,sap cloud platform
+Sentence: 7_52,sap cloud platform
+Sentence: 7_53,sap cloud platform
+Sentence: 7_54,sap cloud platform
+Sentence: 7_55,sap cloud platform
+Sentence: 7_56,sap cloud platform
+Sentence: 7_56,sap cloud platform
+Sentence: 7_57,sap cloud platform
+Sentence: 7_58,sap gateway
+Sentence: 7_59,sap gateway
+Sentence: 7_60,sap cloud platform
+Sentence: 7_61,sap cloud platform
+Sentence: 7_62,sap cloud platform
+Sentence: 7_63,sap cloud platform
+Sentence: 7_64,sap cp
+Sentence: 7_65,sap hana
+Sentence: 7_66,sap cloud platform
+Sentence: 7_67,sap cloud for customer
+Sentence: 7_67,sap fiori
+Sentence: 7_68,sap cloud platform
+Sentence: 7_69,sap business application studio
+Sentence: 7_70,sap cp
+Sentence: 7_71,sap hana
+Sentence: 7_72,sap hana
+Sentence: 7_73,sap hana
+Sentence: 7_74,sap hana
+Sentence: 7_75,sap hana
+Sentence: 7_77,sap business application studio
+Sentence: 7_77,sap business application studio
+Sentence: 7_78,sap cloud platform
+Sentence: 7_79,sap cloud platform
+Sentence: 7_80,sap cloud platform
+Sentence: 7_81,sap cloud platform
+Sentence: 7_82,sap cloud platform
+Sentence: 7_83,sap hana
+Sentence: 7_84,sap netweaver
+Sentence: 7_85,sap cp
+Sentence: 7_86,sap hana
+Sentence: 7_87,sap hana
+Sentence: 7_88,sap cp
+Sentence: 7_89,sap cp
+Sentence: 7_90,sap operational process intelligence
+Sentence: 7_91,sap task center
+Sentence: 7_91,sap task center
+Sentence: 7_91,sap task center
+Sentence: 7_92,sap cloud platform
+Sentence: 7_93,sap cloud platform
+Sentence: 7_94,sap cp
+Sentence: 7_95,sap fiori
+Sentence: 7_96,sap process mining
+Sentence: 7_96,sap process mining
+Sentence: 7_97,sap process mining
+Sentence: 7_98,sap netweaver
+Sentence: 7_99,sap cp
+Sentence: 7_100,sap cp
+Sentence: 7_101,sap netweaver
+Sentence: 7_102,sap process integration
+Sentence: 7_103,sap hana
+Sentence: 7_104,sap hana
+Sentence: 7_105,sap hana
+Sentence: 7_106,sap fiori
+Sentence: 7_107,sap cp
+Sentence: 7_108,sap hana
+Sentence: 7_109,sap hana
+Sentence: 7_110,sap hana
+Sentence: 7_110,sap hana
+Sentence: 7_111,sap hana
+Sentence: 7_112,sap hana
+Sentence: 7_112,sap hana
+Sentence: 7_113,sap hana
+Sentence: 7_114,sap hana
+Sentence: 7_115,sap hana
+Sentence: 7_116,sap hana
+Sentence: 7_117,sap netweaver
+Sentence: 7_117,sap netweaver
+Sentence: 7_117,sap netweaver
+Sentence: 7_118,sap cloud platform
+Sentence: 7_118,sap hana
+Sentence: 7_119,sap hana
+Sentence: 7_120,sap cp
+Sentence: 7_121,sap cloud platform
+Sentence: 7_122,sap cloud platform
+Sentence: 7_123,sap cloud platform
+Sentence: 7_123,sap cloud platform
+Sentence: 7_124,sap cloud platform
+Sentence: 7_125,sap cloud platform
+Sentence: 7_126,sap cloud platform
+Sentence: 7_127,sap cloud platform
+Sentence: 7_128,sap netweaver
+Sentence: 7_129,sap hana
+Sentence: 7_130,sap cloud platform
+Sentence: 7_131,sap cp
+Sentence: 7_132,sap cp
+Sentence: 7_133,sap cp
+Sentence: 7_134,sap cloud platform
+Sentence: 7_136,sap solution manager
+Sentence: 7_136,sap cp
+Sentence: 7_137,sap operational process intelligence
+Sentence: 7_138,sap netweaver
+Sentence: 7_139,sap netweaver
+Sentence: 7_140,sap fiori
+Sentence: 7_140,sap fiori
+Sentence: 7_140,sap fiori
+Sentence: 7_141,sap operational process intelligence
+Sentence: 7_141,sap hana
+Sentence: 7_143,sap cloud platform
+Sentence: 7_143,sap cloud platform
+Sentence: 7_144,sap cloud platform
+Sentence: 7_144,sap cloud platform
+Sentence: 7_145,sap netweaver
+Sentence: 7_145,sap netweaver
+Sentence: 7_145,sap netweaver
+Sentence: 7_146,sap application interface framework
+Sentence: 7_147,sap cloud platform
+Sentence: 7_147,sap cloud platform
+Sentence: 7_148,sap hana
+Sentence: 7_149,sap graph
+Sentence: 7_150,sap cp
+Sentence: 7_151,sap cp
+Sentence: 7_152,sap netweaver
+Sentence: 7_153,sap cp
+Sentence: 7_154,sap cp
+Sentence: 7_155,sap cloud platform
+Sentence: 7_156,sap cloud platform
+Sentence: 7_156,sap cloud platform
+Sentence: 7_156,sap cloud platform
+Sentence: 7_157,sap operational process intelligence
+Sentence: 7_157,sap process mining
+Sentence: 7_158,sap cloud platform
+Sentence: 7_158,sap cloud platform
+Sentence: 7_159,sap cloud platform
+Sentence: 7_159,sap hana
+Sentence: 7_159,sap cloud platform
+Sentence: 7_160,sap cloud platform
+Sentence: 7_160,sap cloud platform
+Sentence: 7_160,sap cloud platform
+Sentence: 7_160,sap operational process intelligence
+Sentence: 7_161,sap process mining
+Sentence: 7_161,sap cloud platform
+Sentence: 7_161,sap cloud platform
+Sentence: 7_162,sap cloud platform
+Sentence: 7_162,sap cloud platform
+Sentence: 7_163,sap cp
+Sentence: 7_164,sap cloud platform
+Sentence: 7_165,sap cloud platform
+Sentence: 7_166,sap cloud platform
+Sentence: 7_167,sap fiori
+Sentence: 7_168,sap cp
+Sentence: 7_168,sap fiori
+Sentence: 7_169,sap hana
+Sentence: 7_170,sap hana
+Sentence: 7_171,sap cp
+Sentence: 7_172,sap fiori
+Sentence: 7_173,sap cp
+Sentence: 7_174,sap cp
+Sentence: 7_175,sap fiori
+Sentence: 7_176,sap hana
+Sentence: 7_177,sap fiori
+Sentence: 7_178,sap fiori
+Sentence: 7_179,sap hana
+Sentence: 7_180,sap hana
+Sentence: 7_181,sap hybris
+Sentence: 7_182,sap hana
+Sentence: 7_183,sap hana
+Sentence: 7_184,sap cp
+Sentence: 7_185,sap hana
+Sentence: 7_185,sap ase
+Sentence: 7_185,sap hana
+Sentence: 7_186,sap cloud platform
+Sentence: 7_187,sap hana
+Sentence: 7_187,sap hana
+Sentence: 7_187,sap hana
+Sentence: 7_188,sap hana
+Sentence: 7_189,sap hana
+Sentence: 7_190,sap operational process intelligence
+Sentence: 7_191,sap cloud platform
+Sentence: 7_192,sap hana
+Sentence: 7_193,sap hana
+Sentence: 7_194,sap hana
+Sentence: 7_195,sap business application studio
+Sentence: 7_196,sap cp
+Sentence: 7_197,sap hana
+Sentence: 7_198,sap fiori
+Sentence: 7_199,sap hana
+Sentence: 7_200,sap netweaver
+Sentence: 7_201,sap netweaver
+Sentence: 7_202,sap cp
+Sentence: 7_203,sap cloud platform
+Sentence: 7_204,sap hana
+Sentence: 7_205,sap process integration
+Sentence: 7_206,sap process integration
+Sentence: 7_206,sap hana
+Sentence: 7_207,sap process integration
+Sentence: 7_207,sap hana
+Sentence: 7_208,sap hana
+Sentence: 7_209,sap netweaver
+Sentence: 7_210,sap netweaver
+Sentence: 7_210,sap netweaver
+Sentence: 7_210,sap netweaver
+Sentence: 7_211,sap netweaver
+Sentence: 7_211,sap netweaver
+Sentence: 7_211,sap netweaver
+Sentence: 7_211,sap netweaver
+Sentence: 7_211,sap netweaver
+Sentence: 7_212,sap netweaver
+Sentence: 7_212,sap netweaver
+Sentence: 7_212,sap netweaver
+Sentence: 7_212,sap netweaver
+Sentence: 7_212,sap netweaver
+Sentence: 7_213,sap netweaver
+Sentence: 7_213,sap netweaver
+Sentence: 7_213,sap netweaver
+Sentence: 7_213,sap netweaver
+Sentence: 7_213,sap netweaver
+Sentence: 7_213,sap netweaver
+Sentence: 7_214,sap netweaver
+Sentence: 7_214,sap netweaver
+Sentence: 7_214,sap netweaver
+Sentence: 7_214,sap netweaver
+Sentence: 7_214,sap netweaver
+Sentence: 7_215,sap netweaver
+Sentence: 7_215,sap netweaver
+Sentence: 7_216,sap netweaver
+Sentence: 7_216,sap netweaver
+Sentence: 7_217,sap netweaver
+Sentence: 7_218,sap netweaver
+Sentence: 7_219,sap netweaver
+Sentence: 7_220,sap netweaver
+Sentence: 7_221,sap netweaver
+Sentence: 7_222,sap netweaver
+Sentence: 7_223,sap netweaver
+Sentence: 7_224,sap netweaver
+Sentence: 7_225,sap netweaver
+Sentence: 7_226,sap netweaver
+Sentence: 7_227,sap netweaver
+Sentence: 7_227,sap netweaver
+Sentence: 7_228,sap netweaver
+Sentence: 7_229,sap netweaver
+Sentence: 7_230,sap netweaver
+Sentence: 7_231,sap netweaver
+Sentence: 7_232,sap cp
+Sentence: 7_233,sap cp
+Sentence: 7_234,sap hana
+Sentence: 7_235,sap netweaver
+Sentence: 7_236,sap netweaver
+Sentence: 7_237,sap hana
+Sentence: 7_238,sap cloud platform
+Sentence: 7_239,sap cloud platform
+Sentence: 7_240,sap cloud platform
+Sentence: 7_241,sap cloud platform
+Sentence: 7_242,sap cloud platform
+Sentence: 7_243,sap cloud platform
+Sentence: 7_244,sap cloud platform
+Sentence: 7_245,sap cloud platform
+Sentence: 7_246,sap cloud platform
+Sentence: 7_246,sap cloud platform
+Sentence: 7_247,sap cloud platform
+Sentence: 7_248,sap cloud platform
+Sentence: 7_249,sap cp
+Sentence: 7_250,sap cp
+Sentence: 7_251,sap gateway
+Sentence: 7_252,sap hana
+Sentence: 7_253,sap cp
+Sentence: 7_255,sap cloud platform
+Sentence: 7_255,sap operational process intelligence
+Sentence: 7_256,sap fiori
+Sentence: 7_257,sap netweaver
+Sentence: 7_257,sap netweaver
+Sentence: 7_258,sap gateway
+Sentence: 7_258,sap cloud platform
+Sentence: 7_258,sap cloud platform
+Sentence: 7_259,sap cloud platform
+Sentence: 7_260,sap cloud platform
+Sentence: 7_260,sap cp
+Sentence: 7_261,sap hana
+Sentence: 7_261,sap cloud platform
+Sentence: 7_262,sap cloud platform
+Sentence: 7_263,sap cloud platform
+Sentence: 7_263,sap cloud platform
+Sentence: 7_264,sap cloud platform
+Sentence: 7_264,sap cloud platform
+Sentence: 7_265,sap netweaver
+Sentence: 7_266,sap hana
+Sentence: 7_267,sap hana
+Sentence: 7_268,sap cp
+Sentence: 7_269,sap cp
+Sentence: 7_270,sap cloud platform
+Sentence: 7_271,sap cloud platform
+Sentence: 7_271,sap cloud platform
+Sentence: 7_271,sap cloud platform
+Sentence: 7_272,sap hana
+Sentence: 7_273,sap hana
+Sentence: 7_274,sap hana
+Sentence: 7_274,sap hana
+Sentence: 7_275,sap hana
+Sentence: 7_276,sap hana
+Sentence: 7_277,sap hana
+Sentence: 7_278,sap hana
+Sentence: 7_279,sap hana
+Sentence: 7_280,sap operational process intelligence
+Sentence: 7_281,sap cp
+Sentence: 7_282,sap hana
+Sentence: 7_283,sap convergent charging
+Sentence: 7_284,sap cp
+Sentence: 7_285,sap fiori
+Sentence: 7_286,sap cp
+Sentence: 7_287,sap operational process intelligence
+Sentence: 7_288,sap netweaver
+Sentence: 7_289,sap hana
+Sentence: 7_290,sap hana
+Sentence: 7_291,sap erp
+Sentence: 7_292,sap erp
+Sentence: 7_294,sap erp
+Sentence: 7_295,sap erp
+Sentence: 7_296,sap erp
+Sentence: 7_296,sap erp
+Sentence: 7_298,sap erp
+Sentence: 7_298,sap netweaver
+Sentence: 8_1,sap cloud platform
+Sentence: 8_2,sap fiori
+Sentence: 8_3,sap hana
+Sentence: 8_4,sap hana
+Sentence: 8_5,sap netweaver
+Sentence: 8_5,sap gateway
+Sentence: 8_6,sap cp
+Sentence: 8_7,sap business application studio
+Sentence: 8_8,sap cp
+Sentence: 8_9,sap cp
+Sentence: 8_9,sap cp
+Sentence: 8_10,sap cloud platform
+Sentence: 8_10,sap cloud platform
+Sentence: 8_11,sap cloud platform
+Sentence: 8_11,sap cloud platform
+Sentence: 8_12,sap cloud platform
+Sentence: 8_13,sap cloud platform
+Sentence: 8_14,sap cloud platform
+Sentence: 8_15,sap cloud platform
+Sentence: 8_16,sap cloud platform
+Sentence: 8_17,sap cloud platform
+Sentence: 8_18,sap cloud platform
+Sentence: 8_19,sap cloud platform
+Sentence: 8_20,sap cloud platform
+Sentence: 8_21,sap cloud platform
+Sentence: 8_22,sap cloud platform
+Sentence: 8_23,sap cloud platform
+Sentence: 8_23,sap cloud platform
+Sentence: 8_24,sap cloud platform
+Sentence: 8_25,sap gateway
+Sentence: 8_26,sap gateway
+Sentence: 8_27,sap cloud platform
+Sentence: 8_28,sap cloud platform
+Sentence: 8_29,sap cloud platform
+Sentence: 8_30,sap cloud platform
+Sentence: 8_31,sap business application studio
+Sentence: 8_31,sap business application studio
+Sentence: 8_32,sap cp
+Sentence: 8_33,sap fiori
+Sentence: 8_33,sap fiori
+Sentence: 8_34,sap cloud platform
+Sentence: 8_35,sap netweaver
+Sentence: 8_36,sap netweaver
+Sentence: 8_37,sap cloud platform
+Sentence: 8_38,sap fiori
+Sentence: 8_39,sap fiori
+Sentence: 8_40,sap business application studio
+Sentence: 8_41,sap hana
+Sentence: 8_42,sap hana
+Sentence: 8_43,sap hana
+Sentence: 8_44,sap hana
+Sentence: 8_45,sap netweaver
+Sentence: 8_46,sap netweaver
+Sentence: 8_47,sap netweaver
+Sentence: 8_48,sap netweaver
+Sentence: 8_49,sap netweaver
+Sentence: 8_49,sap netweaver
+Sentence: 8_50,sap netweaver
+Sentence: 8_50,sap netweaver
+Sentence: 8_50,sap netweaver
+Sentence: 8_51,sap netweaver
+Sentence: 8_52,sap netweaver
+Sentence: 8_53,sap netweaver
+Sentence: 8_53,sap netweaver
+Sentence: 8_54,sap netweaver
+Sentence: 8_55,sap netweaver
+Sentence: 8_56,sap netweaver
+Sentence: 8_57,sap netweaver
+Sentence: 8_58,sap netweaver
+Sentence: 8_59,sap netweaver
+Sentence: 8_60,sap netweaver
+Sentence: 8_61,sap netweaver
+Sentence: 8_62,sap hana
+Sentence: 8_63,sap hana
+Sentence: 8_64,sap hana
+Sentence: 8_65,sap fiori
+Sentence: 8_66,sap cloud platform
+Sentence: 8_67,sap hana
+Sentence: 8_68,sap netweaver
+Sentence: 8_69,sap netweaver
+Sentence: 8_70,sap netweaver
+Sentence: 8_71,sap fiori
+Sentence: 8_72,sap cloud platform
+Sentence: 8_72,sap cloud platform
+Sentence: 8_74,sap cloud platform
+Sentence: 8_74,sap cloud platform
+Sentence: 8_74,sap cloud platform
+Sentence: 8_75,sap cloud platform
+Sentence: 8_76,sap cloud platform
+Sentence: 8_76,sap cloud platform
+Sentence: 8_77,sap cp
+Sentence: 8_78,sap cp
+Sentence: 8_78,sap cp
+Sentence: 8_79,sap cp
+Sentence: 8_79,sap cp
+Sentence: 8_80,sap gateway
+Sentence: 8_81,sap netweaver
+Sentence: 8_81,sap gateway
+Sentence: 8_82,sap cloud platform
+Sentence: 8_83,sap cloud platform
+Sentence: 8_83,sap cloud platform
+Sentence: 8_84,sap cloud platform
+Sentence: 8_85,sap operational process intelligence
+Sentence: 8_86,sap api business hub
+Sentence: 8_87,sap hana
+Sentence: 8_88,sap hana
+Sentence: 8_89,sap hana
+Sentence: 8_89,sap cloud connector
+Sentence: 8_89,sap cloud connector
+Sentence: 8_90,sap cloud connector
+Sentence: 8_91,sap hana
+Sentence: 8_92,sap hana
+Sentence: 8_93,sap hana
+Sentence: 8_94,sap cp
+Sentence: 8_95,sap cp
+Sentence: 8_96,sap cp
+Sentence: 8_97,sap cp
+Sentence: 8_98,sap cp
+Sentence: 8_99,sap cp
+Sentence: 8_100,sap fiori
+Sentence: 8_101,sap fiori
+Sentence: 8_102,sap fiori
+Sentence: 8_103,sap fiori
+Sentence: 8_104,sap netweaver
+Sentence: 8_104,sap netweaver
+Sentence: 8_105,sap netweaver
+Sentence: 8_106,sap netweaver
+Sentence: 8_107,sap cloud platform
+Sentence: 8_108,sap cloud platform
+Sentence: 8_109,sap cp
+Sentence: 8_110,sap cloud platform
+Sentence: 8_110,sap cloud platform
+Sentence: 8_111,sap cloud platform
+Sentence: 8_112,sap cp
+Sentence: 8_113,sap cp
+Sentence: 8_114,sap hana
+Sentence: 8_115,sap netweaver
+Sentence: 8_116,sap netweaver
+Sentence: 8_116,sap gateway
+Sentence: 8_117,sap cp
+Sentence: 8_118,sap netweaver
+Sentence: 8_118,sap netweaver
+Sentence: 8_119,sap cloud platform
+Sentence: 8_120,sap cp
+Sentence: 8_121,sap cp
+Sentence: 8_122,sap cp
+Sentence: 8_123,sap hana
+Sentence: 8_124,sap hana
+Sentence: 8_125,sap hana
+Sentence: 8_126,sap cloud platform
+Sentence: 8_127,sap hana
+Sentence: 8_128,sap hana
+Sentence: 8_129,sap gateway
+Sentence: 8_130,sap gateway
+Sentence: 8_131,sap gateway
+Sentence: 8_132,sap cp
+Sentence: 8_132,sap cp
+Sentence: 8_132,sap cp
+Sentence: 8_132,sap cp
+Sentence: 8_133,sap cp
+Sentence: 8_134,sap process integration
+Sentence: 8_135,sap hana
+Sentence: 8_136,sap hana
+Sentence: 8_137,sap hana
+Sentence: 8_138,sap hana
+Sentence: 8_139,sap netweaver
+Sentence: 8_141,sap operational process intelligence
+Sentence: 8_141,sap netweaver
+Sentence: 8_142,sap operational process intelligence
+Sentence: 8_143,sap cloud platform
+Sentence: 8_144,sap api business hub
+Sentence: 8_145,sap cp
+Sentence: 8_146,sap operational process intelligence
+Sentence: 8_147,sap hana
+Sentence: 8_148,sap cloud platform
+Sentence: 8_149,sap cloud platform
+Sentence: 8_149,sap cloud platform
+Sentence: 8_150,sap cloud platform
+Sentence: 8_151,sap cloud platform
+Sentence: 8_152,sap cloud platform
+Sentence: 8_153,sap cloud platform
+Sentence: 8_154,sap operational process intelligence
+Sentence: 8_155,sap hana
+Sentence: 8_156,sap hana
+Sentence: 8_157,sap hana
+Sentence: 8_158,sap hana
+Sentence: 8_159,sap gateway
+Sentence: 8_159,sap gateway
+Sentence: 8_160,sap gateway
+Sentence: 8_160,sap gateway
+Sentence: 8_161,sap hana
+Sentence: 8_162,sap cloud platform
+Sentence: 8_163,sap cp
+Sentence: 8_164,sap netweaver
+Sentence: 8_165,sap netweaver
+Sentence: 8_166,sap cloud connector
+Sentence: 8_167,sap cloud platform
+Sentence: 8_169,sap cloud connector
+Sentence: 8_169,sap cloud platform
+Sentence: 8_170,sap cloud platform
+Sentence: 8_171,sap netweaver
+Sentence: 8_171,sap netweaver
+Sentence: 8_172,sap netweaver
+Sentence: 8_173,sap netweaver
+Sentence: 8_173,sap netweaver
+Sentence: 8_174,sap netweaver
+Sentence: 8_175,sap netweaver
+Sentence: 8_176,sap netweaver
+Sentence: 8_177,sap netweaver
+Sentence: 8_178,sap netweaver
+Sentence: 8_179,sap netweaver
+Sentence: 8_180,sap netweaver
+Sentence: 8_181,sap netweaver
+Sentence: 8_182,sap netweaver
+Sentence: 8_183,sap hana
+Sentence: 8_184,sap ecc
+Sentence: 8_186,sap fiori
+Sentence: 8_186,sap fiori
+Sentence: 8_187,sap fiori
+Sentence: 8_188,sap cp
+Sentence: 8_189,sap netweaver
+Sentence: 8_190,sap netweaver
+Sentence: 8_191,sap operational process intelligence
+Sentence: 8_192,sap hana
+Sentence: 8_192,sap hana
+Sentence: 8_193,sap cloud platform
+Sentence: 8_194,sap netweaver
+Sentence: 8_194,sap netweaver
+Sentence: 8_195,sap netweaver
+Sentence: 8_196,sap netweaver
+Sentence: 8_196,sap netweaver
+Sentence: 8_197,sap hana
+Sentence: 8_198,sap netweaver
+Sentence: 8_199,sap netweaver
+Sentence: 8_200,sap netweaver
+Sentence: 8_201,sap netweaver
+Sentence: 8_202,sap netweaver
+Sentence: 8_203,sap netweaver
+Sentence: 8_204,sap netweaver
+Sentence: 8_205,sap netweaver
+Sentence: 8_206,sap netweaver
+Sentence: 8_207,sap netweaver
+Sentence: 8_207,sap netweaver
+Sentence: 8_208,sap netweaver
+Sentence: 8_209,sap netweaver
+Sentence: 8_210,sap netweaver
+Sentence: 8_211,sap netweaver
+Sentence: 8_212,sap operational process intelligence
+Sentence: 8_213,sap hana
+Sentence: 8_214,sap hana
+Sentence: 8_215,sap api business hub
+Sentence: 8_216,sap api business hub
+Sentence: 8_217,sap api business hub
+Sentence: 8_218,sap cp
+Sentence: 8_219,sap cp
+Sentence: 8_220,sap cp
+Sentence: 8_221,sap cp
+Sentence: 8_222,sap cp
+Sentence: 8_223,sap cp
+Sentence: 8_224,sap cp
+Sentence: 8_225,sap hana
+Sentence: 8_226,sap hana
+Sentence: 8_227,sap fiori
+Sentence: 8_228,sap fiori
+Sentence: 8_229,sap cloud platform
+Sentence: 8_230,sap hana
+Sentence: 8_231,sap netweaver
+Sentence: 8_232,sap netweaver
+Sentence: 8_233,sap operational process intelligence
+Sentence: 8_233,sap hana
+Sentence: 8_234,sap operational process intelligence
+Sentence: 8_234,sap hana
+Sentence: 8_235,sap operational process intelligence
+Sentence: 8_235,sap hana
+Sentence: 8_236,sap operational process intelligence
+Sentence: 8_236,sap hana
+Sentence: 8_237,sap operational process intelligence
+Sentence: 8_237,sap hana
+Sentence: 8_238,sap cloud platform
+Sentence: 8_239,sap hana
+Sentence: 8_240,sap single sign on
+Sentence: 8_241,sap api business hub
+Sentence: 8_242,sap cp
+Sentence: 8_243,sap cp
+Sentence: 8_243,sap cp
+Sentence: 8_244,sap hana
+Sentence: 8_245,sap web ide
+Sentence: 8_246,sap fiori
+Sentence: 8_247,sap hana
+Sentence: 8_248,sap hana
+Sentence: 8_249,sap hana
+Sentence: 8_250,sap task center
+Sentence: 8_250,sap task center
+Sentence: 9_1,sap netweaver
+Sentence: 9_2,sap hana
+Sentence: 9_3,sap hana
+Sentence: 9_3,sap hana
+Sentence: 9_4,sap hana
+Sentence: 9_5,sap hana
+Sentence: 9_6,sap hana
+Sentence: 9_7,sap cloud platform
+Sentence: 9_8,sap hana
+Sentence: 9_9,sap netweaver
+Sentence: 9_10,sap cloud platform
+Sentence: 9_11,sap cloud platform
+Sentence: 9_13,sap cloud platform
+Sentence: 9_13,sap cloud platform
+Sentence: 9_14,sap hana
+Sentence: 9_15,sap hana
+Sentence: 9_16,sap hana
+Sentence: 9_17,sap hana
+Sentence: 9_18,sap hana
+Sentence: 9_19,sap hana
+Sentence: 9_20,sap netweaver
+Sentence: 9_21,sap cloud platform
+Sentence: 9_22,sap cloud platform
+Sentence: 9_23,sap web ide
+Sentence: 9_24,sap api business hub
+Sentence: 9_25,sap cp
+Sentence: 9_25,sap cloud platform
+Sentence: 9_26,sap netweaver
+Sentence: 9_27,sap netweaver
+Sentence: 9_27,sap operational process intelligence
+Sentence: 9_28,sap operational process intelligence
+Sentence: 9_29,sap hana
+Sentence: 9_30,sap hana
+Sentence: 9_31,sap hana
+Sentence: 9_31,sap hana
+Sentence: 9_32,sap hana
+Sentence: 9_33,sap hana
+Sentence: 9_34,sap hana
+Sentence: 9_35,sap lt replication server
+Sentence: 9_35,sap lt replication server
+Sentence: 9_35,sap hana
+Sentence: 9_36,sap lt replication server
+Sentence: 9_38,sap lt replication server
+Sentence: 9_38,sap cp
+Sentence: 9_39,sap cp
+Sentence: 9_40,sap cloud platform
+Sentence: 9_41,sap api business hub
+Sentence: 9_42,sap hana
+Sentence: 9_42,sap hana
+Sentence: 9_43,sap mii
+Sentence: 9_44,sap cloud platform
+Sentence: 9_45,sap cp
+Sentence: 9_45,sap cp
+Sentence: 9_45,sap cp
+Sentence: 9_46,sap cp
+Sentence: 9_46,sap hana
+Sentence: 9_47,sap hana
+Sentence: 9_48,sap hana
+Sentence: 9_49,sap hana
+Sentence: 9_50,sap hana
+Sentence: 9_51,sap cloud platform
+Sentence: 9_52,sap cloud platform
+Sentence: 9_53,sap cloud platform
+Sentence: 9_54,sap cloud platform
+Sentence: 9_55,sap gateway
+Sentence: 9_56,sap cloud platform
+Sentence: 9_57,sap gateway
+Sentence: 9_58,sap copilot
+Sentence: 9_58,sap copilot
+Sentence: 9_59,sap copilot
+Sentence: 9_61,sap cp
+Sentence: 9_61,sap cp
+Sentence: 9_62,sap cloud platform
+Sentence: 9_62,sap cloud platform
+Sentence: 9_62,sap cloud platform
+Sentence: 9_62,sap process mining
+Sentence: 9_62,sap operational process intelligence
+Sentence: 9_63,sap fiori
+Sentence: 9_63,sap fiori
+Sentence: 9_64,sap task center
+Sentence: 9_64,sap task center
+Sentence: 9_65,sap task center
+Sentence: 9_65,sap task center
+Sentence: 9_66,sap hana
+Sentence: 9_67,sap netweaver
+Sentence: 9_67,sap netweaver
+Sentence: 9_68,sap netweaver
+Sentence: 9_69,sap netweaver
+Sentence: 9_70,sap netweaver
+Sentence: 9_71,sap netweaver
+Sentence: 9_71,sap netweaver
+Sentence: 9_72,sap netweaver
+Sentence: 9_73,sap hana
+Sentence: 9_74,sap netweaver
+Sentence: 9_75,sap netweaver
+Sentence: 9_76,sap netweaver
+Sentence: 9_77,sap netweaver
+Sentence: 9_78,sap cp
+Sentence: 9_79,sap cloud platform
+Sentence: 9_80,sap cloud platform
+Sentence: 9_81,sap cloud platform
+Sentence: 9_82,sap cloud platform
+Sentence: 9_83,sap cloud platform
+Sentence: 9_84,sap cloud platform
+Sentence: 9_85,sap cp
+Sentence: 9_86,sap cp
+Sentence: 9_87,sap hana
+Sentence: 9_88,sap hana
+Sentence: 9_88,sap hana
+Sentence: 9_89,sap cp
+Sentence: 9_90,sap hana
+Sentence: 9_91,sap cloud platform
+Sentence: 9_91,sap cloud platform
+Sentence: 9_92,sap hana
+Sentence: 9_93,sap cloud platform
+Sentence: 9_94,sap fiori
+Sentence: 9_95,sap fiori
+Sentence: 9_96,sap fiori
+Sentence: 9_97,sap fiori
+Sentence: 9_98,sap hana
+Sentence: 9_99,sap netweaver
+Sentence: 9_99,sap netweaver
+Sentence: 9_100,sap hana
+Sentence: 9_101,sap hana
+Sentence: 9_103,sap hana
+Sentence: 9_103,sap hana
+Sentence: 9_104,sap fiori
+Sentence: 9_105,sap fiori
+Sentence: 9_106,sap fiori
+Sentence: 9_107,sap fiori
+Sentence: 9_108,sap fiori
+Sentence: 9_109,sap fiori
+Sentence: 9_110,sap hana
+Sentence: 9_111,sap netweaver
+Sentence: 9_112,sap netweaver
+Sentence: 9_113,sap netweaver
+Sentence: 9_114,sap netweaver
+Sentence: 9_115,sap netweaver
+Sentence: 9_116,sap operational process intelligence
+Sentence: 9_117,sap hana
+Sentence: 9_118,sap hana
+Sentence: 9_119,sap operational process intelligence
+Sentence: 9_120,sap netweaver
+Sentence: 9_120,sap netweaver
+Sentence: 9_120,sap netweaver
+Sentence: 9_120,sap netweaver
+Sentence: 9_120,sap netweaver
+Sentence: 9_121,sap netweaver
+Sentence: 9_121,sap netweaver
+Sentence: 9_122,sap netweaver
+Sentence: 9_123,sap cloud platform
+Sentence: 9_124,sap cp
+Sentence: 9_125,sap hana
+Sentence: 9_126,sap cp
+Sentence: 9_127,sap cp
+Sentence: 9_128,sap cp
+Sentence: 9_129,sap cp
+Sentence: 9_130,sap cp
+Sentence: 9_131,sap cp
+Sentence: 9_132,sap cp
+Sentence: 9_133,sap cp
+Sentence: 9_134,sap cp
+Sentence: 9_135,sap cp
+Sentence: 9_136,sap cp
+Sentence: 9_137,sap cloud platform
+Sentence: 9_139,sap erp
+Sentence: 9_139,sap hana
+Sentence: 9_140,sap hana
+Sentence: 9_140,sap hana
+Sentence: 9_141,sap hana
+Sentence: 9_142,sap hana
+Sentence: 9_142,sap hana
+Sentence: 9_142,sap hana
+Sentence: 9_142,sap hana
+Sentence: 9_143,sap hana
+Sentence: 9_144,sap cp
+Sentence: 9_145,sap cloud platform
+Sentence: 9_146,sap cp
+Sentence: 9_147,sap cp
+Sentence: 9_148,sap cp
+Sentence: 9_149,sap cp
+Sentence: 9_150,sap cp
+Sentence: 9_151,sap cp
+Sentence: 9_152,sap cloud platform
+Sentence: 9_154,sap cloud platform
+Sentence: 9_154,sap cloud platform
+Sentence: 9_155,sap cloud platform
+Sentence: 9_156,sap cp
+Sentence: 9_157,sap cloud platform
+Sentence: 9_158,sap cloud platform
+Sentence: 9_159,sap cp
+Sentence: 9_160,sap cp
+Sentence: 9_161,sap cp
+Sentence: 9_162,sap hana
+Sentence: 9_163,sap hana
+Sentence: 9_163,sap hana
+Sentence: 9_164,sap hana
+Sentence: 9_165,sap hana
+Sentence: 9_166,sap web ide
+Sentence: 9_167,sap cp
+Sentence: 9_168,sap netweaver
+Sentence: 9_169,sap business application studio
+Sentence: 9_170,sap business application studio
+Sentence: 9_170,sap cp
+Sentence: 9_171,sap cp
+Sentence: 9_172,sap hana
+Sentence: 9_173,sap hana
+Sentence: 9_174,sap hana
+Sentence: 9_175,sap hana
+Sentence: 9_176,sap cp
+Sentence: 9_177,sap cloud platform
+Sentence: 9_178,sap cp
+Sentence: 9_179,sap cp
+Sentence: 9_180,sap cp
+Sentence: 9_181,sap cloud platform
+Sentence: 9_182,sap business application studio
+Sentence: 9_183,sap hana
+Sentence: 9_184,sap netweaver
+Sentence: 9_186,sap hana
+Sentence: 9_186,sap fiori
+Sentence: 9_186,sap hana
+Sentence: 9_187,sap hana
+Sentence: 9_187,sap hana
+Sentence: 9_188,sap fiori
+Sentence: 9_188,sap hana
+Sentence: 9_189,sap fiori
+Sentence: 9_189,sap hana
+Sentence: 9_190,sap cloud platform
+Sentence: 9_191,sap cloud platform
+Sentence: 9_192,sap cloud platform
+Sentence: 9_193,sap fiori
+Sentence: 9_194,sap fiori
+Sentence: 9_195,sap fiori
+Sentence: 9_196,sap cloud platform
+Sentence: 9_197,sap hana
+Sentence: 9_198,sap operational process intelligence
+Sentence: 9_200,sap operational process intelligence
+Sentence: 9_200,sap operational process intelligence
+Sentence: 9_201,sap operational process intelligence
+Sentence: 9_203,sap operational process intelligence
+Sentence: 9_203,sap cloud platform
+Sentence: 9_204,sap hana
+Sentence: 9_205,sap netweaver
+Sentence: 9_206,sap netweaver
+Sentence: 9_207,sap netweaver
+Sentence: 9_207,sap netweaver
+Sentence: 9_208,sap netweaver
+Sentence: 9_208,sap fiori
+Sentence: 9_209,sap netweaver
+Sentence: 9_210,sap hana
+Sentence: 9_211,sap hana
+Sentence: 9_212,sap hana
+Sentence: 9_213,sap hana
+Sentence: 9_214,sap operational process intelligence
+Sentence: 9_215,sap cloud platform
+Sentence: 9_216,sap cloud platform
+Sentence: 9_217,sap netweaver
+Sentence: 9_217,sap netweaver
+Sentence: 9_218,sap hana
+Sentence: 9_219,sap netweaver
+Sentence: 9_220,sap operational process intelligence
+Sentence: 9_221,sap hana
+Sentence: 9_221,sap ase
+Sentence: 9_222,sap cloud platform
+Sentence: 9_223,sap netweaver
+Sentence: 9_224,sap web ide
+Sentence: 9_225,sap web ide
+Sentence: 9_226,sap cp
+Sentence: 9_226,sap cp
+Sentence: 9_227,sap web ide
+Sentence: 9_228,sap web ide
+Sentence: 9_229,sap cp
+Sentence: 9_230,sap cp
+Sentence: 9_230,sap cp
+Sentence: 9_232,sap cp
+Sentence: 9_233,sap cp
+Sentence: 9_233,sap cloud platform
+Sentence: 9_234,sap cp
+Sentence: 9_235,sap cp
+Sentence: 9_236,sap cp
+Sentence: 9_237,sap cp
+Sentence: 9_238,sap cp
+Sentence: 9_239,sap cp
+Sentence: 9_240,sap cp
+Sentence: 9_241,sap cp
+Sentence: 9_242,sap cp
+Sentence: 9_243,sap cp
+Sentence: 9_244,sap cp
+Sentence: 9_245,sap cloud platform
+Sentence: 9_246,sap hana
+Sentence: 9_247,sap cloud platform
+Sentence: 9_249,sap cloud platform
+Sentence: 9_249,sap cloud platform
+Sentence: 9_250,sap cloud platform
+Sentence: 9_251,sap cp
+Sentence: 9_251,sap cloud platform
+Sentence: 9_252,sap cloud platform
+Sentence: 9_253,sap business application studio
+Sentence: 9_253,sap fiori
+Sentence: 9_254,sap fiori
+Sentence: 9_255,sap cloud platform
+Sentence: 9_256,sap fiori
+Sentence: 9_257,sap fiori
+Sentence: 9_258,sap fiori
+Sentence: 9_259,sap fiori
+Sentence: 9_260,sap fiori
+Sentence: 9_261,sap fiori
+Sentence: 9_262,sap fiori
+Sentence: 9_263,sap fiori
+Sentence: 9_264,sap fiori
+Sentence: 9_264,sap fiori
+Sentence: 9_264,sap fiori
+Sentence: 9_265,sap hana
+Sentence: 9_265,sap hana
+Sentence: 9_266,sap hana
+Sentence: 9_268,sap hana
+Sentence: 9_268,sap hana
+Sentence: 9_269,sap hana
+Sentence: 9_270,sap cp
+Sentence: 9_271,sap netweaver
+Sentence: 9_271,sap gateway
+Sentence: 9_272,sap cloud platform
+Sentence: 9_274,sap cloud platform
+Sentence: 9_274,sap cloud platform
+Sentence: 9_275,sap hana
+Sentence: 9_275,sap hana
+Sentence: 9_276,sap hana
+Sentence: 9_277,sap operational process intelligence
+Sentence: 9_277,sap hana
+Sentence: 9_278,sap hana
+Sentence: 9_279,sap hana
+Sentence: 10_1,sap cloud platform
+Sentence: 10_2,sap cloud platform
+Sentence: 10_3,sap hana
+Sentence: 10_4,sap hana
+Sentence: 10_5,sap hana
+Sentence: 10_6,sap hana
+Sentence: 10_7,sap hana
+Sentence: 10_8,sap cloud platform
+Sentence: 10_8,sap cp
+Sentence: 10_9,sap cloud platform
+Sentence: 10_10,sap cloud platform
+Sentence: 10_10,sap hana
+Sentence: 10_11,sap hana
+Sentence: 10_12,sap cloud platform
+Sentence: 10_12,sap hana
+Sentence: 10_13,sap fiori
+Sentence: 10_14,sap cp
+Sentence: 10_15,sap cp
+Sentence: 10_16,sap cp
+Sentence: 10_17,sap cloud platform
+Sentence: 10_18,sap operational process intelligence
+Sentence: 10_19,sap cp
+Sentence: 10_19,sap cp
+Sentence: 10_20,sap operational process intelligence
+Sentence: 10_21,sap operational process intelligence
+Sentence: 10_22,sap hana
+Sentence: 10_23,sap operational process intelligence
+Sentence: 10_24,sap hana
+Sentence: 10_25,sap hana
+Sentence: 10_25,sap hana
+Sentence: 10_26,sap hana
+Sentence: 10_27,sap hana
+Sentence: 10_27,sap hana
+Sentence: 10_28,sap hana
+Sentence: 10_29,sap hana
+Sentence: 10_30,sap hana
+Sentence: 10_31,sap hana
+Sentence: 10_32,sap hana
+Sentence: 10_32,sap hana
+Sentence: 10_33,sap operational process intelligence
+Sentence: 10_34,sap operational process intelligence
+Sentence: 10_35,sap hana
+Sentence: 10_36,sap hana
+Sentence: 10_37,sap hana
+Sentence: 10_38,sap hana
+Sentence: 10_39,sap hana
+Sentence: 10_39,sap hana
+Sentence: 10_40,sap cloud platform
+Sentence: 10_41,sap cloud platform
+Sentence: 10_42,sap cloud platform
+Sentence: 10_43,sap netweaver
+Sentence: 10_43,sap gateway
+Sentence: 10_44,sap hana
+Sentence: 10_45,sap hana
+Sentence: 10_46,sap hana
+Sentence: 10_47,sap hana
+Sentence: 10_47,sap hana
+Sentence: 10_47,sap hana
+Sentence: 10_48,sap operational process intelligence
+Sentence: 10_49,sap hana
+Sentence: 10_50,sap cp
+Sentence: 10_51,sap hybris
+Sentence: 10_52,sap hybris
+Sentence: 10_53,sap hybris
+Sentence: 10_53,sap hybris
+Sentence: 10_53,sap hana
+Sentence: 10_53,sap hybris
+Sentence: 10_54,sap hana
+Sentence: 10_55,sap hybris
+Sentence: 10_55,sap hybris
+Sentence: 10_56,sap hana
+Sentence: 10_57,sap hybris
+Sentence: 10_57,sap hybris
+Sentence: 10_58,sap hybris
+Sentence: 10_59,sap hana
+Sentence: 10_60,sap hybris
+Sentence: 10_61,sap netweaver
+Sentence: 10_62,sap netweaver
+Sentence: 10_63,sap netweaver
+Sentence: 10_65,sap cp
+Sentence: 10_65,sap business application studio
+Sentence: 10_66,sap fiori
+Sentence: 10_67,sap operational process intelligence
+Sentence: 10_68,sap hana
+Sentence: 10_68,sap ase
+Sentence: 10_69,sap fiori
+Sentence: 10_69,sap fiori
+Sentence: 10_70,sap fiori
+Sentence: 10_71,sap fiori
+Sentence: 10_72,sap fiori
+Sentence: 10_72,sap fiori
+Sentence: 10_73,sap fiori
+Sentence: 10_73,sap fiori
+Sentence: 10_73,sap fiori
+Sentence: 10_74,sap fiori
+Sentence: 10_75,sap fiori
+Sentence: 10_75,sap fiori
+Sentence: 10_76,sap fiori
+Sentence: 10_77,sap fiori
+Sentence: 10_78,sap fiori
+Sentence: 10_79,sap fiori
+Sentence: 10_80,sap netweaver
+Sentence: 10_81,sap gateway
+Sentence: 10_82,sap hana
+Sentence: 10_83,sap cp
+Sentence: 10_84,sap cloud platform
+Sentence: 10_85,sap web ide
+Sentence: 10_86,sap hana
+Sentence: 10_87,sap hana
+Sentence: 10_88,sap hana
+Sentence: 10_89,sap hana
+Sentence: 10_90,sap netweaver
+Sentence: 10_90,sap netweaver
+Sentence: 10_90,sap netweaver
+Sentence: 10_90,sap netweaver
+Sentence: 10_91,sap netweaver
+Sentence: 10_92,sap cloud platform
+Sentence: 10_93,sap cash application
+Sentence: 10_94,sap netweaver
+Sentence: 10_94,sap gateway
+Sentence: 10_95,sap gateway
+Sentence: 10_95,sap gateway
+Sentence: 10_96,sap netweaver
+Sentence: 10_96,sap gateway
+Sentence: 10_96,sap gateway
+Sentence: 10_97,sap gateway
+Sentence: 10_98,sap fiori
+Sentence: 10_99,sap fiori
+Sentence: 10_101,sap hana
+Sentence: 10_102,sap cp
+Sentence: 10_102,sap netweaver
+Sentence: 10_103,sap cp
+Sentence: 10_104,sap cp
+Sentence: 10_105,sap cp
+Sentence: 10_106,sap cp
+Sentence: 10_107,sap cp
+Sentence: 10_108,sap cp
+Sentence: 10_109,sap cp
+Sentence: 10_110,sap cp
+Sentence: 10_110,sap cp
+Sentence: 10_111,sap cp
+Sentence: 10_112,sap cp
+Sentence: 10_113,sap cp
+Sentence: 10_114,sap cp
+Sentence: 10_115,sap cp
+Sentence: 10_116,sap netweaver
+Sentence: 10_117,sap hana
+Sentence: 10_117,sap hana
+Sentence: 10_118,sap hana
+Sentence: 10_119,sap hana
+Sentence: 10_120,sap hana
+Sentence: 10_120,sap hana
+Sentence: 10_121,sap hana
+Sentence: 10_122,sap fiori
+Sentence: 10_123,sap cloud platform
+Sentence: 10_124,sap hana
+Sentence: 10_125,sap hana
+Sentence: 10_126,sap cloud platform
+Sentence: 10_127,sap cloud platform
+Sentence: 10_128,sap hana
+Sentence: 10_129,sap cloud platform
+Sentence: 10_130,sap cloud platform
+Sentence: 10_131,sap netweaver
+Sentence: 10_131,sap netweaver
+Sentence: 10_132,sap cp
+Sentence: 10_133,sap cp
+Sentence: 10_134,sap cp
+Sentence: 10_135,sap hana
+Sentence: 10_136,sap hana
+Sentence: 10_136,sap hana
+Sentence: 10_137,sap hana
+Sentence: 10_139,sap cloud platform
+Sentence: 10_139,sap cloud platform
+Sentence: 10_140,sap cloud platform
+Sentence: 10_141,sap cp
+Sentence: 10_142,sap hana
+Sentence: 10_142,sap hana
+Sentence: 10_143,sap hana
+Sentence: 10_143,sap hana
+Sentence: 10_143,sap hana
+Sentence: 10_144,sap hana
+Sentence: 10_145,sap hana
+Sentence: 10_146,sap hana
+Sentence: 10_147,sap hana
+Sentence: 10_148,sap hana
+Sentence: 10_148,sap integrated business planning
+Sentence: 10_148,sap cloud platform
+Sentence: 10_149,sap hana
+Sentence: 10_150,sap fiori
+Sentence: 10_151,sap process integration
+Sentence: 10_152,sap process integration
+Sentence: 10_152,sap hana
+Sentence: 10_153,sap process integration
+Sentence: 10_153,sap hana
+Sentence: 10_154,sap hana
+Sentence: 10_155,sap hana
+Sentence: 10_156,sap icm
+Sentence: 10_157,sap netweaver
+Sentence: 10_158,sap icm
+Sentence: 10_159,sap hana
+Sentence: 10_160,sap cloud platform
+Sentence: 10_161,sap hana
+Sentence: 10_162,sap cloud platform
+Sentence: 10_163,sap cloud platform
+Sentence: 10_164,sap cloud platform
+Sentence: 10_165,sap cloud platform
+Sentence: 10_166,sap cloud platform
+Sentence: 10_166,sap cloud platform
+Sentence: 10_167,sap fiori
+Sentence: 10_168,sap cloud platform
+Sentence: 10_169,sap cloud platform
+Sentence: 10_170,sap cloud platform
+Sentence: 10_170,sap cloud platform
+Sentence: 10_171,sap cloud platform
+Sentence: 10_172,sap netweaver
+Sentence: 10_172,sap cloud platform
+Sentence: 10_172,sap cloud platform
+Sentence: 10_173,sap cloud platform
+Sentence: 10_173,sap cloud platform
+Sentence: 10_174,sap cloud platform
+Sentence: 10_174,sap cloud platform
+Sentence: 10_175,sap cloud platform
+Sentence: 10_176,sap cloud platform
+Sentence: 10_177,sap cloud platform
+Sentence: 10_178,sap cloud platform
+Sentence: 10_179,sap cloud platform
+Sentence: 10_180,sap cloud platform
+Sentence: 10_181,sap cloud platform
+Sentence: 10_182,sap cloud platform
+Sentence: 10_183,sap cloud platform
+Sentence: 10_184,sap cloud platform
+Sentence: 10_185,sap cloud platform
+Sentence: 10_186,sap cloud platform
+Sentence: 10_187,sap gateway
+Sentence: 10_188,sap gateway
+Sentence: 10_189,sap gateway
+Sentence: 10_190,sap gateway
+Sentence: 10_192,sap cloud platform
+Sentence: 10_192,sap cloud platform
+Sentence: 10_193,sap cloud platform
+Sentence: 10_193,sap cloud platform
+Sentence: 10_194,sap cloud platform
+Sentence: 10_195,sap cloud platform
+Sentence: 10_196,sap cloud platform
+Sentence: 10_197,sap cloud platform
+Sentence: 10_198,sap fiori
+Sentence: 10_199,sap cloud platform
+Sentence: 10_199,sap cloud platform
+Sentence: 10_200,sap fiori
+Sentence: 10_201,sap cloud platform
+Sentence: 10_202,sap cloud platform
+Sentence: 10_203,sap cloud platform
+Sentence: 10_204,sap fiori
+Sentence: 10_205,sap cloud platform
+Sentence: 10_205,sap cloud platform
+Sentence: 10_206,sap fiori
+Sentence: 10_207,sap cloud platform
+Sentence: 10_208,sap application interface framework
+Sentence: 10_209,sap cloud platform
+Sentence: 10_210,sap cloud platform
+Sentence: 10_211,sap cloud platform
+Sentence: 10_212,sap fiori
+Sentence: 10_213,sap netweaver
+Sentence: 10_214,sap cp
+Sentence: 10_215,sap operational process intelligence
+Sentence: 10_217,sap hana
+Sentence: 10_217,sap hana
+Sentence: 10_218,sap hana
+Sentence: 10_219,sap hana
+Sentence: 10_220,sap hana
+Sentence: 10_221,sap hana
+Sentence: 10_222,sap cp
+Sentence: 10_223,sap cloud platform
+Sentence: 10_224,sap netweaver
+Sentence: 10_225,sap cloud platform
+Sentence: 10_226,sap cloud platform
+Sentence: 10_226,sap operational process intelligence
+Sentence: 10_227,sap cloud platform
+Sentence: 10_228,sap netweaver
+Sentence: 10_228,sap cloud platform
+Sentence: 10_229,sap cloud platform
+Sentence: 10_230,sap netweaver
+Sentence: 10_232,sap fiori
+Sentence: 10_232,sap fiori
+Sentence: 10_233,sap fiori
+Sentence: 10_233,sap fiori
+Sentence: 10_233,sap fiori
+Sentence: 10_234,sap fiori
+Sentence: 10_235,sap fiori
+Sentence: 10_235,sap fiori
+Sentence: 10_236,sap fiori
+Sentence: 10_237,sap netweaver
+Sentence: 10_237,sap netweaver
+Sentence: 10_238,sap netweaver
+Sentence: 10_238,sap netweaver
+Sentence: 10_239,sap netweaver
+Sentence: 10_240,sap netweaver
+Sentence: 10_240,sap netweaver
+Sentence: 10_241,sap netweaver
+Sentence: 10_241,sap netweaver
+Sentence: 10_242,sap netweaver
+Sentence: 10_242,sap netweaver
+Sentence: 10_243,sap netweaver
+Sentence: 10_244,sap fiori
+Sentence: 10_245,sap fiori
+Sentence: 10_246,sap fiori
+Sentence: 10_247,sap netweaver
+Sentence: 10_248,sap netweaver
+Sentence: 10_249,sap gateway
+Sentence: 10_250,sap netweaver
+Sentence: 10_251,sap gateway
+Sentence: 10_252,sap netweaver
+Sentence: 10_252,sap gateway
+Sentence: 10_253,sap operational process intelligence
+Sentence: 10_254,sap netweaver
+Sentence: 10_254,sap netweaver
+Sentence: 10_255,sap netweaver
+Sentence: 10_256,sap netweaver
+Sentence: 10_258,sap business application studio
+Sentence: 10_258,sap cloud platform
+Sentence: 10_259,sap cloud platform
+Sentence: 10_260,sap hana
+Sentence: 10_261,sap process integration
+Sentence: 10_261,sap operational process intelligence
+Sentence: 10_262,sap hana
+Sentence: 10_262,sap cp
+Sentence: 10_263,sap cloud platform
+Sentence: 10_264,sap cloud platform
+Sentence: 10_265,sap cloud platform
+Sentence: 10_266,sap cloud platform
+Sentence: 10_267,sap fiori
+Sentence: 10_268,sap cloud platform
+Sentence: 10_268,sap cloud platform
+Sentence: 10_269,sap cloud platform
+Sentence: 10_270,sap cloud platform
+Sentence: 10_271,sap fiori
+Sentence: 10_272,sap cloud platform
+Sentence: 10_272,sap cloud platform
+Sentence: 10_273,sap cloud platform
+Sentence: 10_274,sap application interface framework
+Sentence: 10_275,sap cloud platform
+Sentence: 10_277,sap cloud platform
+Sentence: 10_277,sap cp
+Sentence: 10_279,sap cloud platform
+Sentence: 10_279,sap netweaver
+Sentence: 10_280,sap hana
+Sentence: 10_281,sap hana
+Sentence: 10_282,sap hana
+Sentence: 10_283,sap hana
+Sentence: 10_284,sap hana
+Sentence: 10_286,sap cloud platform
+Sentence: 10_286,sap cp
+Sentence: 10_287,sap cloud platform
+Sentence: 10_289,sap cp
+Sentence: 10_289,sap cp
+Sentence: 10_290,sap cp
+Sentence: 10_291,sap netweaver
+Sentence: 10_291,sap netweaver
+Sentence: 10_292,sap netweaver
+Sentence: 10_293,sap cloud platform
+Sentence: 10_294,sap cp
+Sentence: 10_295,sap hana
+Sentence: 10_296,sap hana
+Sentence: 10_297,sap hana
+Sentence: 10_297,sap hana
+Sentence: 10_298,sap cloud platform
+Sentence: 10_299,sap hana
+Sentence: 10_300,sap hana
+Sentence: 10_301,sap hana
+Sentence: 10_302,sap process integration
+Sentence: 10_304,sap api business hub
+Sentence: 10_304,sap cloud platform
+Sentence: 10_305,sap cloud platform
+Sentence: 10_305,sap cloud platform
+Sentence: 10_307,sap cloud platform
+Sentence: 10_307,sap cloud platform
+Sentence: 10_308,sap cloud platform
+Sentence: 10_309,sap cloud platform
+Sentence: 10_310,sap cloud platform
+Sentence: 10_311,sap cloud platform
+Sentence: 10_312,sap netweaver
+Sentence: 10_313,sap hana
+Sentence: 10_314,sap hana
+Sentence: 10_315,sap hana
+Sentence: 10_316,sap hana
+Sentence: 10_316,sap hana
+Sentence: 10_317,sap hana
+Sentence: 10_318,sap hana
+Sentence: 10_319,sap hana
+Sentence: 10_320,sap hana
+Sentence: 10_321,sap hana
+Sentence: 10_323,sap hana
+Sentence: 10_323,sap hana
+Sentence: 10_324,sap hana
+Sentence: 10_325,sap hana
+Sentence: 10_326,sap cp
+Sentence: 10_327,sap cp
+Sentence: 10_328,sap cp
+Sentence: 10_329,sap cp
+Sentence: 10_330,sap cp
+Sentence: 10_331,sap netweaver
+Sentence: 10_332,sap hana
+Sentence: 10_333,sap hana
+Sentence: 10_333,sap hana
+Sentence: 11_1,sap hana
+Sentence: 11_2,sap cloud platform
+Sentence: 11_3,sap fiori
+Sentence: 11_4,sap netweaver
+Sentence: 11_5,sap netweaver
+Sentence: 11_6,sap netweaver
+Sentence: 11_7,sap netweaver
+Sentence: 11_8,sap netweaver
+Sentence: 11_8,sap netweaver
+Sentence: 11_9,sap netweaver
+Sentence: 11_10,sap netweaver
+Sentence: 11_11,sap netweaver
+Sentence: 11_12,sap netweaver
+Sentence: 11_13,sap netweaver
+Sentence: 11_14,sap netweaver
+Sentence: 11_15,sap cp
+Sentence: 11_16,sap cp
+Sentence: 11_16,sap cp
+Sentence: 11_16,sap cp
+Sentence: 11_17,sap cp
+Sentence: 11_18,sap hana
+Sentence: 11_19,sap hana
+Sentence: 11_20,sap hana
+Sentence: 11_21,sap cloud platform
+Sentence: 11_21,sap cloud platform
+Sentence: 11_22,sap cloud platform
+Sentence: 11_23,sap hana
+Sentence: 11_24,sap hana
+Sentence: 11_25,sap hana
+Sentence: 11_26,sap hana
+Sentence: 11_27,sap cp
+Sentence: 11_29,sap cp
+Sentence: 11_29,sap cp
+Sentence: 11_29,sap cp
+Sentence: 11_29,sap cp
+Sentence: 11_30,sap hana
+Sentence: 11_31,sap hana
+Sentence: 11_32,sap hana
+Sentence: 11_33,sap hana
+Sentence: 11_34,sap hana
+Sentence: 11_35,sap hana
+Sentence: 11_36,sap hana
+Sentence: 11_37,sap hana
+Sentence: 11_38,sap cloud platform
+Sentence: 11_38,sap cloud platform
+Sentence: 11_39,sap cloud platform
+Sentence: 11_40,sap cp
+Sentence: 11_41,sap gateway
+Sentence: 11_42,sap hana
+Sentence: 11_43,sap gateway
+Sentence: 11_44,sap cp
+Sentence: 11_45,sap ariba procurement
+Sentence: 11_46,sap cp
+Sentence: 11_47,sap hana
+Sentence: 11_48,sap netweaver
+Sentence: 11_49,sap fiori
+Sentence: 11_50,sap cloud platform
+Sentence: 11_51,sap cloud platform
+Sentence: 11_52,sap hana
+Sentence: 11_53,sap netweaver
+Sentence: 11_54,sap netweaver
+Sentence: 11_55,sap hana
+Sentence: 11_56,sap cp
+Sentence: 11_57,sap operational process intelligence
+Sentence: 11_58,sap hana
+Sentence: 11_59,sap hana
+Sentence: 11_60,sap hana
+Sentence: 11_61,sap netweaver
+Sentence: 11_62,sap netweaver
+Sentence: 11_63,sap netweaver
+Sentence: 11_64,sap netweaver
+Sentence: 11_65,sap netweaver
+Sentence: 11_66,sap operational process intelligence
+Sentence: 11_66,sap hana
+Sentence: 11_67,sap cp
+Sentence: 11_68,sap cloud platform
+Sentence: 11_69,sap cloud platform
+Sentence: 11_70,sap cloud platform
+Sentence: 11_70,sap cloud platform
+Sentence: 11_70,sap cloud platform
+Sentence: 11_70,sap cloud platform
+Sentence: 11_71,sap cloud platform
+Sentence: 11_72,sap cp
+Sentence: 11_72,sap cloud platform
+Sentence: 11_73,sap cloud platform
+Sentence: 11_74,sap cloud platform
+Sentence: 11_75,sap cloud platform
+Sentence: 11_76,sap cloud platform
+Sentence: 11_77,sap hana
+Sentence: 11_78,sap hana
+Sentence: 11_78,sap hana
+Sentence: 11_79,sap hana
+Sentence: 11_80,sap hana
+Sentence: 11_81,sap hana
+Sentence: 11_81,sap hana
+Sentence: 11_82,sap cp
+Sentence: 11_83,sap cp
+Sentence: 11_84,sap netweaver
+Sentence: 11_85,sap netweaver
+Sentence: 11_85,sap netweaver
+Sentence: 11_86,sap netweaver
+Sentence: 11_86,sap netweaver
+Sentence: 11_86,sap netweaver
+Sentence: 11_87,sap business application studio
+Sentence: 11_88,sap business application studio
+Sentence: 11_88,sap fiori
+Sentence: 11_90,sap cloud platform
+Sentence: 11_91,sap cloud platform
+Sentence: 11_91,sap cloud platform
+Sentence: 11_92,sap cloud platform
+Sentence: 11_93,sap hana
+Sentence: 11_94,sap hana
+Sentence: 11_95,sap cloud platform
+Sentence: 11_96,sap cloud platform
+Sentence: 11_97,sap cloud platform
+Sentence: 11_98,sap cloud platform
+Sentence: 11_99,sap fiori
+Sentence: 11_100,sap hana
+Sentence: 11_100,sap hana
+Sentence: 11_102,sap hana
+Sentence: 11_102,sap hana
+Sentence: 11_103,sap hana
+Sentence: 11_104,sap cp
+Sentence: 11_105,sap cp
+Sentence: 11_105,sap cp
+Sentence: 11_106,sap api business hub
+Sentence: 11_107,sap api business hub
+Sentence: 11_108,sap api business hub
+Sentence: 11_109,sap netweaver
+Sentence: 11_110,sap netweaver
+Sentence: 11_112,sap netweaver
+Sentence: 11_112,sap api business hub
+Sentence: 11_113,sap cloud platform
+Sentence: 11_113,sap cloud platform
+Sentence: 11_114,sap cloud platform
+Sentence: 11_115,sap task center
+Sentence: 11_116,sap cloud platform
+Sentence: 11_117,sap fiori
+Sentence: 11_117,sap fiori
+Sentence: 11_118,sap netweaver
+Sentence: 11_119,sap fiori
+Sentence: 11_119,sap hana
+Sentence: 11_120,sap hana
+Sentence: 11_121,sap hana
+Sentence: 11_122,sap fiori
+Sentence: 11_122,sap hana
+Sentence: 11_123,sap fiori
+Sentence: 11_123,sap hana
+Sentence: 11_124,sap hana
+Sentence: 11_124,sap fiori
+Sentence: 11_125,sap hci
+Sentence: 11_125,sap fiori
+Sentence: 11_126,sap fiori
+Sentence: 11_127,sap fiori
+Sentence: 11_128,sap fiori
+Sentence: 11_129,sap fiori
+Sentence: 11_130,sap fiori
+Sentence: 11_131,sap cp
+Sentence: 11_132,sap cloud platform
+Sentence: 11_133,sap cloud platform
+Sentence: 11_135,sap cp
+Sentence: 11_135,sap hana
+Sentence: 11_136,sap hana
+Sentence: 11_137,sap fiori
+Sentence: 11_138,sap netweaver
+Sentence: 11_139,sap cloud platform
+Sentence: 11_140,sap fiori
+Sentence: 11_141,sap fiori
+Sentence: 11_142,sap fiori
+Sentence: 11_142,sap cp
+Sentence: 11_143,sap cp
+Sentence: 11_144,sap hana
+Sentence: 11_145,sap hana
+Sentence: 11_146,sap web ide
+Sentence: 11_147,sap cp
+Sentence: 11_148,sap cp
+Sentence: 11_149,sap cp
+Sentence: 11_149,sap cloud platform
+Sentence: 11_150,sap cp
+Sentence: 11_151,sap api business hub
+Sentence: 11_151,sap erp
+Sentence: 11_151,sap hana
+Sentence: 11_152,sap business application studio
+Sentence: 11_153,sap hana
+Sentence: 11_154,sap hana
+Sentence: 11_156,sap cloud platform
+Sentence: 11_156,sap hana
+Sentence: 11_156,sap cloud platform
+Sentence: 11_157,sap hana
+Sentence: 11_158,sap hana
+Sentence: 11_158,sap ase
+Sentence: 11_159,sap cloud platform
+Sentence: 11_160,sap cloud platform
+Sentence: 11_161,sap cloud platform
+Sentence: 11_162,sap cloud platform
+Sentence: 11_163,sap cloud platform
+Sentence: 11_163,sap cloud platform
+Sentence: 11_163,sap cloud platform
+Sentence: 11_163,sap cloud platform
+Sentence: 11_163,sap cloud platform
+Sentence: 11_163,sap cloud platform
+Sentence: 11_164,sap operational process intelligence
+Sentence: 11_164,sap process mining
+Sentence: 11_165,sap cloud platform
+Sentence: 11_166,sap cloud platform
+Sentence: 11_167,sap crm
+Sentence: 11_168,sap hana
+Sentence: 11_169,sap hana
+Sentence: 11_170,sap cloud platform
+Sentence: 11_171,sap cloud platform
+Sentence: 11_172,sap cloud platform
+Sentence: 11_173,sap cloud platform
+Sentence: 11_174,sap cloud platform
+Sentence: 11_175,sap cloud platform
+Sentence: 11_176,sap cp
+Sentence: 11_177,sap cloud platform
+Sentence: 11_178,sap cp
+Sentence: 11_179,sap cp
+Sentence: 11_180,sap cp
+Sentence: 11_180,sap cloud platform
+Sentence: 11_181,sap hana
+Sentence: 11_182,sap hana
+Sentence: 11_183,sap netweaver
+Sentence: 11_183,sap netweaver
+Sentence: 11_184,sap netweaver
+Sentence: 11_185,sap hana
+Sentence: 11_186,sap cp
+Sentence: 11_187,sap hana
+Sentence: 11_188,sap cloud connector
+Sentence: 11_188,sap hana
+Sentence: 11_189,sap cc
+Sentence: 11_190,sap cc
+Sentence: 11_191,sap crm
+Sentence: 11_191,sap erp
+Sentence: 11_191,sap hana
+Sentence: 11_192,sap hana
+Sentence: 11_193,sap application interface framework
+Sentence: 11_194,sap cloud platform
+Sentence: 11_195,sap business application studio
+Sentence: 11_195,sap business application studio
+Sentence: 11_196,sap business application studio
+Sentence: 11_197,sap hana
+Sentence: 11_197,sap hana
+Sentence: 11_198,sap netweaver
+Sentence: 11_199,sap netweaver
+Sentence: 11_200,sap netweaver
+Sentence: 11_201,sap cloud platform
+Sentence: 11_202,sap cp
+Sentence: 11_203,sap hana
+Sentence: 11_204,sap cp
+Sentence: 11_204,sap cp
+Sentence: 11_204,sap cp
+Sentence: 11_205,sap cp
+Sentence: 11_206,sap cp
+Sentence: 11_207,sap cp
+Sentence: 11_207,sap cp
+Sentence: 11_208,sap cp
+Sentence: 11_209,sap cp
+Sentence: 11_209,sap cp
+Sentence: 11_210,sap cp
+Sentence: 11_211,sap cp
+Sentence: 11_212,sap cp
+Sentence: 11_213,sap cp
+Sentence: 11_214,sap cp
+Sentence: 11_214,sap cp
+Sentence: 11_215,sap cp
+Sentence: 11_216,sap hana
+Sentence: 11_217,sap cp
+Sentence: 11_218,sap netweaver
+Sentence: 11_219,sap netweaver
+Sentence: 11_220,sap netweaver
+Sentence: 11_220,sap netweaver
+Sentence: 11_221,sap netweaver
+Sentence: 11_222,sap netweaver
+Sentence: 11_223,sap netweaver
+Sentence: 11_224,sap netweaver
+Sentence: 11_225,sap hana
+Sentence: 11_226,sap hana
+Sentence: 11_227,sap hana
+Sentence: 11_229,sap cp
+Sentence: 11_229,sap hana
+Sentence: 11_230,sap cp
+Sentence: 11_231,sap cloud platform
+Sentence: 11_232,sap hana
+Sentence: 11_233,sap cp
+Sentence: 11_234,sap cp
+Sentence: 11_235,sap cloud platform
+Sentence: 11_236,sap crm
+Sentence: 11_237,sap cp
+Sentence: 11_238,sap cp
+Sentence: 11_239,sap cp
+Sentence: 11_240,sap cp
+Sentence: 11_241,sap cp
+Sentence: 11_242,sap cp
+Sentence: 11_243,sap cp
+Sentence: 11_244,sap cp
+Sentence: 11_245,sap cp
+Sentence: 11_245,sap cloud platform
+Sentence: 11_246,sap cp
+Sentence: 11_247,sap cloud platform
+Sentence: 11_248,sap cp
+Sentence: 11_250,sap cloud platform
+Sentence: 11_251,sap cloud platform
+Sentence: 11_251,sap cloud platform
+Sentence: 11_252,sap netweaver
+Sentence: 11_253,sap hana
+Sentence: 11_253,sap hana
+Sentence: 11_254,sap hana
+Sentence: 11_254,sap hana
+Sentence: 11_255,sap hana
+Sentence: 11_256,sap hana
+Sentence: 11_256,sap hana
+Sentence: 11_257,sap hana
+Sentence: 11_258,sap hana
+Sentence: 11_259,sap hana
+Sentence: 11_260,sap application interface framework
+Sentence: 11_261,sap cp
+Sentence: 11_262,sap cp
+Sentence: 11_263,sap operational process intelligence
+Sentence: 11_264,sap hana
+Sentence: 11_265,sap fiori
+Sentence: 11_266,sap cloud platform
+Sentence: 11_267,sap cp
+Sentence: 11_268,sap operational process intelligence
+Sentence: 11_269,sap cp
+Sentence: 11_269,sap cp
+Sentence: 11_270,sap cloud platform
+Sentence: 11_271,sap cp
+Sentence: 11_272,sap cp
+Sentence: 11_273,sap cp
+Sentence: 11_275,sap cloud platform
+Sentence: 11_275,sap cp
+Sentence: 11_276,sap cp
+Sentence: 11_277,sap cloud platform
+Sentence: 11_277,sap cp
+Sentence: 11_278,sap operational process intelligence
+Sentence: 11_279,sap hana
+Sentence: 11_280,sap hana
+Sentence: 11_281,sap hana
+Sentence: 11_282,sap hana
+Sentence: 11_283,sap cloud platform
+Sentence: 11_284,sap netweaver
+Sentence: 11_285,sap cloud platform
+Sentence: 11_286,sap cp
+Sentence: 12_1,sap hana
+Sentence: 12_1,sap hana
+Sentence: 12_2,sap api business hub
+Sentence: 12_3,sap hana
+Sentence: 12_4,sap hana
+Sentence: 12_5,sap hana
+Sentence: 12_6,sap hana
+Sentence: 12_6,sap hana
+Sentence: 12_6,sap hana
+Sentence: 12_7,sap hana
+Sentence: 12_8,sap hana
+Sentence: 12_9,sap hana
+Sentence: 12_9,sap hana
+Sentence: 12_10,sap netweaver
+Sentence: 12_10,sap hana
+Sentence: 12_11,sap netweaver
+Sentence: 12_11,sap hana
+Sentence: 12_12,sap netweaver
+Sentence: 12_13,sap marketing
+Sentence: 12_14,sap operational process intelligence
+Sentence: 12_15,sap emr
+Sentence: 12_16,sap cloud platform
+Sentence: 12_17,sap cloud platform
+Sentence: 12_18,sap hana
+Sentence: 12_19,sap fiori
+Sentence: 12_20,sap hana
+Sentence: 12_21,sap cloud platform
+Sentence: 12_22,sap cp
+Sentence: 12_23,sap river
+Sentence: 12_24,sap river
+Sentence: 12_25,sap river
+Sentence: 12_25,sap river
+Sentence: 12_26,sap river
+Sentence: 12_27,sap hana
+Sentence: 12_28,sap hana
+Sentence: 12_29,sap gateway
+Sentence: 12_29,sap gateway
+Sentence: 12_30,sap gateway
+Sentence: 12_32,sap cp
+Sentence: 12_32,sap operational process intelligence
+Sentence: 12_33,sap hana
+Sentence: 12_33,sap hana
+Sentence: 12_34,sap hana
+Sentence: 12_35,sap hana
+Sentence: 12_36,sap hana
+Sentence: 12_36,sap hana
+Sentence: 12_37,sap hana
+Sentence: 12_38,sap hana
+Sentence: 12_39,sap cp
+Sentence: 12_40,sap netweaver
+Sentence: 12_41,sap netweaver
+Sentence: 12_42,sap cp
+Sentence: 12_43,sap cp
+Sentence: 12_44,sap cp
+Sentence: 12_45,sap hana
+Sentence: 12_46,sap fiori
+Sentence: 12_47,sap hana
+Sentence: 12_48,sap operational process intelligence
+Sentence: 12_49,sap operational process intelligence
+Sentence: 12_50,sap hana
+Sentence: 12_51,sap operational process intelligence
+Sentence: 12_52,sap operational process intelligence
+Sentence: 12_53,sap netweaver
+Sentence: 12_54,sap cloud platform
+Sentence: 12_55,sap cloud platform
+Sentence: 12_56,sap businessobjects
+Sentence: 12_56,sap business bydesign
+Sentence: 12_56,sap netweaver
+Sentence: 12_57,sap cp
+Sentence: 12_58,sap cp
+Sentence: 12_59,sap cloud platform
+Sentence: 12_60,sap fiori
+Sentence: 12_61,sap hana
+Sentence: 12_62,sap hana
+Sentence: 12_63,sap hana
+Sentence: 12_63,sap hana
+Sentence: 12_64,sap cloud platform
+Sentence: 12_64,sap cloud platform
+Sentence: 12_65,sap application interface framework
+Sentence: 12_66,sap cloud platform
+Sentence: 12_67,sap cloud platform
+Sentence: 12_68,sap cloud platform
+Sentence: 12_69,sap cloud platform
+Sentence: 12_70,sap hana
+Sentence: 12_70,sap hana
+Sentence: 12_71,sap cloud platform
+Sentence: 12_72,sap cloud platform
+Sentence: 12_73,sap operational process intelligence
+Sentence: 12_74,sap hana
+Sentence: 12_75,sap enterprise portal
+Sentence: 12_75,sap netweaver
+Sentence: 12_76,sap fiori
+Sentence: 12_77,sap netweaver
+Sentence: 12_78,sap netweaver
+Sentence: 12_78,sap gateway
+Sentence: 12_79,sap cloud platform
+Sentence: 12_80,sap hana
+Sentence: 12_81,sap cloud platform
+Sentence: 12_81,sap cp
+Sentence: 12_82,sap fiori
+Sentence: 12_83,sap cloud platform
+Sentence: 12_84,sap cloud platform
+Sentence: 12_85,sap operational process intelligence
+Sentence: 12_86,sap cloud platform
+Sentence: 12_88,sap hana
+Sentence: 12_88,sap hana
+Sentence: 12_88,sap cp
+Sentence: 12_89,sap cloud platform
+Sentence: 12_89,sap cloud platform
+Sentence: 12_89,sap cloud platform
+Sentence: 12_90,sap cloud platform
+Sentence: 12_91,sap netweaver
+Sentence: 12_92,sap hana
+Sentence: 12_93,sap identity management
+Sentence: 12_94,sap netweaver
+Sentence: 12_95,sap web ide
+Sentence: 12_96,sap fiori
+Sentence: 12_96,sap hana
+Sentence: 12_97,sap hana
+Sentence: 12_98,sap hana
+Sentence: 12_99,sap hana
+Sentence: 12_100,sap hana
+Sentence: 12_100,sap fiori
+Sentence: 12_101,sap fiori
+Sentence: 12_101,sap hana
+Sentence: 12_102,sap hana
+Sentence: 12_102,sap hana
+Sentence: 12_103,sap hana
+Sentence: 12_103,sap hana
+Sentence: 12_104,sap cp
+Sentence: 12_105,sap cp
+Sentence: 12_105,sap cp
+Sentence: 12_106,sap cp
+Sentence: 12_107,sap cp
+Sentence: 12_108,sap cp
+Sentence: 12_109,sap netweaver
+Sentence: 12_110,sap cloud platform
+Sentence: 12_111,sap cloud platform
+Sentence: 12_111,sap hana
+Sentence: 12_112,sap hana
+Sentence: 12_113,sap hana
+Sentence: 12_113,sap hana
+Sentence: 12_114,sap hana
+Sentence: 12_114,sap hana
+Sentence: 12_114,sap hana
+Sentence: 12_115,sap hana
+Sentence: 12_117,sap hana
+Sentence: 12_117,sap hana
+Sentence: 12_118,sap operational process intelligence
+Sentence: 12_119,sap landscape transformation
+Sentence: 12_120,sap landscape transformation
+Sentence: 12_121,sap landscape transformation
+Sentence: 12_123,sap successfactors employee central
+Sentence: 12_123,sap hana
+Sentence: 12_124,sap hana
+Sentence: 12_125,sap cloud platform
+Sentence: 12_127,sap cloud platform
+Sentence: 12_127,sap cloud platform
+Sentence: 12_127,sap cloud platform
+Sentence: 12_128,sap cloud platform
+Sentence: 12_129,sap hana
+Sentence: 12_130,sap cloud platform
+Sentence: 12_131,sap cloud platform
+Sentence: 12_132,sap cloud connector
+Sentence: 12_133,sap cp
+Sentence: 12_134,sap hana
+Sentence: 12_135,sap web ide
+Sentence: 12_136,sap cloud platform
+Sentence: 12_137,sap cloud platform
+Sentence: 12_138,sap cp
+Sentence: 12_139,sap cp
+Sentence: 12_139,sap cp
+Sentence: 12_140,sap cp
+Sentence: 12_142,sap cloud platform
+Sentence: 12_142,sap cp
+Sentence: 12_143,sap cloud platform
+Sentence: 12_144,sap cp
+Sentence: 12_145,sap hana
+Sentence: 12_145,sap hana
+Sentence: 12_146,sap hana
+Sentence: 12_147,sap hana
+Sentence: 12_148,sap hana
+Sentence: 12_149,sap hana
+Sentence: 12_149,sap hana
+Sentence: 12_149,sap hana
+Sentence: 12_150,sap hana
+Sentence: 12_151,sap icm
+Sentence: 12_152,sap hana
+Sentence: 12_153,sap cp
+Sentence: 12_154,sap cloud platform
+Sentence: 12_155,sap cp
+Sentence: 12_156,sap cloud platform
+Sentence: 12_157,sap cp
+Sentence: 12_158,sap web ide
+Sentence: 12_160,sap web ide
+Sentence: 12_160,sap web ide
+Sentence: 12_160,sap web ide
+Sentence: 12_160,sap web ide
+Sentence: 12_161,sap cloud platform
+Sentence: 12_161,sap cloud platform
+Sentence: 12_162,sap cloud platform
+Sentence: 12_162,sap cloud platform
+Sentence: 12_163,sap cloud platform
+Sentence: 12_164,sap cloud platform
+Sentence: 12_165,sap cloud platform
+Sentence: 12_166,sap cloud platform
+Sentence: 12_167,sap cloud platform
+Sentence: 12_168,sap cloud platform
+Sentence: 12_169,sap cloud platform
+Sentence: 12_170,sap cloud platform
+Sentence: 12_171,sap cloud platform
+Sentence: 12_172,sap cloud platform
+Sentence: 12_173,sap cloud platform
+Sentence: 12_174,sap cloud platform
+Sentence: 12_174,sap cloud platform
+Sentence: 12_175,sap cloud platform
+Sentence: 12_176,sap gateway
+Sentence: 12_177,sap gateway
+Sentence: 12_178,sap cloud platform
+Sentence: 12_179,sap cloud platform
+Sentence: 12_180,sap cloud platform
+Sentence: 12_181,sap task center
+Sentence: 12_181,sap cloud platform
+Sentence: 12_182,sap task center
+Sentence: 12_183,sap cloud platform
+Sentence: 12_184,sap task center
+Sentence: 12_185,sap task center
+Sentence: 12_185,sap cloud platform
+Sentence: 12_186,sap fiori
+Sentence: 12_187,sap fiori
+Sentence: 12_188,sap fiori
+Sentence: 12_189,sap cloud platform
+Sentence: 12_190,sap cloud platform
+Sentence: 12_190,sap cloud platform
+Sentence: 12_190,sap task center
+Sentence: 12_191,sap task center
+Sentence: 12_192,sap task center
+Sentence: 12_193,sap cloud platform
+Sentence: 12_194,sap task center
+Sentence: 12_196,sap cloud platform
+Sentence: 12_196,sap fiori
+Sentence: 12_196,sap fiori
+Sentence: 12_196,sap cloud platform
+Sentence: 12_198,sap cloud platform
+Sentence: 12_198,sap cloud platform
+Sentence: 12_199,sap web ide
+Sentence: 12_200,sap cloud platform
+Sentence: 12_200,sap fiori
+Sentence: 12_201,sap netweaver
+Sentence: 12_202,sap netweaver
+Sentence: 12_203,sap cp
+Sentence: 12_204,sap web ide
+Sentence: 12_204,sap web ide
+Sentence: 12_205,sap hana
+Sentence: 12_206,sap hana
+Sentence: 12_207,sap hana
+Sentence: 12_208,sap cp
+Sentence: 12_209,sap cp
+Sentence: 12_210,sap netweaver
+Sentence: 12_210,sap gateway
+Sentence: 12_211,sap fiori
+Sentence: 12_211,sap fiori
+Sentence: 12_212,sap cp
+Sentence: 12_213,sap cp
+Sentence: 12_214,sap cp
+Sentence: 12_215,sap web ide
+Sentence: 12_216,sap cp
+Sentence: 12_216,sap cp
+Sentence: 12_218,sap cp
+Sentence: 12_218,sap fiori
+Sentence: 12_220,sap fiori
+Sentence: 12_220,sap hana
+Sentence: 12_220,sap hana
+Sentence: 12_221,sap hana
+Sentence: 12_221,sap hana
+Sentence: 12_222,sap hana
+Sentence: 12_222,sap hana
+Sentence: 12_223,sap hana
+Sentence: 12_223,sap hana
+Sentence: 12_223,sap hana
+Sentence: 12_224,sap hana
+Sentence: 12_225,sap hana
+Sentence: 12_226,sap hana
+Sentence: 12_227,sap hana
+Sentence: 12_228,sap hana
+Sentence: 12_229,sap hana
+Sentence: 12_229,sap hana
+Sentence: 12_229,sap hana
+Sentence: 12_230,sap hana
+Sentence: 12_231,sap hana
+Sentence: 12_232,sap hana
+Sentence: 12_233,sap hana
+Sentence: 12_234,sap hana
+Sentence: 12_235,sap fiori
+Sentence: 12_236,sap hana
+Sentence: 12_237,sap hana
+Sentence: 12_238,sap hana
+Sentence: 12_239,sap cp
+Sentence: 12_240,sap cp
+Sentence: 12_241,sap cp
+Sentence: 12_243,sap hana
+Sentence: 12_243,sap hana
+Sentence: 12_244,sap hana
+Sentence: 12_245,sap fiori
+Sentence: 12_246,sap hana
+Sentence: 12_247,sap operational process intelligence
+Sentence: 12_247,sap hana
+Sentence: 12_248,sap hana
+Sentence: 12_249,sap hana
+Sentence: 12_250,sap hana
+Sentence: 12_251,sap hana
+Sentence: 12_252,sap hana
+Sentence: 12_253,sap hana
+Sentence: 12_254,sap hana
+Sentence: 12_254,sap hana
+Sentence: 12_255,sap hana
+Sentence: 12_255,sap hana
+Sentence: 12_256,sap hana
+Sentence: 12_257,sap cp
+Sentence: 12_258,sap api business hub
+Sentence: 12_259,sap api business hub
+Sentence: 12_260,sap api business hub
+Sentence: 12_261,sap hana
+Sentence: 12_262,sap hana
+Sentence: 12_264,sap api business hub
+Sentence: 12_264,sap hana
+Sentence: 12_265,sap netweaver
+Sentence: 12_266,sap cloud platform
+Sentence: 12_267,sap netweaver
+Sentence: 12_268,sap cp
+Sentence: 12_269,sap cp
+Sentence: 12_269,sap cp
+Sentence: 12_270,sap plm
+Sentence: 12_271,sap cp
+Sentence: 12_272,sap fiori
+Sentence: 12_273,sap cp
+Sentence: 12_274,sap netweaver
+Sentence: 12_275,sap netweaver
+Sentence: 12_276,sap cp
+Sentence: 12_277,sap hana
+Sentence: 12_278,sap cloud platform
+Sentence: 12_279,sap cloud platform
+Sentence: 12_280,sap cloud platform
+Sentence: 12_281,sap cloud platform
+Sentence: 12_282,sap cloud platform
+Sentence: 12_283,sap cloud platform
+Sentence: 12_284,sap cloud platform
+Sentence: 12_284,sap cloud platform
+Sentence: 12_284,sap cloud platform
+Sentence: 12_285,sap hana
+Sentence: 12_286,sap hana
+Sentence: 12_287,sap hana
+Sentence: 12_288,sap cloud platform
+Sentence: 12_289,sap cloud platform
+Sentence: 12_290,sap operational process intelligence
+Sentence: 12_291,sap operational process intelligence
+Sentence: 12_292,sap hana
+Sentence: 12_293,sap hana
+Sentence: 12_294,sap fiori
+Sentence: 12_295,sap hana
+Sentence: 12_296,sap hana
+Sentence: 12_297,sap hana
+Sentence: 12_298,sap gateway
+Sentence: 13_1,sap cloud platform
+Sentence: 13_1,sap cloud platform
+Sentence: 13_2,sap cloud platform
+Sentence: 13_3,sap cloud platform
+Sentence: 13_3,sap cloud platform
+Sentence: 13_4,sap cloud platform
+Sentence: 13_5,sap cp
+Sentence: 13_5,sap cp
+Sentence: 13_6,sap operational process intelligence
+Sentence: 13_7,sap hana
+Sentence: 13_8,sap hana
+Sentence: 13_9,sap cp
+Sentence: 13_9,sap cp
+Sentence: 13_10,sap cloud platform
+Sentence: 13_11,sap hana
+Sentence: 13_12,sap hana
+Sentence: 13_13,sap hana
+Sentence: 13_14,sap hana
+Sentence: 13_15,sap hana
+Sentence: 13_16,sap hana
+Sentence: 13_17,sap hana
+Sentence: 13_18,sap hana
+Sentence: 13_19,sap hana
+Sentence: 13_20,sap cloud platform
+Sentence: 13_21,sap cloud platform
+Sentence: 13_22,sap cloud platform
+Sentence: 13_23,sap operational process intelligence
+Sentence: 13_23,sap operational process intelligence
+Sentence: 13_24,sap netweaver
+Sentence: 13_24,sap netweaver
+Sentence: 13_24,sap netweaver
+Sentence: 13_25,sap hana
+Sentence: 13_26,sap hana
+Sentence: 13_27,sap hana
+Sentence: 13_28,sap operational process intelligence
+Sentence: 13_29,sap hana
+Sentence: 13_30,sap cp
+Sentence: 13_31,sap cloud platform
+Sentence: 13_32,sap hana
+Sentence: 13_32,sap hana
+Sentence: 13_33,sap hana
+Sentence: 13_34,sap hana
+Sentence: 13_35,sap river
+Sentence: 13_36,sap river
+Sentence: 13_37,sap river
+Sentence: 13_38,sap river
+Sentence: 13_39,sap hana
+Sentence: 13_40,sap hana
+Sentence: 13_41,sap cloud platform
+Sentence: 13_42,sap cloud platform
+Sentence: 13_43,sap hana
+Sentence: 13_44,sap hana
+Sentence: 13_44,sap hana
+Sentence: 13_44,sap hana
+Sentence: 13_45,sap hana
+Sentence: 13_46,sap hana
+Sentence: 13_47,sap hana
+Sentence: 13_47,sap hana
+Sentence: 13_48,sap hana
+Sentence: 13_48,sap hana
+Sentence: 13_49,sap netweaver
+Sentence: 13_50,sap netweaver
+Sentence: 13_51,sap bi
+Sentence: 13_52,sap cp
+Sentence: 13_53,sap predictive analytics
+Sentence: 13_53,sap analytics cloud
+Sentence: 13_53,sap analytics cloud
+Sentence: 13_54,sap cp
+Sentence: 13_54,sap cloud platform
+Sentence: 13_55,sap cloud platform
+Sentence: 13_56,sap cloud platform
+Sentence: 13_57,sap cloud platform
+Sentence: 13_58,sap netweaver
+Sentence: 13_58,sap netweaver
+Sentence: 13_59,sap netweaver
+Sentence: 13_60,sap hana
+Sentence: 13_61,sap web ide
+Sentence: 13_61,sap web ide
+Sentence: 13_62,sap fiori
+Sentence: 13_63,sap task center
+Sentence: 13_64,sap cp
+Sentence: 13_64,sap cp
+Sentence: 13_65,sap cp
+Sentence: 13_65,sap hana
+Sentence: 13_66,sap fiori
+Sentence: 13_67,sap gateway
+Sentence: 13_68,sap cp
+Sentence: 13_69,sap cp
+Sentence: 13_70,sap cp
+Sentence: 13_71,sap cp
+Sentence: 13_72,sap hana
+Sentence: 13_73,sap hana
+Sentence: 13_74,sap cp
+Sentence: 13_75,sap netweaver
+Sentence: 13_76,sap netweaver
+Sentence: 13_77,sap netweaver
+Sentence: 13_77,sap netweaver
+Sentence: 13_77,sap netweaver
+Sentence: 13_78,sap cp
+Sentence: 13_79,sap hana
+Sentence: 13_80,sap cp
+Sentence: 13_81,sap cloud platform
+Sentence: 13_82,sap netweaver
+Sentence: 13_83,sap netweaver
+Sentence: 13_84,sap cloud platform
+Sentence: 13_85,sap cloud platform
+Sentence: 13_86,sap fiori
+Sentence: 13_87,sap hana
+Sentence: 13_88,sap fiori
+Sentence: 13_89,sap hana
+Sentence: 13_90,sap hana
+Sentence: 13_91,sap cp
+Sentence: 13_92,sap api business hub
+Sentence: 13_93,sap cloud platform
+Sentence: 13_94,sap ecc
+Sentence: 13_95,sap cp
+Sentence: 13_97,sap cloud platform
+Sentence: 13_97,sap cloud platform
+Sentence: 13_98,sap api business hub
+Sentence: 13_99,sap operational process intelligence
+Sentence: 13_99,sap hana
+Sentence: 13_101,sap operational process intelligence
+Sentence: 13_101,sap solution manager
+Sentence: 13_102,sap solution manager
+Sentence: 13_103,sap hana
+Sentence: 13_103,sap hana
+Sentence: 13_104,sap hana
+Sentence: 13_105,sap hana
+Sentence: 13_106,sap hana
+Sentence: 13_107,sap hana
+Sentence: 13_108,sap hana
+Sentence: 13_109,sap hana
+Sentence: 13_110,sap hana
+Sentence: 13_110,sap hana
+Sentence: 13_111,sap operational process intelligence
+Sentence: 13_112,sap hana
+Sentence: 13_112,sap hana
+Sentence: 13_112,sap hana
+Sentence: 13_113,sap hana
+Sentence: 13_114,sap operational process intelligence
+Sentence: 13_115,sap cloud platform
+Sentence: 13_116,sap cloud platform
+Sentence: 13_117,sap fiori
+Sentence: 13_118,sap operational process intelligence
+Sentence: 13_119,sap hana
+Sentence: 13_120,sap netweaver
+Sentence: 13_121,sap netweaver
+Sentence: 13_122,sap netweaver
+Sentence: 13_123,sap netweaver
+Sentence: 13_124,sap cloud platform
+Sentence: 13_125,sap single sign on
+Sentence: 13_126,sap hana
+Sentence: 13_126,sap hana
+Sentence: 13_126,sap hana
+Sentence: 13_127,sap hana
+Sentence: 13_128,sap cloud platform
+Sentence: 13_129,sap hana
+Sentence: 13_130,sap cloud platform
+Sentence: 13_131,sap operational process intelligence
+Sentence: 13_132,sap operational process intelligence
+Sentence: 13_132,sap cp
+Sentence: 13_134,sap api business hub
+Sentence: 13_134,sap api business hub
+Sentence: 13_136,sap operational process intelligence
+Sentence: 13_136,sap fiori
+Sentence: 13_137,sap fiori
+Sentence: 13_138,sap cloud platform
+Sentence: 13_139,sap netweaver
+Sentence: 13_139,sap netweaver
+Sentence: 13_140,sap hana
+Sentence: 13_141,sap netweaver
+Sentence: 13_142,sap netweaver
+Sentence: 13_143,sap conversational ai
+Sentence: 13_144,sap conversational ai
+Sentence: 13_144,sap fiori
+Sentence: 13_146,sap netweaver
+Sentence: 13_146,sap hana
+Sentence: 13_147,sap nw identity management
+Sentence: 13_147,sap hana
+Sentence: 13_148,sap hana
+Sentence: 13_149,sap gateway
+Sentence: 13_149,sap gateway
+Sentence: 13_150,sap gateway
+Sentence: 13_150,sap gateway
+Sentence: 13_151,sap cloud platform
+Sentence: 13_152,sap bi
+Sentence: 13_153,sap cp
+Sentence: 13_154,sap netweaver
+Sentence: 13_155,sap netweaver
+Sentence: 13_156,sap hana
+Sentence: 13_157,sap netweaver
+Sentence: 13_157,sap netweaver
+Sentence: 13_158,sap cp
+Sentence: 13_159,sap hana
+Sentence: 13_159,sap web ide
+Sentence: 13_159,sap hana
+Sentence: 13_160,sap netweaver
+Sentence: 13_161,sap netweaver
+Sentence: 13_162,sap netweaver
+Sentence: 13_164,sap cloud platform
+Sentence: 13_164,sap operational process intelligence
+Sentence: 13_165,sap api business hub
+Sentence: 13_165,sap api business hub
+Sentence: 13_166,sap api business hub
+Sentence: 13_168,sap api business hub
+Sentence: 13_168,sap cp
+Sentence: 13_169,sap api business hub
+Sentence: 13_171,sap api business hub
+Sentence: 13_171,sap crm
+Sentence: 13_172,sap crm
+Sentence: 13_173,sap cloud platform
+Sentence: 13_174,sap cp
+Sentence: 13_175,sap cp
+Sentence: 13_176,sap cloud platform
+Sentence: 13_177,sap cloud platform
+Sentence: 13_177,sap cloud platform
+Sentence: 13_178,sap mdm
+Sentence: 13_179,sap api business hub
+Sentence: 13_180,sap hana
+Sentence: 13_181,sap web ide
+Sentence: 13_182,sap cloud platform
+Sentence: 13_183,sap cloud platform
+Sentence: 13_184,sap web ide
+Sentence: 13_185,sap cloud platform
+Sentence: 13_186,sap fiori
+Sentence: 13_187,sap fiori
+Sentence: 13_188,sap cloud platform
+Sentence: 13_189,sap cloud platform
+Sentence: 13_190,sap cloud platform
+Sentence: 13_191,sap cloud platform
+Sentence: 13_192,sap gateway
+Sentence: 13_193,sap netweaver
+Sentence: 13_193,sap netweaver
+Sentence: 13_194,sap operational process intelligence
+Sentence: 13_195,sap netweaver
+Sentence: 13_196,sap hana
+Sentence: 13_197,sap hana
+Sentence: 13_198,sap hana
+Sentence: 13_199,sap cloud platform
+Sentence: 13_200,sap cloud platform
+Sentence: 13_201,sap fiori
+Sentence: 13_202,sap hana
+Sentence: 13_203,sap gateway
+Sentence: 13_204,sap gateway
+Sentence: 13_206,sap api business hub
+Sentence: 13_206,sap netweaver
+Sentence: 13_207,sap hana
+Sentence: 13_208,sap gateway
+Sentence: 13_208,sap gateway
+Sentence: 13_208,sap gateway
+Sentence: 13_209,sap cp
+Sentence: 13_210,sap cp
+Sentence: 13_211,sap cp
+Sentence: 13_212,sap cloud platform
+Sentence: 13_213,sap cloud platform
+Sentence: 13_214,sap hana
+Sentence: 13_215,sap netweaver
+Sentence: 13_215,sap gateway
+Sentence: 13_216,sap netweaver
+Sentence: 13_216,sap gateway
+Sentence: 13_217,sap netweaver
+Sentence: 13_218,sap process integration
+Sentence: 13_218,sap netweaver
+Sentence: 13_219,sap netweaver
+Sentence: 13_219,sap process integration
+Sentence: 13_220,sap netweaver
+Sentence: 13_221,sap netweaver
+Sentence: 13_222,sap netweaver
+Sentence: 13_223,sap process mining
+Sentence: 13_223,sap hana
+Sentence: 13_224,sap process mining
+Sentence: 13_224,sap hana
+Sentence: 13_225,sap hana
+Sentence: 13_226,sap hana
+Sentence: 13_227,sap cp
+Sentence: 13_228,sap fiori
+Sentence: 13_229,sap fiori
+Sentence: 13_230,sap netweaver
+Sentence: 13_231,sap cloud platform
+Sentence: 13_232,sap cloud connector
+Sentence: 13_233,sap operational process intelligence
+Sentence: 14_1,sap netweaver
+Sentence: 14_1,sap netweaver
+Sentence: 14_2,sap api business hub
+Sentence: 14_3,sap api business hub
+Sentence: 14_4,sap hana
+Sentence: 14_5,sap hana
+Sentence: 14_5,sap hana
+Sentence: 14_6,sap hana
+Sentence: 14_8,sap hana
+Sentence: 14_8,sap hana
+Sentence: 14_9,sap hana
+Sentence: 14_10,sap hana
+Sentence: 14_11,sap gateway
+Sentence: 14_13,sap hana
+Sentence: 14_13,sap hana
+Sentence: 14_14,sap hana
+Sentence: 14_15,sap netweaver
+Sentence: 14_15,sap netweaver
+Sentence: 14_16,sap netweaver
+Sentence: 14_17,sap netweaver
+Sentence: 14_18,sap netweaver
+Sentence: 14_19,sap netweaver
+Sentence: 14_20,sap hana
+Sentence: 14_21,sap hana
+Sentence: 14_22,sap leave request
+Sentence: 14_23,sap cloud platform
+Sentence: 14_24,sap cloud platform
+Sentence: 14_25,sap application interface framework
+Sentence: 14_26,sap hana
+Sentence: 14_27,sap netweaver
+Sentence: 14_28,sap netweaver
+Sentence: 14_29,sap netweaver
+Sentence: 14_30,sap netweaver
+Sentence: 14_31,sap netweaver
+Sentence: 14_32,sap netweaver
+Sentence: 14_33,sap netweaver
+Sentence: 14_34,sap netweaver
+Sentence: 14_35,sap netweaver
+Sentence: 14_35,sap netweaver
+Sentence: 14_36,sap netweaver
+Sentence: 14_37,sap netweaver
+Sentence: 14_38,sap netweaver
+Sentence: 14_39,sap netweaver
+Sentence: 14_40,sap netweaver
+Sentence: 14_41,sap netweaver
+Sentence: 14_42,sap netweaver
+Sentence: 14_43,sap hana
+Sentence: 14_43,sap hana
+Sentence: 14_44,sap hana
+Sentence: 14_45,sap hana
+Sentence: 14_45,sap hana
+Sentence: 14_45,sap hana
+Sentence: 14_46,sap hana
+Sentence: 14_46,sap hana
+Sentence: 14_46,sap hana
+Sentence: 14_47,sap hana
+Sentence: 14_47,sap hana
+Sentence: 14_48,sap hana
+Sentence: 14_49,sap hana
+Sentence: 14_50,sap hana
+Sentence: 14_51,sap hana
+Sentence: 14_51,sap hana
+Sentence: 14_51,sap hana
+Sentence: 14_52,sap hana
+Sentence: 14_52,sap hana
+Sentence: 14_52,sap hana
+Sentence: 14_52,sap hana
+Sentence: 14_52,sap hana
+Sentence: 14_53,sap hana
+Sentence: 14_53,sap cp
+Sentence: 14_54,sap task center
+Sentence: 14_54,sap task center
+Sentence: 14_55,sap fiori
+Sentence: 14_55,sap fiori
+Sentence: 14_56,sap web ide
+Sentence: 14_57,sap cloud platform
+Sentence: 14_58,sap fiori
+Sentence: 14_58,sap fiori
+Sentence: 14_59,sap web ide
+Sentence: 14_60,sap cloud platform
+Sentence: 14_62,sap operational process intelligence
+Sentence: 14_62,sap hana
+Sentence: 14_63,sap process integration
+Sentence: 14_64,sap marketing
+Sentence: 14_65,sap operational process intelligence
+Sentence: 14_66,sap hana
+Sentence: 14_67,sap hana
+Sentence: 14_68,sap hana
+Sentence: 14_69,sap hana
+Sentence: 14_70,sap hana
+Sentence: 14_71,sap hana
+Sentence: 14_72,sap mii
+Sentence: 14_73,sap cloud platform
+Sentence: 14_73,sap cloud platform
+Sentence: 14_73,sap cloud platform
+Sentence: 14_74,sap cloud platform
+Sentence: 14_76,sap cloud platform
+Sentence: 14_77,sap operational process intelligence
+Sentence: 14_77,sap hana
+Sentence: 14_77,sap operational process intelligence
+Sentence: 14_77,sap hana
+Sentence: 14_77,sap operational process intelligence
+Sentence: 14_78,sap hana
+Sentence: 14_78,sap operational process intelligence
+Sentence: 14_78,sap hana
+Sentence: 14_79,sap hana
+Sentence: 14_80,sap hana
+Sentence: 14_81,sap hana
+Sentence: 14_81,sap hana
+Sentence: 14_82,sap hana
+Sentence: 14_82,sap hana
+Sentence: 14_82,sap hana
+Sentence: 14_84,sap hana
+Sentence: 14_84,sap hana
+Sentence: 14_85,sap solution manager
+Sentence: 14_86,sap netweaver
+Sentence: 14_87,sap netweaver
+Sentence: 14_89,sap bi
+Sentence: 14_89,sap solution manager
+Sentence: 14_90,sap netweaver
+Sentence: 14_91,sap application interface framework
+Sentence: 14_92,sap netweaver
+Sentence: 14_93,sap cp
+Sentence: 14_94,sap cloud platform
+Sentence: 14_95,sap cloud platform
+Sentence: 14_96,sap cloud platform
+Sentence: 14_97,sap cp
+Sentence: 14_98,sap cloud platform
+Sentence: 14_99,sap cloud platform
+Sentence: 14_100,sap hana
+Sentence: 14_100,sap hana
+Sentence: 14_101,sap hana
+Sentence: 14_102,sap fiori
+Sentence: 14_103,sap operational process intelligence
+Sentence: 14_103,sap hana
+Sentence: 14_104,sap netweaver
+Sentence: 14_105,sap netweaver
+Sentence: 14_106,sap cloud platform
+Sentence: 14_107,sap cp
+Sentence: 14_107,sap cp
+Sentence: 14_108,sap process integration
+Sentence: 14_109,sap cp
+Sentence: 14_110,sap cp
+Sentence: 14_111,sap api business hub
+Sentence: 14_113,sap api business hub
+Sentence: 14_113,sap fiori
+Sentence: 14_114,sap cp
+Sentence: 14_115,sap operational process intelligence
+Sentence: 14_116,sap hana
+Sentence: 14_117,sap hana
+Sentence: 14_119,sap operational process intelligence
+Sentence: 14_119,sap hana
+Sentence: 14_120,sap hana
+Sentence: 14_121,sap fiori
+Sentence: 14_122,sap cp
+Sentence: 14_123,sap cp
+Sentence: 14_124,sap cp
+Sentence: 14_125,sap cp
+Sentence: 14_126,sap fiori
+Sentence: 14_128,sap web ide
+Sentence: 14_128,sap fiori
+Sentence: 14_129,sap cloud platform
+Sentence: 14_130,sap netweaver
+Sentence: 14_131,sap business objects
+Sentence: 14_132,sap netweaver
+Sentence: 14_132,sap netweaver
+Sentence: 14_134,sap operational process intelligence
+Sentence: 14_135,sap operational process intelligence
+Sentence: 14_136,sap hana
+Sentence: 14_136,sap hana
+Sentence: 14_136,sap operational process intelligence
+Sentence: 14_136,sap hana
+Sentence: 14_137,sap hana
+Sentence: 14_138,sap hana
+Sentence: 14_139,sap hana
+Sentence: 14_140,sap hana
+Sentence: 14_140,sap hana
+Sentence: 14_140,sap hana
+Sentence: 14_141,sap fiori
+Sentence: 14_142,sap cloud platform
+Sentence: 14_143,sap cloud platform
+Sentence: 14_144,sap cloud platform
+Sentence: 14_144,sap cp
+Sentence: 14_145,sap cloud platform
+Sentence: 14_146,sap cloud platform
+Sentence: 14_148,sap cloud platform
+Sentence: 14_148,sap netweaver
+Sentence: 14_149,sap cloud platform
+Sentence: 14_150,sap cp
+Sentence: 14_152,sap web ide
+Sentence: 14_152,sap web ide
+Sentence: 14_154,sap web ide
+Sentence: 14_154,sap hana
+Sentence: 14_155,sap cloud platform
+Sentence: 14_156,sap cloud platform
+Sentence: 14_157,sap hana
+Sentence: 14_158,sap task center
+Sentence: 14_158,sap cloud platform
+Sentence: 14_159,sap task center
+Sentence: 14_160,sap task center
+Sentence: 14_161,sap task center
+Sentence: 14_162,sap cloud platform
+Sentence: 14_162,sap task center
+Sentence: 14_162,sap cloud platform
+Sentence: 14_163,sap task center
+Sentence: 14_164,sap task center
+Sentence: 14_164,sap task center
+Sentence: 14_164,sap task center
+Sentence: 14_164,sap task center
+Sentence: 14_165,sap cloud platform
+Sentence: 14_165,sap cp
+Sentence: 14_165,sap cp
+Sentence: 14_166,sap cp
+Sentence: 14_166,sap cloud platform
+Sentence: 14_167,sap task center
+Sentence: 14_167,sap task center
+Sentence: 14_167,sap task center
+Sentence: 14_168,sap task center
+Sentence: 14_169,sap cloud platform
+Sentence: 14_170,sap task center
+Sentence: 14_171,sap cloud platform
+Sentence: 14_173,sap cp
+Sentence: 14_173,sap cp
+Sentence: 14_173,sap cp
+Sentence: 14_174,sap cp
+Sentence: 14_175,sap cp
+Sentence: 14_176,sap task center
+Sentence: 14_176,sap task center
+Sentence: 14_177,sap task center
+Sentence: 14_177,sap task center
+Sentence: 14_178,sap task center
+Sentence: 14_179,sap task center
+Sentence: 14_180,sap task center
+Sentence: 14_180,sap task center
+Sentence: 14_181,sap task center
+Sentence: 14_182,sap task center
+Sentence: 14_183,sap task center
+Sentence: 14_184,sap task center
+Sentence: 14_185,sap task center
+Sentence: 14_186,sap task center
+Sentence: 14_187,sap hana
+Sentence: 14_187,sap task center
+Sentence: 14_187,sap hana
+Sentence: 14_188,sap hana
+Sentence: 14_188,sap hana
+Sentence: 14_188,sap hana
+Sentence: 14_189,sap task center
+Sentence: 14_190,sap hana
+Sentence: 14_191,sap hana
+Sentence: 14_192,sap task center
+Sentence: 14_193,sap hana
+Sentence: 14_193,sap task center
+Sentence: 14_194,sap hana
+Sentence: 14_194,sap task center
+Sentence: 14_195,sap hana
+Sentence: 14_196,sap task center
+Sentence: 14_196,sap cloud platform
+Sentence: 14_197,sap task center
+Sentence: 14_198,sap task center
+Sentence: 14_199,sap task center
+Sentence: 14_200,sap cp
+Sentence: 14_201,sap hana
+Sentence: 14_201,sap hana
+Sentence: 14_201,sap hana
+Sentence: 14_202,sap hana
+Sentence: 14_203,sap hana
+Sentence: 14_204,sap hana
+Sentence: 14_205,sap solution manager
+Sentence: 14_206,sap gateway
+Sentence: 14_207,sap hana
+Sentence: 14_208,sap hana
+Sentence: 14_209,sap hana
+Sentence: 14_210,sap cloud platform
+Sentence: 14_211,sap hana
+Sentence: 14_212,sap hana
+Sentence: 14_213,sap fiori
+Sentence: 14_214,sap fiori
+Sentence: 14_215,sap cloud platform
+Sentence: 14_216,sap cloud platform
+Sentence: 14_217,sap cp
+Sentence: 14_218,sap cloud platform
+Sentence: 14_218,sap cloud connector
+Sentence: 14_219,sap hana
+Sentence: 14_220,sap cp
+Sentence: 14_221,sap cp
+Sentence: 14_222,sap cp
+Sentence: 14_223,sap cp
+Sentence: 14_224,sap hana
+Sentence: 14_225,sap cloud platform
+Sentence: 14_226,sap cp
+Sentence: 14_226,sap cloud platform
+Sentence: 14_227,sap hana
+Sentence: 14_228,sap cloud platform
+Sentence: 14_229,sap cloud platform
+Sentence: 14_230,sap cloud platform
+Sentence: 14_231,sap cloud platform
+Sentence: 14_232,sap cloud platform
+Sentence: 14_233,sap hana
+Sentence: 14_234,sap hana
+Sentence: 14_235,sap cp
+Sentence: 14_236,sap cloud platform
+Sentence: 14_237,sap netweaver
+Sentence: 14_238,sap cloud platform
+Sentence: 14_239,sap cloud platform
+Sentence: 14_240,sap cp
+Sentence: 14_241,sap cp
+Sentence: 14_242,sap cp
+Sentence: 14_242,sap cloud platform
+Sentence: 14_243,sap cp
+Sentence: 14_244,sap api business hub
+Sentence: 14_244,sap erp
+Sentence: 14_244,sap hana
+Sentence: 14_245,sap hana
+Sentence: 14_246,sap business application studio
+Sentence: 14_247,sap business application studio
+Sentence: 14_247,sap hana
+Sentence: 14_247,sap ase
+Sentence: 14_248,sap cloud platform
+Sentence: 14_249,sap netweaver
+Sentence: 14_250,sap solution manager
+Sentence: 14_250,sap hana
+Sentence: 14_251,sap netweaver
+Sentence: 14_252,sap netweaver
+Sentence: 14_253,sap netweaver
+Sentence: 14_254,sap netweaver
+Sentence: 14_255,sap cloud platform
+Sentence: 14_256,sap cp
+Sentence: 14_257,sap hana
+Sentence: 14_258,sap cloud connector
+Sentence: 14_259,sap cloud connector
+Sentence: 14_260,sap cloud connector
+Sentence: 14_261,sap cloud connector
+Sentence: 14_262,sap cloud connector
+Sentence: 14_262,sap cloud connector
+Sentence: 14_263,sap cloud connector
+Sentence: 14_263,sap cloud connector
+Sentence: 14_264,sap hana
+Sentence: 14_265,sap cloud connector
+Sentence: 14_266,sap hana
+Sentence: 14_267,sap cloud connector
+Sentence: 14_268,sap cloud connector
+Sentence: 14_268,sap cloud connector
+Sentence: 14_269,sap cloud connector
+Sentence: 14_270,sap cloud connector
+Sentence: 14_271,sap gateway
+Sentence: 14_272,sap gateway
+Sentence: 14_273,sap gateway
+Sentence: 14_274,sap cloud platform
+Sentence: 14_275,sap cloud platform
+Sentence: 14_276,sap cloud platform
+Sentence: 14_277,sap ecc
+Sentence: 14_277,sap crm
+Sentence: 14_278,sap mdm
+Sentence: 14_279,sap cloud platform
+Sentence: 14_280,sap hana
+Sentence: 14_281,sap hana
+Sentence: 14_282,sap hana
+Sentence: 14_284,sap cloud platform
+Sentence: 14_284,sap cloud platform
+Sentence: 14_285,sap cloud platform
+Sentence: 14_286,sap netweaver
+Sentence: 14_287,sap hana
+Sentence: 14_288,sap cp
+Sentence: 14_289,sap cp
+Sentence: 14_290,sap cp
+Sentence: 14_291,sap cp
+Sentence: 14_292,sap cp
+Sentence: 14_293,sap cp
+Sentence: 14_294,sap cloud platform
+Sentence: 14_296,sap cloud platform
+Sentence: 14_296,sap hana
+Sentence: 14_297,sap hana
+Sentence: 14_297,sap ase
+Sentence: 14_299,sap cloud platform
+Sentence: 14_299,sap cloud platform
+Sentence: 14_300,sap cloud platform
+Sentence: 14_300,sap cloud platform
+Sentence: 14_301,sap cp
+Sentence: 14_301,sap cp
+Sentence: 14_302,sap cloud platform
+Sentence: 14_303,sap cloud platform
+Sentence: 14_303,sap cloud platform
+Sentence: 14_303,sap cp
+Sentence: 14_304,sap cp
+Sentence: 14_306,sap hana
+Sentence: 14_306,sap hana
+Sentence: 14_307,sap hana
+Sentence: 14_307,sap ase
+Sentence: 14_308,sap hana
+Sentence: 14_309,sap hana
+Sentence: 14_309,sap hana
+Sentence: 14_310,sap cloud platform
+Sentence: 14_311,sap cloud platform
+Sentence: 14_312,sap cloud platform
+Sentence: 14_312,sap data services
+Sentence: 14_313,sap hana
+Sentence: 14_313,sap hana
+Sentence: 14_314,sap cloud platform
+Sentence: 14_315,sap cloud platform
+Sentence: 14_316,sap hana
+Sentence: 14_317,sap hana
+Sentence: 14_317,sap hana
+Sentence: 14_318,sap hana
+Sentence: 14_319,sap cloud platform
+Sentence: 14_320,sap single sign on
+Sentence: 14_321,sap netweaver
+Sentence: 14_322,sap erp
+Sentence: 14_323,sap hana
+Sentence: 14_324,sap hana
+Sentence: 14_325,sap cloud identity
+Sentence: 14_326,sap cloud platform
+Sentence: 14_327,sap cloud platform
+Sentence: 14_327,sap hana
+Sentence: 14_328,sap hana
+Sentence: 14_329,sap hana
+Sentence: 14_330,sap hana
+Sentence: 14_331,sap hana
+Sentence: 14_332,sap authenticator
+Sentence: 14_333,sap hana
+Sentence: 15_1,sap hana
+Sentence: 15_2,sap hana
+Sentence: 15_3,sap cloud platform
+Sentence: 15_3,sap cloud platform
+Sentence: 15_3,sap hana
+Sentence: 15_4,sap cloud platform
+Sentence: 15_5,sap cloud platform
+Sentence: 15_6,sap hana
+Sentence: 15_7,sap hana
+Sentence: 15_8,sap cloud platform
+Sentence: 15_9,sap cloud identity
+Sentence: 15_9,sap cloud platform
+Sentence: 15_10,sap cloud platform
+Sentence: 15_11,sap cloud platform
+Sentence: 15_12,sap cloud platform
+Sentence: 15_13,sap cloud platform
+Sentence: 15_13,sap cloud identity
+Sentence: 15_14,sap cloud platform
+Sentence: 15_15,sap cloud platform
+Sentence: 15_17,sap cloud platform
+Sentence: 15_17,sap cloud platform
+Sentence: 15_18,sap cloud platform
+Sentence: 15_18,sap intelligent robotic process automation
+Sentence: 15_19,sap cloud platform
+Sentence: 15_20,sap cp
+Sentence: 15_21,sap cloud platform
+Sentence: 15_22,sap cloud platform
+Sentence: 15_24,sap hana
+Sentence: 15_24,sap hana
+Sentence: 15_25,sap hana
+Sentence: 15_26,sap hana
+Sentence: 15_27,sap hana
+Sentence: 15_28,sap hana
+Sentence: 15_29,sap hana
+Sentence: 15_30,sap hana
+Sentence: 15_32,sap hana
+Sentence: 15_32,sap cloud platform
+Sentence: 15_33,sap cp
+Sentence: 15_33,sap cp
+Sentence: 15_34,sap hana
+Sentence: 15_35,sap cloud platform
+Sentence: 15_36,sap hana
+Sentence: 15_37,sap cloud platform
+Sentence: 15_38,sap hana
+Sentence: 15_39,sap cp
+Sentence: 15_40,sap hana
+Sentence: 15_41,sap hana
+Sentence: 15_42,sap hana
+Sentence: 15_43,sap hana
+Sentence: 15_44,sap hana
+Sentence: 15_45,sap hana
+Sentence: 15_46,sap conversational ai
+Sentence: 15_47,sap conversational ai
+Sentence: 15_48,sap cloud platform
+Sentence: 15_49,sap cp
+Sentence: 15_50,sap hana
+Sentence: 15_50,sap cloud platform
+Sentence: 15_51,sap conversational ai
+Sentence: 15_52,sap cloud platform
+Sentence: 15_53,sap hana
+Sentence: 15_54,sap cloud platform
+Sentence: 15_56,sap hana
+Sentence: 15_56,sap cloud platform
+Sentence: 15_57,sap cloud platform
+Sentence: 15_59,sap cloud platform
+Sentence: 15_59,sap cloud platform
+Sentence: 15_60,sap hana
+Sentence: 15_61,sap hana
+Sentence: 15_62,sap cloud platform
+Sentence: 15_63,sap cloud platform
+Sentence: 15_64,sap authenticator
+Sentence: 15_65,sap hana
+Sentence: 15_66,sap hana
+Sentence: 15_67,sap cloud platform
+Sentence: 15_68,sap intelligent robotic process automation
+Sentence: 15_69,sap cloud platform
+Sentence: 15_70,sap gardener
+Sentence: 15_71,sap cp
+Sentence: 15_72,sap intelligent robotic process automation
+Sentence: 15_73,sap intelligent robotic process automation
+Sentence: 15_74,sap cc
+Sentence: 15_75,sap intelligent robotic process automation
+Sentence: 15_77,sap intelligent robotic process automation
+Sentence: 15_77,sap intelligent robotic process automation
+Sentence: 15_78,sap cp
+Sentence: 15_79,sap intelligent robotic process automation
+Sentence: 15_80,sap intelligent robotic process automation
+Sentence: 15_81,sap cp
+Sentence: 15_82,sap cp
+Sentence: 15_83,sap hana
+Sentence: 15_84,sap hana
+Sentence: 15_85,sap hana
+Sentence: 15_86,sap intelligent robotic process automation
+Sentence: 15_87,sap intelligent robotic process automation
+Sentence: 15_88,sap cloud platform
+Sentence: 15_89,sap cloud platform
+Sentence: 15_89,sap cloud platform
+Sentence: 15_90,sap cloud platform
+Sentence: 15_91,sap cloud platform
+Sentence: 15_92,sap cloud platform
+Sentence: 15_93,sap hana
+Sentence: 15_94,sap hana
+Sentence: 15_95,sap intelligent robotic process automation
+Sentence: 15_97,sap intelligent robotic process automation
+Sentence: 15_97,sap intelligent robotic process automation
+Sentence: 15_98,sap cp
+Sentence: 15_99,sap intelligent robotic process automation
+Sentence: 15_100,sap intelligent robotic process automation
+Sentence: 15_101,sap cp
+Sentence: 15_102,sap cp
+Sentence: 15_103,sap cloud platform
+Sentence: 15_104,sap hana
+Sentence: 15_105,sap hana
+Sentence: 15_106,sap cloud platform
+Sentence: 15_107,sap cloud platform
+Sentence: 15_108,sap web ide
+Sentence: 15_109,sap cloud platform
+Sentence: 15_110,sap cloud platform
+Sentence: 15_111,sap web ide
+Sentence: 15_112,sap cloud platform
+Sentence: 15_113,sap cloud platform
+Sentence: 15_114,sap cloud platform
+Sentence: 15_115,sap cloud platform
+Sentence: 15_116,sap cloud platform
+Sentence: 15_117,sap cloud platform
+Sentence: 15_118,sap cloud platform
+Sentence: 15_119,sap hana
+Sentence: 15_120,sap intelligent robotic process automation
+Sentence: 15_121,sap fiori
+Sentence: 15_122,sap intl proc autom
+Sentence: 15_122,sap intl proc autom
+Sentence: 15_123,sap cloud alm
+Sentence: 15_124,sap erp
+Sentence: 15_125,sap cloud platform
+Sentence: 15_126,sap hana
+Sentence: 15_127,sap hana
+Sentence: 15_128,sap cloud platform
+Sentence: 15_129,sap cloud platform
+Sentence: 15_130,sap cloud platform
+Sentence: 15_131,sap cloud platform
+Sentence: 15_132,sap cloud platform
+Sentence: 15_133,sap cloud platform
+Sentence: 15_134,sap cloud platform
+Sentence: 15_135,sap hana
+Sentence: 15_136,sap hana
+Sentence: 15_137,sap cp
+Sentence: 15_137,sap hana
+Sentence: 15_138,sap hana
+Sentence: 15_139,sap intelligent robotic process automation
+Sentence: 15_140,sap hana
+Sentence: 15_141,sap cloud platform
+Sentence: 15_142,sap cloud platform
+Sentence: 15_143,sap cloud platform
+Sentence: 15_144,sap cloud platform
+Sentence: 15_145,sap cloud platform
+Sentence: 15_146,sap intelligent robotic process automation
+Sentence: 15_146,sap cloud platform
+Sentence: 15_148,sap intelligent robotic process automation
+Sentence: 15_148,sap intelligent robotic process automation
+Sentence: 15_149,sap cp
+Sentence: 15_150,sap intelligent robotic process automation
+Sentence: 15_151,sap intelligent robotic process automation
+Sentence: 15_152,sap cp
+Sentence: 15_153,sap cp
+Sentence: 15_154,sap analytics cloud
+Sentence: 15_155,sap analytics cloud
+Sentence: 15_156,sap hana
+Sentence: 15_157,sap cloud platform
+Sentence: 15_158,sap cloud platform
+Sentence: 15_159,sap intelligent robotic process automation
+Sentence: 15_160,sap hana
+Sentence: 15_160,sap cloud platform
+Sentence: 15_160,sap leonardo machine learning foundation
+Sentence: 15_161,sap cloud platform
+Sentence: 15_162,sap cloud platform
+Sentence: 15_163,sap cloud platform
+Sentence: 15_164,sap cloud platform
+Sentence: 15_165,sap cloud platform
+Sentence: 15_166,sap cloud platform
+Sentence: 15_166,sap cloud platform
+Sentence: 15_167,sap cloud platform
+Sentence: 15_167,sap cloud platform
+Sentence: 15_168,sap hana
+Sentence: 15_169,sap hana
+Sentence: 15_170,sap cloud platform
+Sentence: 15_171,sap cp
+Sentence: 15_172,sap cloud platform
+Sentence: 15_173,sap cloud platform
+Sentence: 15_174,sap cloud platform
+Sentence: 15_175,sap cp
+Sentence: 15_176,sap hana
+Sentence: 15_177,sap cloud platform
+Sentence: 15_178,sap hana
+Sentence: 15_179,sap hana
+Sentence: 15_180,sap cloud platform
+Sentence: 15_181,sap cloud platform
+Sentence: 15_182,sap web ide
+Sentence: 15_183,sap cloud platform
+Sentence: 15_184,sap cloud platform
+Sentence: 15_185,sap web ide
+Sentence: 15_186,sap cloud platform
+Sentence: 15_187,sap cloud platform
+Sentence: 15_188,sap cloud platform
+Sentence: 15_189,sap cloud platform
+Sentence: 15_190,sap cloud platform
+Sentence: 15_191,sap cloud platform
+Sentence: 15_192,sap cloud platform
+Sentence: 15_193,sap hana
+Sentence: 15_194,sap intelligent robotic process automation
+Sentence: 16_1,sap cloud platform
+Sentence: 16_2,sap cloud platform
+Sentence: 16_3,sap cloud platform
+Sentence: 16_4,sap hana
+Sentence: 16_5,sap hana
+Sentence: 16_6,sap web ide
+Sentence: 16_7,sap cloud platform
+Sentence: 16_8,sap cloud platform
+Sentence: 16_9,sap intelligent robotic process automation
+Sentence: 16_10,sap intelligent robotic process automation
+Sentence: 16_11,sap cloud platform
+Sentence: 16_12,sap cloud platform
+Sentence: 16_13,sap intelligent robotic process automation
+Sentence: 16_14,sap intelligent robotic process automation
+Sentence: 16_15,sap cloud platform
+Sentence: 16_16,sap hana
+Sentence: 16_17,sap hana
+Sentence: 16_18,sap cloud platform
+Sentence: 16_19,sap cloud platform
+Sentence: 16_20,sap web ide
+Sentence: 16_21,sap cloud platform
+Sentence: 16_22,sap cloud platform
+Sentence: 16_23,sap web ide
+Sentence: 16_24,sap cloud platform
+Sentence: 16_25,sap hana
+Sentence: 16_26,sap cloud platform
+Sentence: 16_27,sap cloud platform
+Sentence: 16_28,sap cloud platform
+Sentence: 16_29,sap cloud platform
+Sentence: 16_30,sap cloud platform
+Sentence: 16_31,sap hana
+Sentence: 16_32,sap cloud platform
+Sentence: 16_33,sap hana
+Sentence: 16_34,sap hana
+Sentence: 16_35,sap cloud platform
+Sentence: 16_36,sap cloud platform
+Sentence: 16_37,sap cloud platform
+Sentence: 16_38,sap cloud platform
+Sentence: 16_39,sap cloud platform
+Sentence: 16_40,sap cloud platform
+Sentence: 16_41,sap cloud platform
+Sentence: 16_42,sap hana
+Sentence: 16_43,sap hana
+Sentence: 16_44,sap hana
+Sentence: 16_45,sap hana
+Sentence: 16_46,sap hana
+Sentence: 16_47,sap web ide
+Sentence: 16_48,sap web ide
+Sentence: 16_49,sap hana
+Sentence: 16_50,sap hana
+Sentence: 16_51,sap hana
+Sentence: 16_52,sap cloud platform
+Sentence: 16_53,sap cloud platform
+Sentence: 16_54,sap cloud platform
+Sentence: 16_55,sap cloud platform
+Sentence: 16_56,sap cloud platform
+Sentence: 16_57,sap hana
+Sentence: 16_58,sap hana
+Sentence: 16_59,sap cloud platform
+Sentence: 16_60,sap cloud platform
+Sentence: 16_61,sap web ide
+Sentence: 16_62,sap cloud platform
+Sentence: 16_63,sap cloud platform
+Sentence: 16_64,sap web ide
+Sentence: 16_65,sap cloud platform
+Sentence: 16_66,sap cloud platform
+Sentence: 16_67,sap cloud platform
+Sentence: 16_68,sap cloud platform
+Sentence: 16_69,sap cloud platform
+Sentence: 16_70,sap cloud platform
+Sentence: 16_71,sap hana
+Sentence: 16_73,sap intelligent robotic process automation
+Sentence: 16_73,sap intelligent robotic process automation
+Sentence: 16_74,sap cp
+Sentence: 16_75,sap intelligent robotic process automation
+Sentence: 16_76,sap intelligent robotic process automation
+Sentence: 16_77,sap cp
+Sentence: 16_78,sap cp
+Sentence: 16_79,sap hana
+Sentence: 16_80,sap hana
+Sentence: 16_81,sap cloud platform
+Sentence: 16_82,sap fiori
+Sentence: 16_83,sap fiori
+Sentence: 16_84,sap fiori
+Sentence: 16_84,sap web ide
+Sentence: 16_85,sap fiori
+Sentence: 16_86,sap intelligent robotic process automation
+Sentence: 16_86,sap intelligent robotic process automation
+Sentence: 16_87,sap hana
+Sentence: 16_88,sap hana
+Sentence: 16_89,sap hana
+Sentence: 16_90,sap hana
+Sentence: 16_91,sap hana
+Sentence: 16_91,sap hana
+Sentence: 16_92,sap intelligent robotic process automation
+Sentence: 16_92,sap intelligent robotic process automation
+Sentence: 16_92,sap intelligent robotic process automation
+Sentence: 16_93,sap intelligent robotic process automation
+Sentence: 16_93,sap intelligent robotic process automation
+Sentence: 16_94,sap hana
+Sentence: 16_95,sap hana
+Sentence: 16_96,sap retail
+Sentence: 16_97,sap retail
+Sentence: 16_98,sap mobile documents
+Sentence: 16_99,sap erp
+Sentence: 16_99,sap erp
+Sentence: 16_100,sap screen personas
+Sentence: 16_102,sap screen personas
+Sentence: 16_102,sap rural sourcing management
+Sentence: 16_103,sap rural sourcing management
+Sentence: 16_104,sap rural sourcing management
+Sentence: 16_105,sap screen personas
+Sentence: 16_106,sap screen personas
+Sentence: 16_107,sap screen personas
+Sentence: 16_108,sap screen personas
+Sentence: 16_109,sap fiori
+Sentence: 16_110,sap screen personas
+Sentence: 16_111,sap screen personas
+Sentence: 16_112,sap screen personas
+Sentence: 16_112,sap screen personas
+Sentence: 16_113,sap screen personas
+Sentence: 16_115,sap screen personas
+Sentence: 16_116,sap mobile documents
+Sentence: 16_116,sap hana
+Sentence: 16_117,sap hana
+Sentence: 16_118,sap hana
+Sentence: 16_118,sap hana
+Sentence: 16_119,sap hana
+Sentence: 16_119,sap hana
+Sentence: 16_120,sap hana
+Sentence: 16_121,sap hana
+Sentence: 16_122,sap hana
+Sentence: 16_123,sap hana
+Sentence: 16_124,sap hana
+Sentence: 16_124,sap hana
+Sentence: 16_125,sap hana
+Sentence: 16_126,sap hana
+Sentence: 16_127,sap hana
+Sentence: 16_128,sap hana
+Sentence: 16_129,sap screen personas
+Sentence: 16_130,sap screen personas
+Sentence: 16_131,sap screen personas
+Sentence: 16_132,sap screen personas
+Sentence: 16_133,sap screen personas
+Sentence: 16_134,sap screen personas
+Sentence: 16_135,sap screen personas
+Sentence: 16_135,sap screen personas
+Sentence: 16_135,sap screen personas
+Sentence: 16_135,sap screen personas
+Sentence: 16_137,sap screen personas
+Sentence: 16_137,sap screen personas
+Sentence: 16_137,sap screen personas
+Sentence: 16_138,sap screen personas
+Sentence: 16_139,sap crm
+Sentence: 16_140,sap crm
+Sentence: 16_141,sap fiori
+Sentence: 16_141,sap fiori
+Sentence: 16_141,sap fiori
+Sentence: 16_142,sap fiori
+Sentence: 16_143,sap fiori
+Sentence: 16_144,sap fiori
+Sentence: 16_145,sap fiori
+Sentence: 16_146,sap fiori
+Sentence: 16_146,sap fiori
+Sentence: 16_147,sap fiori
+Sentence: 16_147,sap fiori
+Sentence: 16_148,sap screen personas
+Sentence: 16_149,sap screen personas
+Sentence: 16_150,sap screen personas
+Sentence: 16_151,sap screen personas
+Sentence: 16_152,sap screen personas
+Sentence: 16_153,sap screen personas
+Sentence: 16_154,sap screen personas
+Sentence: 16_155,sap customer activity repository
+Sentence: 16_156,sap customer activity repository
+Sentence: 16_157,sap hana
+Sentence: 16_158,sap hana
+Sentence: 16_159,sap screen personas
+Sentence: 16_160,sap gateway
+Sentence: 16_161,sap web as
+Sentence: 16_162,sap rural sourcing management
+Sentence: 16_163,sap netweaver
+Sentence: 16_164,sap netweaver
+Sentence: 16_165,sap intercompany data exchange
+Sentence: 16_165,sap multiresource scheduling
+Sentence: 16_166,sap application interface framework
+Sentence: 16_166,sap energy portfolio management
+Sentence: 16_166,sap trade promotion optimization
+Sentence: 16_167,sap asset retirement obligation management
+Sentence: 16_168,sap screen personas
+Sentence: 16_169,sap screen personas
+Sentence: 16_170,sap screen personas
+Sentence: 16_171,sap screen personas
+Sentence: 16_171,sap screen personas
+Sentence: 16_172,sap screen personas
+Sentence: 16_173,sap screen personas
+Sentence: 16_174,sap screen personas
+Sentence: 16_174,sap screen personas
+Sentence: 16_175,sap screen personas
+Sentence: 16_176,sap screen personas
+Sentence: 16_177,sap screen personas
+Sentence: 16_178,sap screen personas
+Sentence: 16_179,sap screen personas
+Sentence: 16_180,sap screen personas
+Sentence: 16_181,sap mobile platform
+Sentence: 16_182,sap screen personas
+Sentence: 16_183,sap rural sourcing management
+Sentence: 16_184,sap customer activity repository
+Sentence: 16_185,sap customer activity repository
+Sentence: 16_186,sap customer activity repository
+Sentence: 16_187,sap customer activity repository
+Sentence: 16_189,sap screen personas
+Sentence: 16_189,sap screen personas
+Sentence: 16_189,sap screen personas
+Sentence: 16_190,sap screen personas
+Sentence: 16_190,sap screen personas
+Sentence: 16_192,sap screen personas
+Sentence: 16_192,sap screen personas
+Sentence: 16_192,sap screen personas
+Sentence: 16_193,sap screen personas
+Sentence: 16_195,sap screen personas
+Sentence: 16_195,sap screen personas
+Sentence: 16_196,sap screen personas
+Sentence: 16_196,sap screen personas
+Sentence: 16_197,sap screen personas
+Sentence: 16_198,sap screen personas
+Sentence: 16_199,sap screen personas
+Sentence: 16_200,sap screen personas
+Sentence: 16_200,sap screen personas
+Sentence: 16_201,sap screen personas
+Sentence: 16_202,sap screen personas
+Sentence: 16_203,sap screen personas
+Sentence: 16_204,sap screen personas
+Sentence: 16_205,sap screen personas
+Sentence: 16_206,sap screen personas
+Sentence: 16_207,sap screen personas
+Sentence: 16_208,sap screen personas
+Sentence: 16_209,sap screen personas
+Sentence: 16_210,sap screen personas
+Sentence: 16_210,sap screen personas
+Sentence: 16_211,sap screen personas
+Sentence: 16_212,sap screen personas
+Sentence: 16_213,sap screen personas
+Sentence: 16_214,sap screen personas
+Sentence: 16_215,sap screen personas
+Sentence: 16_215,sap screen personas
+Sentence: 16_215,sap screen personas
+Sentence: 16_215,sap screen personas
+Sentence: 16_216,sap screen personas
+Sentence: 16_216,sap screen personas
+Sentence: 16_216,sap screen personas
+Sentence: 16_216,sap screen personas
+Sentence: 16_216,sap screen personas
+Sentence: 16_217,sap screen personas
+Sentence: 16_217,sap screen personas
+Sentence: 16_218,sap screen personas
+Sentence: 16_219,sap screen personas
+Sentence: 16_220,sap screen personas
+Sentence: 16_221,sap screen personas
+Sentence: 16_222,sap screen personas
+Sentence: 16_223,sap rural sourcing management
+Sentence: 16_224,sap mobile documents
+Sentence: 16_225,sap screen personas
+Sentence: 16_225,sap screen personas
+Sentence: 16_226,sap screen personas
+Sentence: 16_227,sap screen personas
+Sentence: 16_228,sap ase
+Sentence: 16_229,sap ase
+Sentence: 16_230,sap adaptive server enterprise
+Sentence: 16_231,sap adaptive server enterprise
+Sentence: 16_232,sap adaptive server enterprise
+Sentence: 16_233,sap dcm
+Sentence: 16_234,sap dcm
+Sentence: 16_235,sap dcm
+Sentence: 16_236,sap dcm
+Sentence: 16_237,sap dcm
+Sentence: 16_238,sap dcm
+Sentence: 16_239,sap dcm
+Sentence: 16_240,sap dcm
+Sentence: 16_241,sap dcm
+Sentence: 16_242,sap dcm
+Sentence: 16_243,sap dcm
+Sentence: 16_244,sap dcm
+Sentence: 16_245,sap dcm
+Sentence: 16_246,sap dcm
+Sentence: 16_247,sap dcm
+Sentence: 16_248,sap dcm
+Sentence: 16_249,sap dcm
+Sentence: 16_250,sap dcm
+Sentence: 16_251,sap dcm
+Sentence: 16_252,sap dcm
+Sentence: 16_253,sap dcm
+Sentence: 16_254,sap dcm
+Sentence: 16_255,sap dcm
+Sentence: 16_256,sap dcm
+Sentence: 16_257,sap dcm
+Sentence: 16_258,sap dcm
+Sentence: 16_259,sap dcm
+Sentence: 16_260,sap dcm
+Sentence: 17_1,sap hana
+Sentence: 17_2,sap hcm
+Sentence: 17_3,sap cc
+Sentence: 17_4,sap hana
+Sentence: 17_5,sap hana
+Sentence: 17_6,sap analytics cloud
+Sentence: 17_7,sap marketing
+Sentence: 17_8,sap fiori
+Sentence: 17_9,sap qualtrics
+Sentence: 17_10,sap marketing
+Sentence: 17_11,sap hybris
+Sentence: 17_12,sap marketing
+Sentence: 17_13,sap api business hub
+Sentence: 17_14,sap marketing
+Sentence: 17_14,sap marketing
+Sentence: 17_14,sap marketing
+Sentence: 17_15,sap marketing
+Sentence: 17_16,sap hana
+Sentence: 17_16,sap hana
+Sentence: 17_16,sap hana
+Sentence: 17_16,sap hana
+Sentence: 17_17,sap hana
+Sentence: 17_17,sap marketing
+Sentence: 17_18,sap solution manager
+Sentence: 17_19,sap hybris
+Sentence: 17_20,sap cp
+Sentence: 17_21,sap cp
+Sentence: 17_21,sap cp
+Sentence: 17_22,sap cp
+Sentence: 17_23,sap netweaver
+Sentence: 17_24,sap netweaver
+Sentence: 17_25,sap cp
+Sentence: 17_25,sap cp
+Sentence: 17_26,sap cloud platform
+Sentence: 17_27,sap leonardo machine learning foundation
+Sentence: 17_28,sap leonardo machine learning foundation
+Sentence: 17_29,sap leonardo machine learning foundation
+Sentence: 17_30,sap cloud platform
+Sentence: 17_32,sap cloud platform
+Sentence: 17_32,sap cloud platform
+Sentence: 17_33,sap lt replication server
+Sentence: 17_34,sap hana
+Sentence: 17_35,sap lt replication server
+Sentence: 17_36,sap businessobjects
+Sentence: 17_37,sap netweaver
+Sentence: 17_39,sap data services
+Sentence: 17_39,sap access control
+Sentence: 17_40,sap access control
+Sentence: 17_41,sap netweaver
+Sentence: 17_42,sap mii
+Sentence: 17_43,sap mii
+Sentence: 17_44,sap mii
+Sentence: 17_45,sap engineering control center
+Sentence: 17_45,sap ectr
+Sentence: 17_45,sap ectr
+Sentence: 17_46,sap ectr
+Sentence: 17_46,sap ectr
+Sentence: 17_47,sap ectr
+Sentence: 17_47,sap ectr
+Sentence: 17_48,sap bank communication management
+Sentence: 17_48,sap hana
+Sentence: 17_48,sap hana
+Sentence: 17_49,sap gateway
+Sentence: 17_50,sap gateway
+Sentence: 17_51,sap gateway
+Sentence: 17_53,sap gateway
+Sentence: 17_53,sap hana
+Sentence: 17_53,sap hana
+Sentence: 17_54,sap process integration
+Sentence: 17_54,sap process integration
+Sentence: 17_54,sap process integration
+Sentence: 17_56,sap netweaver
+Sentence: 17_56,sap bank communication management
+Sentence: 17_56,sap hana
+Sentence: 17_57,sap hana
+Sentence: 17_57,sap manufacturing execution
+Sentence: 17_58,sap manufacturing execution
+Sentence: 17_59,sap hana
+Sentence: 17_60,sap solution manager
+Sentence: 17_60,sap quality center
+Sentence: 17_61,sap hybris
+Sentence: 17_61,sap hybris
+Sentence: 17_61,sap hybris
+Sentence: 17_61,sap hybris
+Sentence: 17_61,sap hybris
+Sentence: 17_62,sap crm
+Sentence: 17_62,sap hybris
+Sentence: 17_63,sap hybris
+Sentence: 17_64,sap hybris
+Sentence: 17_65,sap real estate
+Sentence: 17_66,sap learning solution
+Sentence: 17_67,sap lt replication server
+Sentence: 17_68,sap lt replication server
+Sentence: 17_69,sap lt replication server
+Sentence: 17_70,sap ltrs
+Sentence: 17_71,sap enhancement package
+Sentence: 17_71,sap erp
+Sentence: 17_71,sap enhancement package
+Sentence: 17_71,sap erp
+Sentence: 17_72,sap convergent charging
+Sentence: 17_73,sap financial closing cockpit
+Sentence: 17_74,sap financial closing cockpit
+Sentence: 17_75,sap workforce performance builder
+Sentence: 17_76,sap workforce performance builder
+Sentence: 17_77,sap workforce performance builder
+Sentence: 17_78,sap workforce performance builder
+Sentence: 17_79,sap customer activity repository
+Sentence: 17_80,sap access control
+Sentence: 17_81,sap access control
+Sentence: 17_82,sap learning solution
+Sentence: 17_83,sap netweaver
+Sentence: 17_84,sap netweaver
+Sentence: 17_85,sap loadrunner
+Sentence: 17_86,sap loadrunner
+Sentence: 17_87,sap loadrunner
+Sentence: 17_88,sap erp
+Sentence: 17_89,sap erp
+Sentence: 17_90,sap erp
+Sentence: 17_91,sap erp
+Sentence: 17_92,sap erp
+Sentence: 17_93,sap erp
+Sentence: 17_94,sap erp
+Sentence: 17_95,sap asset information workbench
+Sentence: 17_96,sap marketing
+Sentence: 17_96,sap crm
+Sentence: 17_97,sap crm
+Sentence: 17_97,sap crm
+Sentence: 17_98,sap identity management
+Sentence: 17_99,sap document access
+Sentence: 17_100,sap workforce performance builder
+Sentence: 17_100,sap workforce performance builder
+Sentence: 17_101,sap hana
+Sentence: 17_102,sap hana
+Sentence: 17_103,sap analytics cloud
+Sentence: 17_104,sap infiniteinsight
+Sentence: 17_105,sap hana
+Sentence: 17_105,sap predictive analytics
+Sentence: 17_106,sap lumira
+Sentence: 17_107,sap analytics cloud
+Sentence: 17_108,sap cloud connector
+Sentence: 17_109,sap big data margin assurance
+Sentence: 17_110,sap hana
+Sentence: 17_111,sap cloud platform
+Sentence: 17_112,sap hana
+Sentence: 17_113,sap hana
+Sentence: 17_114,sap cloud platform
+Sentence: 17_114,sap hana
+Sentence: 17_115,sap hana
+Sentence: 17_116,sap hana
+Sentence: 17_117,sap hana
+Sentence: 17_118,sap hana
+Sentence: 17_119,sap analytics cloud
+Sentence: 17_120,sap analytics cloud
+Sentence: 17_121,sap analytics cloud
+Sentence: 17_122,sap analytics cloud
+Sentence: 17_123,sap analytics cloud
+Sentence: 17_124,sap ii
+Sentence: 17_125,sap ii
+Sentence: 17_126,sap ii
+Sentence: 17_128,sap analytics cloud
+Sentence: 17_128,sap analytics cloud
+Sentence: 17_129,sap hana
+Sentence: 17_130,sap hana
+Sentence: 17_131,sap predictive analytics
+Sentence: 17_131,sap predictive analytics
+Sentence: 17_132,sap analytics cloud
+Sentence: 17_133,sap predictive analytics
+Sentence: 17_134,sap predictive analytics
+Sentence: 17_135,sap predictive analytics
+Sentence: 17_136,sap predictive analytics
+Sentence: 17_137,sap predictive analytics
+Sentence: 17_138,sap hana
+Sentence: 17_139,sap hana
+Sentence: 17_140,sap hana
+Sentence: 17_141,sap predictive analytics
+Sentence: 17_141,sap hana
+Sentence: 17_142,sap predictive analytics
+Sentence: 17_142,sap hana
+Sentence: 17_143,sap predictive analytics
+Sentence: 17_143,sap hana
+Sentence: 17_144,sap predictive analytics
+Sentence: 17_144,sap hana
+Sentence: 17_145,sap infiniteinsight
+Sentence: 17_146,sap infiniteinsight
+Sentence: 17_147,sap hana
+Sentence: 17_148,sap gateway
+Sentence: 17_149,sap hana
+Sentence: 17_150,sap hana
+Sentence: 17_151,sap hana
+Sentence: 17_152,sap hana
+Sentence: 17_153,sap hana
+Sentence: 17_154,sap predictive analytics
+Sentence: 17_155,sap predictive analytics
+Sentence: 17_156,sap analytics cloud
+Sentence: 17_157,sap cloud for customer
+Sentence: 17_158,sap cp
+Sentence: 17_159,sap cloud platform
+Sentence: 17_159,sap cp
+Sentence: 17_159,sap cp
+Sentence: 17_159,sap cp
+Sentence: 18_1,sap hana
+Sentence: 18_2,sap infiniteinsight
+Sentence: 18_3,sap infiniteinsight
+Sentence: 18_4,sap predictive analysis
+Sentence: 18_4,sap infiniteinsight
+Sentence: 18_5,sap predictive analytics
+Sentence: 18_5,sap infiniteinsight
+Sentence: 18_5,sap predictive analysis
+Sentence: 18_6,sap cloud platform
+Sentence: 18_7,sap hana
+Sentence: 18_8,sap analytics cloud
+Sentence: 18_9,sap predictive analytics
+Sentence: 18_10,sap predictive analytics
+Sentence: 18_11,sap predictive analytics
+Sentence: 18_12,sap analytics cloud
+Sentence: 18_13,sap businessobjects
+Sentence: 18_14,sap predictive analytics
+Sentence: 18_15,sap ii
+Sentence: 18_15,sap ii
+Sentence: 18_16,sap ii
+Sentence: 18_17,sap ii
+Sentence: 18_18,sap hana
+Sentence: 18_19,sap hana
+Sentence: 18_20,sap vora
+Sentence: 18_20,sap cloud platform
+Sentence: 18_21,sap vora
+Sentence: 18_23,sap cloud platform
+Sentence: 18_23,sap hana
+Sentence: 18_24,sap hana
+Sentence: 18_24,sap hana
+Sentence: 18_25,sap hana
+Sentence: 18_25,sap hana
+Sentence: 18_26,sap vora
+Sentence: 18_27,sap vora
+Sentence: 18_27,sap vora
+Sentence: 18_28,sap hana
+Sentence: 18_29,sap hana
+Sentence: 18_30,sap vora
+Sentence: 18_31,sap hana
+Sentence: 18_32,sap hana
+Sentence: 18_33,sap hana
+Sentence: 18_34,sap vora
+Sentence: 18_35,sap vora
+Sentence: 18_36,sap vora
+Sentence: 18_37,sap hana
+Sentence: 18_38,sap hana
+Sentence: 18_39,sap hana
+Sentence: 18_40,sap hana
+Sentence: 18_41,sap hana
+Sentence: 18_42,sap hana
+Sentence: 18_43,sap hana
+Sentence: 18_44,sap hana
+Sentence: 18_45,sap vora
+Sentence: 18_46,sap vora
+Sentence: 18_46,sap hana
+Sentence: 18_47,sap hana
+Sentence: 18_47,sap hana
+Sentence: 18_48,sap hana
+Sentence: 18_49,sap hana
+Sentence: 18_50,sap hana
+Sentence: 18_51,sap hana
+Sentence: 18_52,sap vora
+Sentence: 18_54,sap vora
+Sentence: 18_54,sap hana
+Sentence: 18_55,sap vora
+Sentence: 18_56,sap vora
+Sentence: 18_57,sap hana
+Sentence: 18_58,sap hana
+Sentence: 18_58,sap hana
+Sentence: 18_59,sap river
+Sentence: 18_59,sap river
+Sentence: 18_59,sap hana
+Sentence: 18_59,sap river
+Sentence: 18_60,sap hana
+Sentence: 18_61,sap hana
+Sentence: 18_62,sap analytics cloud
+Sentence: 18_63,sap hana
+Sentence: 18_64,sap businessobjects
+Sentence: 18_65,sap predictive analytics
+Sentence: 18_66,sap hana
+Sentence: 18_67,sap hana
+Sentence: 18_68,sap hana
+Sentence: 18_68,sap hana
+Sentence: 18_68,sap hana
+Sentence: 18_69,sap hana
+Sentence: 18_70,sap hana
+Sentence: 18_71,sap hana
+Sentence: 18_71,sap hana
+Sentence: 18_71,sap hana
+Sentence: 18_72,sap businessobjects
+Sentence: 18_72,sap hana
+Sentence: 18_72,sap hana
+Sentence: 18_74,sap cloud connector
+Sentence: 18_74,sap hana
+Sentence: 18_75,sap hana
+Sentence: 18_76,sap analytics cloud
+Sentence: 18_77,sap vehicle insights
+Sentence: 18_78,sap hana
+Sentence: 18_79,sap hana
+Sentence: 18_80,sap cloud connector
+Sentence: 18_81,sap fiori
+Sentence: 18_82,sap vora
+Sentence: 18_83,sap predictive analytics
+Sentence: 18_84,sap predictive analytics
+Sentence: 18_85,sap hana
+Sentence: 18_86,sap hana
+Sentence: 18_86,sap hana
+Sentence: 18_87,sap hana
+Sentence: 18_87,sap cloud identity
+Sentence: 18_88,sap hana
+Sentence: 18_90,sap netweaver
+Sentence: 18_90,sap gateway
+Sentence: 18_91,sap gateway
+Sentence: 18_92,sap gateway
+Sentence: 18_93,sap analytics cloud
+Sentence: 18_94,sap predictive service
+Sentence: 18_95,sap hana
+Sentence: 18_96,sap hana
+Sentence: 18_97,sap hana
+Sentence: 18_97,sap hana
+Sentence: 18_98,sap hana
+Sentence: 18_99,sap analytics cloud
+Sentence: 18_100,sap lumira
+Sentence: 18_101,sap predictive analytics
+Sentence: 18_102,sap analytics cloud
+Sentence: 18_103,sap hana
+Sentence: 18_104,sap hana
+Sentence: 18_106,sap predictive analytics
+Sentence: 18_106,sap cloud platform
+Sentence: 18_107,sap vora
+Sentence: 18_108,sap analytics cloud
+Sentence: 18_109,sap hana
+Sentence: 18_110,sap hana
+Sentence: 18_111,sap cloud connector
+Sentence: 18_112,sap hana
+Sentence: 18_113,sap hana
+Sentence: 18_114,sap cloud connector
+Sentence: 18_115,sap analytics cloud
+Sentence: 18_116,sap analytics cloud
+Sentence: 18_117,sap cp
+Sentence: 18_118,sap predictive analytics
+Sentence: 18_119,sap predictive analytics
+Sentence: 18_120,sap predictive analytics
+Sentence: 18_121,sap predictive analytics
+Sentence: 18_122,sap predictive analytics
+Sentence: 18_123,sap analytics cloud
+Sentence: 18_124,sap predictive analytics
+Sentence: 18_124,sap cloud platform
+Sentence: 18_124,sap predictive analytics
+Sentence: 18_125,sap predictive analytics
+Sentence: 18_126,sap predictive analytics
+Sentence: 18_127,sap businessobjects
+Sentence: 18_128,sap hana
+Sentence: 18_129,sap hana
+Sentence: 18_130,sap hana
+Sentence: 18_131,sap hana
+Sentence: 18_132,sap hana
+Sentence: 18_133,sap hana
+Sentence: 18_134,sap hana
+Sentence: 18_135,sap hana
+Sentence: 18_135,sap predictive analytics
+Sentence: 18_136,sap cloud platform
+Sentence: 18_137,sap hana
+Sentence: 18_137,sap hana
+Sentence: 18_137,sap hana
+Sentence: 18_138,sap hana
+Sentence: 18_139,sap infiniteinsight
+Sentence: 18_140,sap hana
+Sentence: 18_141,sap hana
+Sentence: 18_142,sap hana
+Sentence: 18_143,sap hana
+Sentence: 18_144,sap analytics cloud
+Sentence: 18_145,sap analytics cloud
+Sentence: 18_145,sap predictive analytics
+Sentence: 18_146,sap analytics cloud
+Sentence: 18_146,sap analytics cloud
+Sentence: 18_147,sap cloud connector
+Sentence: 18_147,sap hana
+Sentence: 18_147,sap hana
+Sentence: 18_148,sap hana
+Sentence: 18_149,sap hana
+Sentence: 18_150,sap hana
+Sentence: 18_150,sap hana
+Sentence: 18_150,sap cloud platform
+Sentence: 18_151,sap hana
+Sentence: 18_152,sap ii
+Sentence: 18_152,sap ii
+Sentence: 18_153,sap predictive analytics
+Sentence: 18_154,sap predictive analytics
+Sentence: 18_155,sap predictive analytics
+Sentence: 18_156,sap predictive analytics
+Sentence: 18_157,sap predictive analytics
+Sentence: 18_158,sap predictive analytics
+Sentence: 18_158,sap predictive analytics
+Sentence: 18_159,sap businessobjects
+Sentence: 18_160,sap predictive analytics
+Sentence: 18_161,sap predictive analytics
+Sentence: 18_162,sap hana
+Sentence: 18_163,sap hana
+Sentence: 18_164,sap predictive analytics
+Sentence: 18_165,sap hana
+Sentence: 18_165,sap cloud platform
+Sentence: 18_166,sap hana
+Sentence: 18_167,sap data hub
+Sentence: 18_168,sap hana
+Sentence: 18_169,sap analytics cloud
+Sentence: 18_170,sap analytics cloud
+Sentence: 18_171,sap predictive analytics
+Sentence: 18_172,sap fiori
+Sentence: 18_173,sap predictive analytics
+Sentence: 18_174,sap predictive analytics
+Sentence: 18_175,sap analytics cloud
+Sentence: 18_176,sap hana
+Sentence: 18_177,sap hana
+Sentence: 18_178,sap hana
+Sentence: 18_179,sap hana
+Sentence: 18_180,sap authenticator
+Sentence: 18_181,sap sql anywhere
+Sentence: 18_182,sap predictive analytics
+Sentence: 18_183,sap hana
+Sentence: 18_184,sap hana
+Sentence: 18_185,sap hana
+Sentence: 18_186,sap hana
+Sentence: 18_187,sap hana
+Sentence: 18_188,sap hana
+Sentence: 18_189,sap hana
+Sentence: 18_189,sap hana
+Sentence: 18_190,sap hana
+Sentence: 18_191,sap hana
+Sentence: 18_192,sap hana
+Sentence: 18_193,sap hana
+Sentence: 18_194,sap hana
+Sentence: 18_195,sap hana
+Sentence: 18_196,sap hana
+Sentence: 18_197,sap hana
+Sentence: 18_198,sap hana
+Sentence: 18_199,sap build
+Sentence: 18_199,sap build
+Sentence: 18_200,sap cloud platform
+Sentence: 18_201,sap cloud platform
+Sentence: 18_201,sap cloud platform
+Sentence: 18_202,sap analytics cloud
+Sentence: 18_203,sap analytics cloud
+Sentence: 18_204,sap analytics cloud
+Sentence: 18_205,sap analytics cloud
+Sentence: 18_206,sap analytics cloud
+Sentence: 18_207,sap cp
+Sentence: 18_208,sap predictive analytics
+Sentence: 18_209,sap predictive analytics
+Sentence: 18_210,sap predictive analytics
+Sentence: 18_211,sap predictive analytics
+Sentence: 18_212,sap predictive analytics
+Sentence: 18_213,sap predictive analytics
+Sentence: 18_214,sap predictive analytics
+Sentence: 18_215,sap hana
+Sentence: 18_216,sap cloud platform
+Sentence: 18_216,sap analytics cloud
+Sentence: 18_217,sap analytics cloud
+Sentence: 18_218,sap predictive analytics
+Sentence: 18_218,sap hana
+Sentence: 18_219,sap predictive analytics
+Sentence: 18_219,sap hana
+Sentence: 18_220,sap predictive service
+Sentence: 19_1,sap analytics cloud
+Sentence: 19_2,sap cloud platform
+Sentence: 19_4,sap hana
+Sentence: 19_4,sap hana
+Sentence: 19_5,sap businessobjects
+Sentence: 19_6,sap hana
+Sentence: 19_7,sap data services
+Sentence: 19_8,sap data services
+Sentence: 19_9,sap businessobjects
+Sentence: 19_10,sap bobj
+Sentence: 19_11,sap bobj
+Sentence: 19_12,sap bobj
+Sentence: 19_13,sap bobj
+Sentence: 19_14,sap data services
+Sentence: 19_15,sap bobj
+Sentence: 19_16,sap predictive analytics
+Sentence: 19_17,sap iq
+Sentence: 19_19,sap ii
+Sentence: 19_19,sap hana
+Sentence: 19_20,sap hana
+Sentence: 19_21,sap hana
+Sentence: 19_22,sap hana
+Sentence: 19_23,sap hana
+Sentence: 19_24,sap hana
+Sentence: 19_25,sap hana
+Sentence: 19_26,sap hana
+Sentence: 19_27,sap hana
+Sentence: 19_28,sap hana
+Sentence: 19_29,sap hana
+Sentence: 19_30,sap hana
+Sentence: 19_31,sap hana
+Sentence: 19_32,sap hana
+Sentence: 19_33,sap hana
+Sentence: 19_34,sap hana
+Sentence: 19_35,sap hana
+Sentence: 19_36,sap hana
+Sentence: 19_37,sap hana
+Sentence: 19_37,sap hana
+Sentence: 19_38,sap hana
+Sentence: 19_39,sap hana
+Sentence: 19_39,sap hana
+Sentence: 19_39,sap hana
+Sentence: 19_39,sap hana
+Sentence: 19_40,sap hana
+Sentence: 19_41,sap hana
+Sentence: 19_42,sap hana
+Sentence: 19_43,sap hana
+Sentence: 19_43,sap hana
+Sentence: 19_45,sap hana
+Sentence: 19_45,sap hana
+Sentence: 19_46,sap hana
+Sentence: 19_47,sap hana
+Sentence: 19_48,sap hana
+Sentence: 19_49,sap hana
+Sentence: 19_50,sap hana
+Sentence: 19_51,sap business intelligence
+Sentence: 19_52,sap businessobjects
+Sentence: 19_53,sap businessobjects
+Sentence: 19_54,sap business intelligence
+Sentence: 19_55,sap analytics cloud
+Sentence: 19_56,sap netweaver
+Sentence: 19_57,sap lumira
+Sentence: 19_58,sap lumira
+Sentence: 19_59,sap predictive analytics
+Sentence: 19_59,sap predictive analytics
+Sentence: 19_60,sap predictive analytics
+Sentence: 19_60,sap predictive analytics
+Sentence: 19_62,sap predictive analysis
+Sentence: 19_62,sap hana
+Sentence: 19_63,sap hana
+Sentence: 19_64,sap hana
+Sentence: 19_65,sap hana
+Sentence: 19_66,sap hana
+Sentence: 19_67,sap predictive analytics
+Sentence: 19_68,sap predictive analytics
+Sentence: 19_68,sap hana
+Sentence: 19_69,sap hana
+Sentence: 19_70,sap hana
+Sentence: 19_71,sap gateway
+Sentence: 19_71,sap netweaver
+Sentence: 19_72,sap predictive analytics
+Sentence: 19_72,sap predictive analytics
+Sentence: 19_72,sap predictive analytics
+Sentence: 19_73,sap predictive analytics
+Sentence: 19_73,sap predictive analytics
+Sentence: 19_74,sap hana
+Sentence: 19_75,sap hana
+Sentence: 19_76,sap hana
+Sentence: 19_77,sap businessobjects
+Sentence: 19_78,sap hana
+Sentence: 19_79,sap hana
+Sentence: 19_80,sap hana
+Sentence: 19_81,sap hana
+Sentence: 19_82,sap hana
+Sentence: 19_82,sap hana
+Sentence: 19_83,sap hana
+Sentence: 19_84,sap predictive analytics
+Sentence: 19_85,sap predictive analytics
+Sentence: 19_86,sap predictive analytics
+Sentence: 19_87,sap cloud platform
+Sentence: 19_88,sap cloud platform
+Sentence: 19_89,sap process integration
+Sentence: 19_90,sap cloud platform
+Sentence: 19_91,sap cp
+Sentence: 19_91,sap cp
+Sentence: 19_92,sap hana
+Sentence: 19_93,sap predictive analytics
+Sentence: 19_94,sap predictive analytics
+Sentence: 19_95,sap predictive analysis
+Sentence: 19_96,sap businessobjects
+Sentence: 19_97,sap fiori
+Sentence: 19_98,sap predictive analysis
+Sentence: 19_99,sap predictive analytics
+Sentence: 19_100,sap hana
+Sentence: 19_101,sap analytics cloud
+Sentence: 19_102,sap hana
+Sentence: 19_103,sap analytics cloud
+Sentence: 19_104,sap cloud platform
+Sentence: 19_105,sap analytics cloud
+Sentence: 19_106,sap analytics cloud
+Sentence: 19_107,sap predictive analytics
+Sentence: 19_107,sap hana
+Sentence: 19_108,sap predictive analytics
+Sentence: 19_108,sap hana
+Sentence: 19_109,sap infiniteinsight
+Sentence: 19_110,sap hana
+Sentence: 19_111,sap hana
+Sentence: 19_112,sap predictive analytics
+Sentence: 19_113,sap cp
+Sentence: 19_113,sap cloud for predictive
+Sentence: 19_113,sap cloud for predictive
+Sentence: 19_114,sap businessobjects
+Sentence: 19_115,sap gateway
+Sentence: 19_116,sap gateway
+Sentence: 19_117,sap analytics cloud
+Sentence: 19_118,sap analytics cloud
+Sentence: 19_119,sap analytics cloud
+Sentence: 19_120,sap analytics cloud
+Sentence: 19_121,sap cloud platform
+Sentence: 19_121,sap cloud platform
+Sentence: 19_122,sap cloud platform
+Sentence: 19_123,sap cloud platform
+Sentence: 19_125,sap predictive analytics
+Sentence: 19_125,sap predictive analytics
+Sentence: 19_125,sap predictive analytics
+Sentence: 19_126,sap cloud platform
+Sentence: 19_127,sap hana
+Sentence: 19_127,sap ase
+Sentence: 19_128,sap hana
+Sentence: 19_128,sap ase
+Sentence: 19_129,sap hana
+Sentence: 19_130,sap hana
+Sentence: 19_131,sap netweaver
+Sentence: 19_131,sap predictive analysis
+Sentence: 19_132,sap hana
+Sentence: 19_132,sap hana
+Sentence: 19_132,sap hana
+Sentence: 19_133,sap hana
+Sentence: 19_134,sap hana
+Sentence: 19_135,sap hana
+Sentence: 19_136,sap predictive analytics
+Sentence: 19_137,sap predictive analysis
+Sentence: 19_138,sap businessobjects
+Sentence: 19_139,sap businessobjects
+Sentence: 19_140,sap businessobjects
+Sentence: 19_141,sap businessobjects
+Sentence: 19_142,sap businessobjects
+Sentence: 19_143,sap businessobjects
+Sentence: 19_144,sap lumira
+Sentence: 19_146,sap hana
+Sentence: 19_147,sap hana
+Sentence: 19_147,sap hana
+Sentence: 19_148,sap predictive analytics
+Sentence: 19_149,sap predictive service
+Sentence: 19_150,sap predictive analytics
+Sentence: 19_150,sap hana
+Sentence: 19_151,sap predictive analytics
+Sentence: 19_151,sap hana
+Sentence: 19_152,sap ii
+Sentence: 19_153,sap ii
+Sentence: 19_154,sap ii
+Sentence: 19_154,sap ii
+Sentence: 19_155,sap predictive analytics
+Sentence: 19_156,sap businessobjects
+Sentence: 19_157,sap predictive analytics
+Sentence: 19_158,sap hana
+Sentence: 19_158,sap predictive analytics
+Sentence: 19_158,sap hana
+Sentence: 19_159,sap cloud connector
+Sentence: 19_160,sap cloud connector
+Sentence: 19_161,sap cloud connector
+Sentence: 19_161,sap cloud connector
+Sentence: 19_162,sap cloud connector
+Sentence: 19_163,sap cloud connector
+Sentence: 19_164,sap cloud connector
+Sentence: 19_165,sap predictive analytics
+Sentence: 19_166,sap predictive analytics
+Sentence: 19_167,sap predictive analytics
+Sentence: 19_167,sap predictive analysis
+Sentence: 19_168,sap predictive analysis
+Sentence: 19_169,sap predictive analysis
+Sentence: 19_170,sap predictive analysis
+Sentence: 19_170,sap hana
+Sentence: 19_171,sap infiniteinsight
+Sentence: 19_172,sap cloud connector
+Sentence: 19_173,sap hana
+Sentence: 19_174,sap predictive analytics
+Sentence: 19_175,sap predictive analytics
+Sentence: 19_176,sap predictive analytics
+Sentence: 19_176,sap hana
+Sentence: 19_177,sap predictive analytics
+Sentence: 19_177,sap hana
+Sentence: 19_178,sap hana
+Sentence: 19_179,sap analytics cloud
+Sentence: 19_180,sap hana
+Sentence: 19_181,sap hana
+Sentence: 19_182,sap hana
+Sentence: 19_182,sap hana
+Sentence: 19_182,sap hana
+Sentence: 19_183,sap lumira
+Sentence: 19_184,sap hana
+Sentence: 19_185,sap analytics cloud
+Sentence: 19_186,sap predictive analytics
+Sentence: 19_187,sap businessobjects
+Sentence: 19_188,sap businessobjects
+Sentence: 19_189,sap hana
+Sentence: 19_190,sap analytics cloud
+Sentence: 19_191,sap ii
+Sentence: 19_191,sap ii
+Sentence: 19_192,sap ii
+Sentence: 19_193,sap analytics cloud
+Sentence: 19_194,sap analytics cloud
+Sentence: 19_194,sap analytics cloud
+Sentence: 19_194,sap cloud platform
+Sentence: 19_195,sap analytics cloud
+Sentence: 19_195,sap cloud platform
+Sentence: 19_196,sap analytics cloud
+Sentence: 19_197,sap cp
+Sentence: 19_198,sap predictive analysis
+Sentence: 19_199,sap analytics cloud
+Sentence: 19_200,sap predictive service
+Sentence: 19_201,sap predictive analytics
+Sentence: 19_201,sap hana
+Sentence: 19_202,sap predictive analytics
+Sentence: 19_202,sap hana
+Sentence: 19_203,sap hana
+Sentence: 19_204,sap hana
+Sentence: 19_205,sap hana
+Sentence: 19_206,sap hana
+Sentence: 19_207,sap hana
+Sentence: 19_208,sap hana
+Sentence: 19_209,sap hana
+Sentence: 19_210,sap hana
+Sentence: 19_211,sap hana
+Sentence: 19_212,sap hana
+Sentence: 19_212,sap hana
+Sentence: 19_212,sap hana
+Sentence: 19_212,sap hana
+Sentence: 19_212,sap hana
+Sentence: 19_212,sap hana
+Sentence: 19_213,sap hana
+Sentence: 19_214,sap hana
+Sentence: 19_215,sap hana
+Sentence: 19_216,sap analytics cloud
+Sentence: 19_217,sap hana
+Sentence: 19_218,sap hana
+Sentence: 19_219,sap hana
+Sentence: 19_220,sap mii
+Sentence: 19_221,sap hana
+Sentence: 19_222,sap analytics cloud
+Sentence: 19_223,sap analytics cloud
+Sentence: 19_224,sap hana
+Sentence: 19_224,sap hana
+Sentence: 19_226,sap analytics cloud
+Sentence: 19_226,sap hana
+Sentence: 19_228,sap cloud connector
+Sentence: 19_228,sap hana
+Sentence: 19_229,sap analytics cloud
+Sentence: 19_230,sap hana
+Sentence: 19_231,sap hana
+Sentence: 19_232,sap hana
+Sentence: 19_233,sap analytics cloud
+Sentence: 19_234,sap analytics cloud
+Sentence: 19_234,sap hana
+Sentence: 19_235,sap hana
+Sentence: 19_236,sap analytics cloud
+Sentence: 19_236,sap cloud connector
+Sentence: 19_238,sap analytics cloud
+Sentence: 19_238,sap analytics cloud
+Sentence: 19_239,sap cloud connector
+Sentence: 19_241,sap cloud connector
+Sentence: 19_241,sap analytics cloud
+Sentence: 19_243,sap analytics cloud
+Sentence: 19_244,sap analytics cloud
+Sentence: 19_244,sap hana
+Sentence: 19_244,sap analytics cloud
+Sentence: 19_245,sap analytics cloud
+Sentence: 19_245,sap analytics cloud
+Sentence: 19_246,sap predictive analytics
+Sentence: 19_246,sap hana
+Sentence: 19_247,sap predictive analytics
+Sentence: 19_247,sap hana
+Sentence: 19_248,sap analytics hub
+Sentence: 19_249,sap predictive analytics
+Sentence: 19_249,sap hana
+Sentence: 19_249,sap hana
+Sentence: 19_250,sap predictive analytics
+Sentence: 19_250,sap hana
+Sentence: 19_251,sap infiniteinsight
+Sentence: 19_252,sap analytics cloud
+Sentence: 19_253,sap analytics cloud
+Sentence: 19_255,sap analytics cloud
+Sentence: 19_255,sap analytics cloud
+Sentence: 19_256,sap analytics cloud
+Sentence: 19_257,sap analytics cloud
+Sentence: 19_257,sap analytics cloud
+Sentence: 19_258,sap business planning and consolidation
+Sentence: 19_259,sap bpc
+Sentence: 19_260,sap bpc
+Sentence: 19_261,sap analytics cloud
+Sentence: 19_261,sap analytics cloud
+Sentence: 19_262,sap analytics cloud
+Sentence: 19_263,sap analytics cloud
+Sentence: 19_264,sap analytics cloud
+Sentence: 19_266,sap analytics cloud
+Sentence: 19_267,sap analytics cloud
+Sentence: 19_267,sap analytics cloud
+Sentence: 19_269,sap analytics cloud
+Sentence: 19_269,sap analytics cloud
+Sentence: 19_270,sap hana
+Sentence: 19_271,sap hana
+Sentence: 19_271,sap hana
+Sentence: 19_272,sap hana
+Sentence: 19_273,sap predictive analytics
+Sentence: 19_274,sap predictive analytics
+Sentence: 19_275,sap predictive analytics
+Sentence: 19_276,sap predictive analytics
+Sentence: 19_277,sap predictive analytics
+Sentence: 19_278,sap predictive analytics
+Sentence: 19_279,sap predictive analytics
+Sentence: 20_1,sap hana
+Sentence: 20_2,sap lumira
+Sentence: 20_3,sap lumira
+Sentence: 20_4,sap lumira
+Sentence: 20_5,sap business intelligence
+Sentence: 20_6,sap businessobjects
+Sentence: 20_7,sap businessobjects
+Sentence: 20_8,sap business intelligence
+Sentence: 20_9,sap businessobjects
+Sentence: 20_10,sap infiniteinsight
+Sentence: 20_11,sap hana
+Sentence: 20_12,sap vora
+Sentence: 20_13,sap cloud connector
+Sentence: 20_14,sap cloud connector
+Sentence: 20_15,sap hana
+Sentence: 20_16,sap hana
+Sentence: 20_17,sap businessobjects
+Sentence: 20_17,sap businessobjects
+Sentence: 20_18,sap business intelligence
+Sentence: 20_19,sap hana
+Sentence: 20_20,sap hana
+Sentence: 20_21,sap hana
+Sentence: 20_22,sap hana
+Sentence: 20_23,sap hana
+Sentence: 20_24,sap predictive analytics
+Sentence: 20_24,sap businessobjects
+Sentence: 20_25,sap fiori
+Sentence: 20_26,sap hana
+Sentence: 20_27,sap predictive analytics
+Sentence: 20_27,sap predictive analytics
+Sentence: 20_28,sap predictive analytics
+Sentence: 20_28,sap predictive analytics
+Sentence: 20_29,sap hana
+Sentence: 20_30,sap infiniteinsight
+Sentence: 20_31,sap cloud platform
+Sentence: 20_31,sap hana
+Sentence: 20_32,sap hana
+Sentence: 20_32,sap hana
+Sentence: 20_33,sap hana
+Sentence: 20_33,sap hana
+Sentence: 20_34,sap cloud platform
+Sentence: 20_34,sap hana
+Sentence: 20_35,sap hana
+Sentence: 20_35,sap hana
+Sentence: 20_36,sap fiori
+Sentence: 20_37,sap hana
+Sentence: 20_38,sap hana
+Sentence: 20_39,sap hana
+Sentence: 20_40,sap hana
+Sentence: 20_41,sap predictive analytics
+Sentence: 20_41,sap businessobjects
+Sentence: 20_42,sap data hub
+Sentence: 20_44,sap analytics hub
+Sentence: 20_44,sap analytics hub
+Sentence: 20_45,sap analytics cloud
+Sentence: 20_46,sap predictive service
+Sentence: 20_47,sap predictive analytics
+Sentence: 20_47,sap hana
+Sentence: 20_48,sap predictive analytics
+Sentence: 20_48,sap hana
+Sentence: 20_49,sap hana
+Sentence: 20_50,sap hana
+Sentence: 20_51,sap analytics cloud
+Sentence: 20_52,sap data hub
+Sentence: 20_53,sap data hub
+Sentence: 20_54,sap hana
+Sentence: 20_55,sap hana
+Sentence: 20_55,sap hana
+Sentence: 20_56,sap predictive analytics
+Sentence: 20_56,sap predictive analytics
+Sentence: 20_57,sap predictive analysis
+Sentence: 20_58,sap infiniteinsight
+Sentence: 20_58,sap predictive analytics
+Sentence: 20_59,sap predictive analysis
+Sentence: 20_59,sap infiniteinsight
+Sentence: 20_60,sap hana
+Sentence: 20_61,sap hana
+Sentence: 20_62,sap hana
+Sentence: 20_63,sap hana
+Sentence: 20_64,sap hana
+Sentence: 20_65,sap cloud platform
+Sentence: 20_66,sap hana
+Sentence: 20_67,sap predictive service
+Sentence: 20_68,sap hana
+Sentence: 20_69,sap hana
+Sentence: 20_70,sap hana
+Sentence: 20_70,sap hana
+Sentence: 20_71,sap hana
+Sentence: 20_71,sap hana
+Sentence: 20_72,sap vora
+Sentence: 20_73,sap infiniteinsight
+Sentence: 20_74,sap infiniteinsight
+Sentence: 20_75,sap hana
+Sentence: 20_77,sap hana
+Sentence: 20_77,sap hana
+Sentence: 20_78,sap hana
+Sentence: 20_79,sap hana
+Sentence: 20_80,sap hana
+Sentence: 20_81,sap hana
+Sentence: 20_82,sap hana
+Sentence: 20_83,sap predictive analytics
+Sentence: 20_83,sap hana
+Sentence: 20_84,sap predictive analytics
+Sentence: 20_84,sap hana
+Sentence: 20_85,sap hana
+Sentence: 20_86,sap hana
+Sentence: 20_87,sap data hub
+Sentence: 20_88,sap data hub
+Sentence: 20_88,sap data hub
+Sentence: 20_90,sap infiniteinsight
+Sentence: 20_90,sap hana
+Sentence: 20_91,sap hana
+Sentence: 20_92,sap hana
+Sentence: 20_93,sap hana
+Sentence: 20_94,sap hana
+Sentence: 20_96,sap hana
+Sentence: 20_96,sap hana
+Sentence: 20_96,sap hana
+Sentence: 20_97,sap hana
+Sentence: 20_98,sap hana
+Sentence: 20_99,sap hana
+Sentence: 20_100,sap hana
+Sentence: 20_101,sap hana
+Sentence: 20_102,sap hana
+Sentence: 20_103,sap hana
+Sentence: 20_104,sap hana
+Sentence: 20_105,sap analytics cloud
+Sentence: 20_106,sap cp
+Sentence: 20_107,sap hana
+Sentence: 20_108,sap hana
+Sentence: 20_109,sap hana
+Sentence: 20_110,sap hana
+Sentence: 20_111,sap hana
+Sentence: 20_111,sap hana
+Sentence: 20_112,sap hana
+Sentence: 20_113,sap hana
+Sentence: 20_114,sap hana
+Sentence: 20_115,sap hana
+Sentence: 20_116,sap hana
+Sentence: 20_116,sap hana
+Sentence: 20_117,sap cloud connector
+Sentence: 20_118,sap cloud connector
+Sentence: 20_119,sap cloud platform
+Sentence: 20_120,sap cloud platform
+Sentence: 20_121,sap cloud platform
+Sentence: 20_123,sap cloud connector
+Sentence: 20_123,sap netweaver
+Sentence: 20_124,sap hana
+Sentence: 20_125,sap hana
+Sentence: 20_126,sap cloud platform
+Sentence: 20_127,sap predictive analysis
+Sentence: 20_128,sap analytics cloud
+Sentence: 20_129,sap predictive analytics
+Sentence: 20_130,sap analytics cloud
+Sentence: 20_131,sap hana
+Sentence: 20_132,sap hana
+Sentence: 20_132,sap hana
+Sentence: 20_133,sap hana
+Sentence: 20_135,sap hana
+Sentence: 20_135,sap hana
+Sentence: 20_136,sap hana
+Sentence: 20_137,sap hana
+Sentence: 20_137,sap hana
+Sentence: 20_138,sap lumira
+Sentence: 20_139,sap lumira
+Sentence: 20_140,sap hana
+Sentence: 20_141,sap cloud platform
+Sentence: 20_141,sap cloud platform
+Sentence: 20_142,sap cloud platform
+Sentence: 20_143,sap cloud platform
+Sentence: 20_144,sap cloud platform
+Sentence: 20_144,sap cloud platform
+Sentence: 20_145,sap cloud platform
+Sentence: 20_145,sap cloud platform
+Sentence: 20_146,sap businessobjects
+Sentence: 20_146,sap businessobjects
+Sentence: 20_148,sap analytics cloud
+Sentence: 20_148,sap hana
+Sentence: 20_149,sap hana
+Sentence: 20_150,sap hana
+Sentence: 20_151,sap predictive analysis
+Sentence: 20_152,sap infiniteinsight
+Sentence: 20_152,sap predictive analysis
+Sentence: 20_152,sap predictive analysis
+Sentence: 20_153,sap predictive analytics
+Sentence: 20_154,sap predictive analysis
+Sentence: 20_154,sap infiniteinsight
+Sentence: 20_154,sap infiniteinsight
+Sentence: 20_155,sap predictive analytics
+Sentence: 20_156,sap infiniteinsight
+Sentence: 20_157,sap hana
+Sentence: 20_159,sap predictive integrator
+Sentence: 20_159,sap infiniteinsight
+Sentence: 20_160,sap cloud connector
+Sentence: 20_161,sap analytics cloud
+Sentence: 20_162,sap hana
+Sentence: 20_163,sap hana
+Sentence: 20_164,sap hana
+Sentence: 20_166,sap predictive service
+Sentence: 20_166,sap predictive analytics
+Sentence: 20_166,sap hana
+Sentence: 20_167,sap predictive analytics
+Sentence: 20_167,sap hana
+Sentence: 21_1,sap predictive analytics
+Sentence: 21_1,sap predictive analytics
+Sentence: 21_3,sap businessobjects
+Sentence: 21_3,sap predictive analytics
+Sentence: 21_4,sap predictive service
+Sentence: 21_5,sap predictive service
+Sentence: 21_6,sap predictive service
+Sentence: 21_7,sap hana
+Sentence: 21_8,sap hana
+Sentence: 21_9,sap hana
+Sentence: 21_10,sap cloud identity
+Sentence: 21_12,sap analytics cloud
+Sentence: 21_12,sap hana
+Sentence: 21_13,sap lumira
+Sentence: 21_14,sap bi
+Sentence: 21_15,sap hana
+Sentence: 21_16,sap predictive service
+Sentence: 21_17,sap hana
+Sentence: 21_18,sap hana
+Sentence: 21_19,sap hana
+Sentence: 21_19,sap hana
+Sentence: 21_20,sap hana
+Sentence: 21_21,sap hana
+Sentence: 21_22,sap analytics cloud
+Sentence: 21_23,sap data hub
+Sentence: 21_24,sap predictive analytics
+Sentence: 21_25,sap predictive analytics
+Sentence: 21_26,sap lumira
+Sentence: 21_27,sap hana
+Sentence: 21_27,sap hana
+Sentence: 21_27,sap predictive integrator
+Sentence: 21_28,sap hana
+Sentence: 21_29,sap infiniteinsight
+Sentence: 21_30,sap hana
+Sentence: 21_31,sap hana
+Sentence: 21_31,sap hana
+Sentence: 21_32,sap analytics cloud
+Sentence: 21_33,sap predictive analytics
+Sentence: 21_34,sap cc
+Sentence: 21_35,sap web ide
+Sentence: 21_35,sap fiori
+Sentence: 21_36,sap web ide
+Sentence: 21_36,sap web ide
+Sentence: 21_36,sap fiori
+Sentence: 21_37,sap fiori
+Sentence: 21_37,sap hana
+Sentence: 21_38,sap web ide
+Sentence: 21_39,sap web ide
+Sentence: 21_39,sap fiori
+Sentence: 21_40,sap fiori
+Sentence: 21_41,sap fiori
+Sentence: 21_41,sap fiori
+Sentence: 21_42,sap fiori
+Sentence: 21_43,sap fiori
+Sentence: 21_43,sap fiori
+Sentence: 21_44,sap fiori
+Sentence: 21_45,sap fiori
+Sentence: 21_46,sap web ide
+Sentence: 21_46,sap fiori
+Sentence: 21_47,sap predictive analytics
+Sentence: 21_48,sap data hub
+Sentence: 21_49,sap cp
+Sentence: 21_50,sap cp
+Sentence: 21_51,sap cp
+Sentence: 21_52,sap data hub
+Sentence: 21_53,sap infiniteinsight
+Sentence: 21_54,sap infiniteinsight
+Sentence: 21_55,sap hana
+Sentence: 21_56,sap analytics cloud
+Sentence: 21_57,sap hana
+Sentence: 21_58,sap predictive analysis
+Sentence: 21_58,sap predictive analysis
+Sentence: 21_58,sap predictive analysis
+Sentence: 21_59,sap infiniteinsight
+Sentence: 21_60,sap hana
+Sentence: 21_61,sap businessobjects
+Sentence: 21_61,sap hana
+Sentence: 21_61,sap hana
+Sentence: 21_62,sap hana
+Sentence: 21_62,sap fiori
+Sentence: 21_62,sap fiori
+Sentence: 21_63,sap hana
+Sentence: 21_65,sap analytics cloud
+Sentence: 21_65,sap netweaver
+Sentence: 21_65,sap netweaver
+Sentence: 21_66,sap analytics cloud
+Sentence: 21_67,sap cp
+Sentence: 21_69,sap predictive analytics
+Sentence: 21_69,sap predictive analytics
+Sentence: 21_70,sap predictive analytics
+Sentence: 21_71,sap predictive analytics
+Sentence: 21_72,sap predictive analytics
+Sentence: 21_72,sap predictive analytics
+Sentence: 21_73,sap predictive analytics
+Sentence: 21_74,sap predictive analytics
+Sentence: 21_75,sap predictive analytics
+Sentence: 21_76,sap web ide
+Sentence: 21_76,sap hana
+Sentence: 21_77,sap hana
+Sentence: 21_78,sap hana
+Sentence: 21_78,sap hana
+Sentence: 21_78,sap hana
+Sentence: 21_80,sap hana
+Sentence: 21_80,sap hana
+Sentence: 21_81,sap hana
+Sentence: 21_82,sap hana
+Sentence: 21_82,sap cloud platform
+Sentence: 21_82,sap cloud platform
+Sentence: 21_83,sap hana
+Sentence: 21_84,sap web ide
+Sentence: 21_85,sap web ide
+Sentence: 21_86,sap web ide
+Sentence: 21_86,sap web ide
+Sentence: 21_87,sap web ide
+Sentence: 21_88,sap web ide
+Sentence: 21_89,sap hana
+Sentence: 21_90,sap predictive analytics
+Sentence: 21_90,sap predictive analytics
+Sentence: 21_91,sap analytics cloud
+Sentence: 21_92,sap cp
+Sentence: 21_93,sap predictive analytics
+Sentence: 21_94,sap infiniteinsight
+Sentence: 21_94,sap infiniteinsight
+Sentence: 21_95,sap hana
+Sentence: 21_97,sap predictive analytics
+Sentence: 21_97,sap predictive analytics
+Sentence: 21_98,sap analytics cloud
+Sentence: 21_98,sap analytics cloud
+Sentence: 21_99,sap analytics cloud
+Sentence: 21_99,sap infiniteinsight
+Sentence: 21_100,sap infiniteinsight
+Sentence: 21_101,sap infiniteinsight
+Sentence: 21_102,sap hana
+Sentence: 21_103,sap hana
+Sentence: 21_104,sap predictive analytics
+Sentence: 21_105,sap predictive analytics
+Sentence: 21_106,sap hana
+Sentence: 21_107,sap hana
+Sentence: 21_108,sap hana
+Sentence: 21_109,sap business objects
+Sentence: 21_110,sap hana
+Sentence: 21_111,sap hana
+Sentence: 21_112,sap hana
+Sentence: 21_113,sap hana
+Sentence: 21_114,sap hana
+Sentence: 21_115,sap hana
+Sentence: 21_116,sap hana
+Sentence: 21_117,sap hana
+Sentence: 21_118,sap hana
+Sentence: 21_119,sap hana
+Sentence: 21_119,sap hana
+Sentence: 21_120,sap hana
+Sentence: 21_120,sap hana
+Sentence: 21_121,sap hana
+Sentence: 21_122,sap hana
+Sentence: 21_123,sap hana
+Sentence: 21_124,sap hana
+Sentence: 21_125,sap hana
+Sentence: 21_126,sap hana
+Sentence: 21_127,sap hana
+Sentence: 21_128,sap hana
+Sentence: 21_129,sap hana
+Sentence: 21_130,sap hana
+Sentence: 21_131,sap hana
+Sentence: 21_132,sap hana
+Sentence: 21_132,sap hana
+Sentence: 21_133,sap hana
+Sentence: 21_134,sap hana
+Sentence: 21_135,sap hana
+Sentence: 21_136,sap hana
+Sentence: 21_137,sap hana
+Sentence: 21_138,sap hana
+Sentence: 21_139,sap hana
+Sentence: 21_139,sap hana
+Sentence: 21_140,sap hana
+Sentence: 21_140,sap hana
+Sentence: 21_141,sap cloud platform
+Sentence: 21_141,sap vora
+Sentence: 21_141,sap data hub
+Sentence: 21_142,sap data hub
+Sentence: 21_142,sap data services
+Sentence: 21_143,sap data hub
+Sentence: 21_144,sap analytics cloud
+Sentence: 21_145,sap cloud platform
+Sentence: 21_146,sap analytics cloud
+Sentence: 21_147,sap vora
+Sentence: 21_147,sap hana
+Sentence: 21_147,sap hana
+Sentence: 21_148,sap cloud platform
+Sentence: 21_149,sap data hub
+Sentence: 21_150,sap data hub
+Sentence: 21_151,sap cloud platform
+Sentence: 21_152,sap hana
+Sentence: 21_153,sap hana
+Sentence: 21_154,sap hana
+Sentence: 21_155,sap hana
+Sentence: 21_156,sap lumira
+Sentence: 21_157,sap solution manager
+Sentence: 21_158,sap hana
+Sentence: 21_159,sap analytics cloud
+Sentence: 21_160,sap epm
+Sentence: 21_161,sap hana
+Sentence: 21_162,sap hana
+Sentence: 21_163,sap hana
+Sentence: 21_164,sap hana
+Sentence: 21_166,sap hana
+Sentence: 21_166,sap hana
+Sentence: 21_167,sap hana
+Sentence: 21_168,sap hana
+Sentence: 21_169,sap hana
+Sentence: 21_170,sap predictive analytics
+Sentence: 21_170,sap hana
+Sentence: 21_171,sap predictive analytics
+Sentence: 21_171,sap hana
+Sentence: 21_172,sap lumira
+Sentence: 21_173,sap predictive analytics
+Sentence: 21_173,sap predictive analytics
+Sentence: 21_174,sap predictive analytics
+Sentence: 21_174,sap predictive analytics
+Sentence: 21_175,sap analytics cloud
+Sentence: 21_176,sap ii
+Sentence: 21_176,sap ii
+Sentence: 21_177,sap ii
+Sentence: 21_178,sap ii
+Sentence: 21_179,sap hana
+Sentence: 21_180,sap hana
+Sentence: 21_181,sap hana
+Sentence: 21_182,sap cp
+Sentence: 21_182,sap cp
+Sentence: 21_183,sap cp
+Sentence: 21_185,sap api business hub
+Sentence: 21_185,sap cp
+Sentence: 21_186,sap cp
+Sentence: 21_187,sap hana
+Sentence: 21_187,sap hana
+Sentence: 21_188,sap businessobjects
+Sentence: 21_189,sap hana
+Sentence: 21_189,sap hana
+Sentence: 21_191,sap hana
+Sentence: 21_191,sap predictive integrator
+Sentence: 21_191,sap predictive integrator
+Sentence: 21_192,sap cloud platform
+Sentence: 21_193,sap cloud platform
+Sentence: 21_194,sap authenticator
+Sentence: 21_195,sap hana
+Sentence: 21_197,sap analytics cloud
+Sentence: 21_197,sap hana
+Sentence: 21_198,sap businessobjects
+Sentence: 21_199,sap businessobjects
+Sentence: 21_200,sap businessobjects
+Sentence: 21_201,sap businessobjects
+Sentence: 21_202,sap hana
+Sentence: 21_203,sap hana
+Sentence: 21_204,sap hana
+Sentence: 21_205,sap hana
+Sentence: 21_206,sap hana
+Sentence: 21_207,sap analytics cloud
+Sentence: 21_208,sap analytics cloud
+Sentence: 21_209,sap cp
+Sentence: 21_210,sap leonardo machine learning foundation
+Sentence: 21_211,sap predictive analytics
+Sentence: 21_213,sap hana
+Sentence: 21_213,sap predictive analytics
+Sentence: 21_214,sap predictive analytics
+Sentence: 21_214,sap predictive analytics
+Sentence: 21_215,sap predictive analytics
+Sentence: 21_215,sap predictive analytics
+Sentence: 21_216,sap predictive analytics
+Sentence: 22_1,sap lumira
+Sentence: 22_2,sap predictive analytics
+Sentence: 22_2,sap predictive analytics
+Sentence: 22_2,sap predictive analytics
+Sentence: 22_2,sap predictive analytics
+Sentence: 22_3,sap predictive analytics
+Sentence: 22_4,sap predictive analytics
+Sentence: 22_5,sap hana
+Sentence: 22_5,sap hana
+Sentence: 22_6,sap hana
+Sentence: 22_6,sap hana
+Sentence: 22_8,sap hana
+Sentence: 22_8,sap hana
+Sentence: 22_10,sap hana
+Sentence: 22_10,sap hana
+Sentence: 22_11,sap hana
+Sentence: 22_13,sap cloud connector
+Sentence: 22_13,sap infiniteinsight
+Sentence: 22_14,sap analytics cloud
+Sentence: 22_15,sap hana
+Sentence: 22_16,sap cc
+Sentence: 22_17,sap infiniteinsight
+Sentence: 22_18,sap hana
+Sentence: 22_19,sap retail
+Sentence: 22_20,sap hana
+Sentence: 22_20,sap customer activity repository
+Sentence: 22_21,sap forecasting and replenishment
+Sentence: 22_23,sap hana
+Sentence: 22_23,sap predictive analytics
+Sentence: 22_23,sap hana
+Sentence: 22_24,sap predictive analytics
+Sentence: 22_24,sap hana
+Sentence: 22_25,sap ii
+Sentence: 22_25,sap ii
+Sentence: 22_26,sap hana
+Sentence: 22_27,sap hana
+Sentence: 22_28,sap hana
+Sentence: 22_30,sap hana
+Sentence: 22_30,sap financial statement insights
+Sentence: 22_31,sap predictive analytics
+Sentence: 22_31,sap predictive analytics
+Sentence: 22_32,sap predictive analytics
+Sentence: 22_33,sap predictive analytics
+Sentence: 22_34,sap hana
+Sentence: 22_35,sap hana
+Sentence: 22_36,sap hana
+Sentence: 22_37,sap hana
+Sentence: 22_37,sap hana
+Sentence: 22_38,sap hana
+Sentence: 22_39,sap hana
+Sentence: 22_40,sap hana
+Sentence: 22_41,sap hana
+Sentence: 22_42,sap hana
+Sentence: 22_43,sap lumira
+Sentence: 22_43,sap lumira
+Sentence: 22_43,sap lumira
+Sentence: 22_44,sap lumira
+Sentence: 22_45,sap hana
+Sentence: 22_46,sap bi
+Sentence: 22_47,sap lumira
+Sentence: 22_47,sap lumira
+Sentence: 22_47,sap lumira
+Sentence: 22_47,sap predictive analysis
+Sentence: 22_48,sap lumira
+Sentence: 22_48,sap lumira
+Sentence: 22_48,sap lumira
+Sentence: 22_49,sap hana
+Sentence: 22_50,sap lumira
+Sentence: 22_50,sap lumira
+Sentence: 22_50,sap lumira
+Sentence: 22_50,sap predictive analysis
+Sentence: 22_51,sap lumira
+Sentence: 22_51,sap lumira
+Sentence: 22_51,sap lumira
+Sentence: 22_52,sap hana
+Sentence: 22_52,sap hana
+Sentence: 22_53,sap hana
+Sentence: 22_54,sap hana
+Sentence: 22_54,sap hana
+Sentence: 22_55,sap lumira
+Sentence: 22_55,sap lumira
+Sentence: 22_55,sap lumira
+Sentence: 22_55,sap predictive analysis
+Sentence: 22_56,sap lumira
+Sentence: 22_57,sap lumira
+Sentence: 22_58,sap lumira
+Sentence: 22_58,sap lumira
+Sentence: 22_58,sap lumira
+Sentence: 22_59,sap lumira
+Sentence: 22_60,sap lumira
+Sentence: 22_60,sap lumira
+Sentence: 22_60,sap lumira
+Sentence: 22_61,sap lumira
+Sentence: 22_61,sap lumira
+Sentence: 22_62,sap lumira
+Sentence: 22_63,sap bi
+Sentence: 22_64,sap lumira
+Sentence: 22_64,sap lumira
+Sentence: 22_64,sap lumira
+Sentence: 22_65,sap fortify
+Sentence: 22_66,sap lumira
+Sentence: 22_67,sap hana
+Sentence: 22_68,sap lumira
+Sentence: 22_69,sap lumira
+Sentence: 22_69,sap lumira
+Sentence: 22_69,sap lumira
+Sentence: 22_69,sap predictive analysis
+Sentence: 22_70,sap lumira
+Sentence: 22_72,sap hana
+Sentence: 22_72,sap lumira
+Sentence: 22_73,sap lumira
+Sentence: 22_74,sap lumira
+Sentence: 22_74,sap lumira
+Sentence: 22_75,sap lumira
+Sentence: 22_75,sap lumira
+Sentence: 22_75,sap lumira
+Sentence: 22_76,sap business intelligence
+Sentence: 22_77,sap lumira
+Sentence: 22_78,sap lumira
+Sentence: 22_79,sap lumira
+Sentence: 22_80,sap lumira
+Sentence: 22_81,sap lumira
+Sentence: 22_82,sap lumira
+Sentence: 22_83,sap hana
+Sentence: 22_84,sap hana
+Sentence: 22_85,sap lumira
+Sentence: 22_85,sap lumira
+Sentence: 22_85,sap lumira
+Sentence: 22_86,sap lumira
+Sentence: 22_87,sap lumira
+Sentence: 22_88,sap lumira
+Sentence: 22_88,sap lumira
+Sentence: 22_88,sap lumira
+Sentence: 22_89,sap analytics cloud
+Sentence: 22_90,sap hana
+Sentence: 22_91,sap cp
+Sentence: 22_92,sap analytics cloud
+Sentence: 22_93,sap cloud platform
+Sentence: 22_94,sap fiori
+Sentence: 22_95,sap cloud identity
+Sentence: 22_96,sap mobile documents
+Sentence: 22_97,sap mobile documents
+Sentence: 22_98,sap mobile documents
+Sentence: 22_99,sap mobile documents
+Sentence: 22_100,sap mobile documents
+Sentence: 22_101,sap mobile documents
+Sentence: 22_102,sap mobile documents
+Sentence: 22_103,sap mobile documents
+Sentence: 22_104,sap mobile documents
+Sentence: 22_104,sap mobile documents
+Sentence: 22_105,sap hana
+Sentence: 22_106,sap netweaver
+Sentence: 22_107,sap hana
+Sentence: 22_108,sap cloud platform
+Sentence: 22_108,sap cloud platform
+Sentence: 22_108,sap netweaver
+Sentence: 22_108,sap netweaver
+Sentence: 22_109,sap enterprise threat detection
+Sentence: 22_110,sap hana
+Sentence: 22_111,sap hana
+Sentence: 22_111,sap enterprise threat detection
+Sentence: 22_112,sap enterprise threat detection
+Sentence: 22_113,sap enterprise threat detection
+Sentence: 22_114,sap enterprise threat detection
+Sentence: 22_114,sap enterprise threat detection
+Sentence: 22_115,sap hana
+Sentence: 22_116,sap enterprise threat detection
+Sentence: 22_116,sap hana
+Sentence: 22_117,sap enterprise threat detection
+Sentence: 22_118,sap enterprise threat detection
+Sentence: 22_119,sap enterprise threat detection
+Sentence: 22_120,sap hana
+Sentence: 22_120,sap hana
+Sentence: 22_121,sap enterprise threat detection
+Sentence: 22_122,sap hana
+Sentence: 22_122,sap analytics cloud
+Sentence: 22_123,sap privacy governance
+Sentence: 22_124,sap analytics cloud
+Sentence: 22_126,sap netweaver
+Sentence: 22_126,sap crm
+Sentence: 22_126,sap gateway
+Sentence: 22_126,sap fiori
+Sentence: 22_127,sap enterprise threat detection
+Sentence: 22_128,sap cloud platform
+Sentence: 22_129,sap cloud platform
+Sentence: 22_130,sap cloud platform
+Sentence: 22_131,sap risk management
+Sentence: 22_131,sap cloud connector
+Sentence: 22_132,sap risk management
+Sentence: 22_133,sap cloud connector
+Sentence: 22_133,sap cloud platform
+Sentence: 22_133,sap hana
+Sentence: 22_134,sap hana
+Sentence: 22_134,sap cloud platform
+Sentence: 22_135,sap hana
+Sentence: 22_135,sap hana
+Sentence: 22_135,sap hana
+Sentence: 22_136,sap process control
+Sentence: 22_137,sap cloud platform
+Sentence: 22_138,sap hana
+Sentence: 22_139,sap hana
+Sentence: 22_140,sap hana
+Sentence: 22_141,sap cloud platform
+Sentence: 22_142,sap api management
+Sentence: 22_143,sap hana
+Sentence: 22_144,sap privacy governance
+Sentence: 22_145,sap access control
+Sentence: 22_146,sap cloud platform
+Sentence: 22_147,sap cloud platform
+Sentence: 22_148,sap privacy governance
+Sentence: 22_148,sap analytics cloud
+Sentence: 22_149,sap hana
+Sentence: 22_150,sap hana
+Sentence: 22_151,sap hana
+Sentence: 22_152,sap dp
+Sentence: 22_153,sap dp
+Sentence: 22_154,sap crm
+Sentence: 22_155,sap cloud platform
+Sentence: 22_156,sap cloud platform
+Sentence: 22_157,sap erp
+Sentence: 22_157,sap hana
+Sentence: 22_158,sap erp
+Sentence: 22_159,sap business application studio
+Sentence: 22_160,sap privacy governance
+Sentence: 22_161,sap privacy governance
+Sentence: 22_162,sap cloud platform
+Sentence: 22_163,sap analytics cloud
+Sentence: 22_164,sap analytics cloud
+Sentence: 22_165,sap cloud platform
+Sentence: 22_166,sap analytics cloud
+Sentence: 22_166,sap data warehouse cloud
+Sentence: 22_166,sap data warehouse cloud
+Sentence: 22_167,sap data warehouse cloud
+Sentence: 22_168,sap data warehouse cloud
+Sentence: 22_169,sap hana
+Sentence: 22_171,sap hana
+Sentence: 22_171,sap analytics cloud
+Sentence: 22_172,sap analytics cloud
+Sentence: 22_173,sap hana
+Sentence: 22_173,sap data warehouse cloud
+Sentence: 22_174,sap hana
+Sentence: 22_175,sap hana
+Sentence: 22_176,sap hana
+Sentence: 22_177,sap data intelligence
+Sentence: 22_177,sap data warehouse cloud
+Sentence: 22_178,sap data intelligence
+Sentence: 22_179,sap data warehouse cloud
+Sentence: 22_179,sap data warehouse cloud
+Sentence: 22_180,sap data warehouse cloud
+Sentence: 22_181,sap data warehouse cloud
+Sentence: 22_182,sap data warehouse cloud
+Sentence: 22_183,sap data warehouse cloud
+Sentence: 22_184,sap data warehouse cloud
+Sentence: 22_184,sap data warehouse cloud
+Sentence: 22_185,sap data warehouse cloud
+Sentence: 22_185,sap data warehouse cloud
+Sentence: 22_187,sap data warehouse cloud
+Sentence: 22_188,sap data warehouse cloud
+Sentence: 22_188,sap hana
+Sentence: 22_189,sap data warehouse cloud
+Sentence: 22_190,sap data warehouse cloud
+Sentence: 22_191,sap analytics cloud
+Sentence: 22_191,sap hana
+Sentence: 22_191,sap analytics cloud
+Sentence: 22_191,sap data warehouse cloud
+Sentence: 22_192,sap data warehouse cloud
+Sentence: 22_192,sap analytics cloud
+Sentence: 22_193,sap data warehouse cloud
+Sentence: 22_193,sap analytics cloud
+Sentence: 22_193,sap analytics cloud
+Sentence: 22_193,sap data warehouse cloud
+Sentence: 22_193,sap data warehouse cloud
+Sentence: 22_194,sap analytics cloud
+Sentence: 22_194,sap analytics cloud
+Sentence: 22_195,sap analytics cloud
+Sentence: 22_195,sap data warehouse cloud
+Sentence: 22_196,sap analytics cloud
+Sentence: 22_197,sap analytics cloud
+Sentence: 22_197,sap data warehouse cloud
+Sentence: 22_198,sap analytics cloud
+Sentence: 22_200,sap data warehouse cloud
+Sentence: 22_200,sap data warehouse cloud
+Sentence: 22_201,sap data warehouse cloud
+Sentence: 22_202,sap analytics cloud
+Sentence: 22_202,sap data warehouse cloud
+Sentence: 22_204,sap data warehouse cloud
+Sentence: 22_204,sap data warehouse cloud
+Sentence: 22_205,sap data warehouse cloud
+Sentence: 22_205,sap analytics cloud
+Sentence: 22_205,sap analytics cloud
+Sentence: 22_206,sap cloud identity
+Sentence: 22_207,sap cloud identity
+Sentence: 22_209,sap cloud identity
+Sentence: 22_209,sap cloud identity
+Sentence: 22_210,sap cloud platform
+Sentence: 22_211,sap hana
+Sentence: 22_212,sap cloud connector
+Sentence: 22_213,sap api management
+Sentence: 22_214,sap fiori
+Sentence: 22_215,sap privacy management
+Sentence: 22_216,sap hana
+Sentence: 22_217,sap banking
+Sentence: 22_218,sap cloud platform
+Sentence: 22_219,sap hana
+Sentence: 22_220,sap hana
+Sentence: 22_221,sap hana
+Sentence: 22_222,sap hana
+Sentence: 22_223,sap privacy governance
+Sentence: 22_225,sap task center
+Sentence: 22_225,sap cloud platform
+Sentence: 22_226,sap fiori
+Sentence: 22_227,sap hana
+Sentence: 22_228,sap cloud platform
+Sentence: 22_229,sap cloud platform
+Sentence: 22_230,sap cloud platform
+Sentence: 22_231,sap cloud platform
+Sentence: 22_232,sap web ide
+Sentence: 22_233,sap hana
+Sentence: 22_234,sap hana
+Sentence: 22_235,sap hana
+Sentence: 22_236,sap cp
+Sentence: 22_237,sap cloud platform
+Sentence: 22_238,sap cloud platform
+Sentence: 22_239,sap cloud platform
+Sentence: 22_239,sap hana
+Sentence: 22_240,sap hana
+Sentence: 22_240,sap task center
+Sentence: 22_240,sap task center
+Sentence: 22_240,sap cloud platform
+Sentence: 22_241,sap task center
+Sentence: 22_242,sap task center
+Sentence: 22_242,sap task center
+Sentence: 22_243,sap cloud platform
+Sentence: 22_245,sap api business hub
+Sentence: 22_246,sap api business hub
+Sentence: 22_246,sap api business hub
+Sentence: 22_247,sap cloud platform
+Sentence: 22_247,sap task center
+Sentence: 22_248,sap cp
+Sentence: 22_249,sap cloud platform
+Sentence: 22_250,sap cp
+Sentence: 22_251,sap cp
+Sentence: 22_251,sap privacy governance
+Sentence: 22_251,sap privacy governance
+Sentence: 22_252,sap privacy governance
+Sentence: 22_253,sap privacy governance
+Sentence: 22_254,sap fiori
+Sentence: 22_255,sap fiori
+Sentence: 22_256,sap fiori
+Sentence: 22_256,sap fiori
+Sentence: 22_257,sap enterprise portal
+Sentence: 22_258,sap fiori
+Sentence: 22_259,sap netweaver
+Sentence: 22_260,sap solution manager
+Sentence: 22_261,sap erp
+Sentence: 22_261,sap erp
+Sentence: 22_262,sap cloud for customer
+Sentence: 22_262,sap cloud for energy
+Sentence: 22_262,sap commissions
+Sentence: 22_262,sap cpq
+Sentence: 22_262,sap marketing
+Sentence: 22_263,sap erp
+Sentence: 22_263,sap erp
+Sentence: 22_264,sap integrated business planning
+Sentence: 22_265,sap erp
+Sentence: 22_266,sap fiori
+Sentence: 22_267,sap bi
+Sentence: 22_268,sap fiori
+Sentence: 22_269,sap hybris
+Sentence: 22_269,sap hybris
+Sentence: 22_270,sap fiori
+Sentence: 22_271,sap fiori
+Sentence: 22_272,sap netweaver
+Sentence: 22_273,sap fiori
+Sentence: 22_274,sap fiori
+Sentence: 22_275,sap fiori
+Sentence: 22_275,sap fiori
+Sentence: 22_276,sap fiori
+Sentence: 22_277,sap emr
+Sentence: 22_278,sap fiori
+Sentence: 22_279,sap fiori
+Sentence: 22_280,sap netweaver
+Sentence: 22_281,sap fiori
+Sentence: 23_1,sap fiori
+Sentence: 23_2,sap netweaver
+Sentence: 23_3,sap netweaver
+Sentence: 23_4,sap netweaver
+Sentence: 23_5,sap netweaver
+Sentence: 23_6,sap fiori
+Sentence: 23_6,sap fiori
+Sentence: 23_6,sap fiori
+Sentence: 23_7,sap fiori
+Sentence: 23_7,sap fiori
+Sentence: 23_8,sap fiori
+Sentence: 23_9,sap netweaver
+Sentence: 23_10,sap fiori
+Sentence: 23_11,sap fiori
+Sentence: 23_12,sap web as
+Sentence: 23_13,sap netweaver
+Sentence: 23_14,sap fiori
+Sentence: 23_15,sap netweaver
+Sentence: 23_16,sap fiori
+Sentence: 23_17,sap fiori
+Sentence: 23_18,sap fiori
+Sentence: 23_19,sap fiori
+Sentence: 23_20,sap netweaver
+Sentence: 23_21,sap netweaver
+Sentence: 23_22,sap netweaver
+Sentence: 23_23,sap netweaver
+Sentence: 23_24,sap netweaver
+Sentence: 23_25,sap netweaver
+Sentence: 23_26,sap crm
+Sentence: 23_26,sap crm
+Sentence: 23_26,sap crm
+Sentence: 23_27,sap netweaver
+Sentence: 23_28,sap fiori
+Sentence: 23_30,sap netweaver
+Sentence: 23_30,sap netweaver
+Sentence: 23_32,sap netweaver
+Sentence: 23_32,sap netweaver
+Sentence: 23_33,sap retail
+Sentence: 23_34,sap fiori
+Sentence: 23_34,sap fiori
+Sentence: 23_35,sap netweaver
+Sentence: 23_36,sap netweaver
+Sentence: 23_36,sap businessobjects
+Sentence: 23_37,sap fiori
+Sentence: 23_38,sap crm
+Sentence: 23_39,sap enterprise portal
+Sentence: 23_40,sap retail
+Sentence: 23_41,sap fiori
+Sentence: 23_41,sap fiori
+Sentence: 23_42,sap fiori
+Sentence: 23_43,sap sourcing
+Sentence: 23_44,sap netweaver
+Sentence: 23_45,sap netweaver
+Sentence: 23_46,sap fiori
+Sentence: 23_47,sap fiori
+Sentence: 23_48,sap fiori
+Sentence: 23_49,sap fiori
+Sentence: 23_50,sap fiori
+Sentence: 23_51,sap business one
+Sentence: 23_51,sap crm
+Sentence: 23_52,sap netweaver
+Sentence: 23_53,sap netweaver
+Sentence: 23_54,sap netweaver
+Sentence: 23_55,sap netweaver
+Sentence: 23_56,sap netweaver
+Sentence: 23_57,sap netweaver
+Sentence: 23_58,sap netweaver
+Sentence: 23_59,sap crm
+Sentence: 23_59,sap crm
+Sentence: 23_60,sap crm
+Sentence: 23_61,sap netweaver
+Sentence: 23_62,sap certified solutions directory
+Sentence: 23_63,sap fiori
+Sentence: 23_64,sap netweaver
+Sentence: 23_65,sap netweaver
+Sentence: 23_66,sap netweaver
+Sentence: 23_67,sap retail
+Sentence: 23_68,sap netweaver
+Sentence: 23_68,sap netweaver
+Sentence: 23_69,sap netweaver
+Sentence: 23_70,sap netweaver
+Sentence: 23_71,sap netweaver
+Sentence: 23_72,sap netweaver
+Sentence: 23_72,sap netweaver
+Sentence: 23_73,sap netweaver
+Sentence: 23_73,sap netweaver
+Sentence: 23_74,sap netweaver
+Sentence: 23_74,sap netweaver
+Sentence: 23_75,sap netweaver
+Sentence: 23_75,sap netweaver
+Sentence: 23_76,sap netweaver
+Sentence: 23_77,sap netweaver
+Sentence: 23_77,sap netweaver
+Sentence: 23_78,sap fiori
+Sentence: 23_79,sap emr
+Sentence: 23_80,sap fiori
+Sentence: 23_81,sap web ide
+Sentence: 23_82,sap web ide
+Sentence: 23_83,sap fiori
+Sentence: 23_83,sap fiori
+Sentence: 23_84,sap netweaver
+Sentence: 23_85,sap crm
+Sentence: 23_86,sap fiori
+Sentence: 23_87,sap fiori
+Sentence: 23_88,sap business bydesign
+Sentence: 23_89,sap netweaver
+Sentence: 23_90,sap fiori
+Sentence: 23_91,sap retail
+Sentence: 23_92,sap commerce
+Sentence: 23_93,sap hana
+Sentence: 23_93,sap cloud platform
+Sentence: 23_93,sap hana
+Sentence: 23_94,sap omnichannel promotion pricing
+Sentence: 23_95,sap omnichannel promotion pricing
+Sentence: 23_95,sap customer order sourcing
+Sentence: 23_95,sap omnichannel promotion pricing
+Sentence: 23_96,sap customer order sourcing
+Sentence: 23_96,sap hana
+Sentence: 23_97,sap accounts payable
+Sentence: 23_98,sap fiori
+Sentence: 23_99,sap hana
+Sentence: 23_100,sap hana
+Sentence: 23_101,sap hana
+Sentence: 23_102,sap hana
+Sentence: 23_103,sap hana
+Sentence: 23_104,sap hana
+Sentence: 23_105,sap hana
+Sentence: 23_106,sap hana
+Sentence: 23_107,sap hana
+Sentence: 23_108,sap hana
+Sentence: 23_109,sap hana
+Sentence: 23_110,sap hana
+Sentence: 23_111,sap cloud platform
+Sentence: 23_113,sap cloud platform
+Sentence: 23_113,sap cloud platform
+Sentence: 23_114,sap hana
+Sentence: 23_115,sap marketing
+Sentence: 23_116,sap marketing
+Sentence: 23_117,sap sales cloud
+Sentence: 23_117,sap commerce
+Sentence: 23_117,sap marketing
+Sentence: 23_117,sap customer data cloud
+Sentence: 23_118,sap marketing
+Sentence: 23_118,sap marketing
+Sentence: 23_119,sap commerce
+Sentence: 23_119,sap commerce
+Sentence: 23_120,sap cloud for customer
+Sentence: 23_121,sap sales cloud
+Sentence: 23_122,sap sales cloud
+Sentence: 23_123,sap customer data cloud
+Sentence: 23_123,sap customer data cloud
+Sentence: 23_124,sap marketing
+Sentence: 23_125,sap marketing
+Sentence: 23_125,sap marketing
+Sentence: 23_126,sap marketing
+Sentence: 23_127,sap marketing
+Sentence: 23_128,sap marketing
+Sentence: 23_128,sap marketing
+Sentence: 23_129,sap marketing
+Sentence: 23_130,sap marketing
+Sentence: 23_131,sap marketing
+Sentence: 23_132,sap business one
+Sentence: 23_133,sap business one
+Sentence: 23_134,sap business bydesign
+Sentence: 23_135,sap hana
+Sentence: 23_136,sap business bydesign
+Sentence: 23_137,sap marketing
+Sentence: 23_138,sap marketing
+Sentence: 23_140,sap hana
+Sentence: 23_140,sap hana
+Sentence: 23_141,sap hana
+Sentence: 23_143,sap hana
+Sentence: 23_143,sap hec
+Sentence: 23_144,sap hana
+Sentence: 23_145,sap hana
+Sentence: 23_146,sap hana
+Sentence: 23_146,sap hana
+Sentence: 23_148,sap hana
+Sentence: 23_148,sap hana
+Sentence: 23_149,sap hana
+Sentence: 23_150,sap hana
+Sentence: 23_151,sap hana
+Sentence: 23_152,sap cloud platform
+Sentence: 23_153,sap cloud platform
+Sentence: 23_154,sap srm
+Sentence: 23_154,sap srm
+Sentence: 23_155,sap marketing
+Sentence: 23_156,sap marketing
+Sentence: 23_158,sap cloud platform
+Sentence: 23_158,sap cloud platform
+Sentence: 23_159,sap marketing
+Sentence: 23_160,sap hana
+Sentence: 23_160,sap businessobjects
+Sentence: 23_160,sap hana
+Sentence: 23_161,sap cloud platform
+Sentence: 23_162,sap hana
+Sentence: 23_163,sap hana
+Sentence: 23_163,sap hana
+Sentence: 23_163,sap hana
+Sentence: 23_163,sap hana
+Sentence: 23_164,sap hana
+Sentence: 23_165,sap hana
+Sentence: 23_165,sap hana
+Sentence: 23_166,sap hana
+Sentence: 23_166,sap hana
+Sentence: 23_167,sap hana
+Sentence: 23_168,sap hana
+Sentence: 23_168,sap hana
+Sentence: 23_169,sap hana
+Sentence: 23_170,sap hana
+Sentence: 23_170,sap hana
+Sentence: 23_171,sap hana
+Sentence: 23_172,sap hana
+Sentence: 23_173,sap hana
+Sentence: 23_174,sap hana
+Sentence: 23_175,sap hana
+Sentence: 23_176,sap hana
+Sentence: 23_177,sap hana
+Sentence: 23_178,sap ase
+Sentence: 23_179,sap ase
+Sentence: 23_180,sap ase
+Sentence: 23_180,sap hana
+Sentence: 23_181,sap ase
+Sentence: 23_181,sap hana
+Sentence: 23_182,sap build
+Sentence: 23_183,sap build
+Sentence: 23_184,sap build
+Sentence: 23_185,sap solution manager
+Sentence: 23_187,sap solution manager
+Sentence: 23_187,sap erp
+Sentence: 23_188,sap erp
+Sentence: 23_188,sap erp
+Sentence: 23_189,sap pos
+Sentence: 23_189,sap pos
+Sentence: 23_189,sap netweaver
+Sentence: 23_190,sap promotion management
+Sentence: 23_191,sap netweaver
+Sentence: 23_192,sap erp
+Sentence: 23_193,sap erp
+Sentence: 23_194,sap erp
+Sentence: 23_195,sap erp
+Sentence: 23_196,sap promotion management
+Sentence: 23_197,sap trade promotion optimization
+Sentence: 23_198,sap erp
+Sentence: 23_199,sap erp
+Sentence: 23_200,sap erp
+Sentence: 23_201,sap erp
+Sentence: 23_202,sap hana
+Sentence: 23_203,sap hana
+Sentence: 23_204,sap build
+Sentence: 23_205,sap build
+Sentence: 23_206,sap powerdesigner
+Sentence: 23_207,sap hana
+Sentence: 23_208,sap hana
+Sentence: 23_209,sap hana
+Sentence: 23_210,sap hana
+Sentence: 23_212,sap hana
+Sentence: 23_212,sap hana
+Sentence: 23_213,sap hana
+Sentence: 23_213,sap hana
+Sentence: 23_214,sap hana
+Sentence: 23_215,sap hana
+Sentence: 23_216,sap hana
+Sentence: 23_217,sap hana
+Sentence: 23_218,sap hana
+Sentence: 23_219,sap hana
+Sentence: 23_220,sap hana
+Sentence: 23_221,sap hana
+Sentence: 23_222,sap hana
+Sentence: 23_223,sap hana
+Sentence: 23_224,sap hana
+Sentence: 23_225,sap hana

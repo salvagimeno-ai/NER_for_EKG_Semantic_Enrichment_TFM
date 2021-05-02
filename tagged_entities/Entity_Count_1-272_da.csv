@@ -1,0 +1,491 @@
+Filename,Tag,Count
+scw_1-149_220-272_da.csv,sap hana,16595
+scw_1-149_220-272_da.csv,sap cloud platform,5498
+scw_1-149_220-272_da.csv,sap cp,3854
+scw_1-149_220-272_da.csv,sap netweaver,3422
+scw_1-149_220-272_da.csv,sap fiori,3035
+scw_1-149_220-272_da.csv,sap businessobjects,2599
+scw_1-149_220-272_da.csv,sap erp,1559
+scw_1-149_220-272_da.csv,sap marketing,1476
+scw_1-149_220-272_da.csv,sap hybris,1160
+scw_1-149_220-272_da.csv,sap crm,1116
+scw_1-149_220-272_da.csv,sap web ide,1020
+scw_1-149_220-272_da.csv,sap analytics cloud,847
+scw_1-149_220-272_da.csv,sap iq,573
+scw_1-149_220-272_da.csv,sap gateway,514
+scw_1-149_220-272_da.csv,sap ase,494
+scw_1-149_220-272_da.csv,sap bobj,476
+scw_1-149_220-272_da.csv,sap solution manager,473
+scw_1-149_220-272_da.csv,sap epm,446
+scw_1-149_220-272_da.csv,sap mobile platform,421
+scw_1-149_220-272_da.csv,sap lumira,418
+scw_1-149_220-272_da.csv,sap api business hub,387
+scw_1-149_220-272_da.csv,sap byd,350
+scw_1-149_220-272_da.csv,sap cloud connector,338
+scw_1-149_220-272_da.csv,sap cloud identity,328
+scw_1-149_220-272_da.csv,sap business bydesign,328
+scw_1-149_220-272_da.csv,sap api management,318
+scw_1-149_220-272_da.csv,sap powerdesigner,317
+scw_1-149_220-272_da.csv,sap commerce,293
+scw_1-149_220-272_da.csv,sap predictive analytics,253
+scw_1-149_220-272_da.csv,sap sop,250
+scw_1-149_220-272_da.csv,sap ii,247
+scw_1-149_220-272_da.csv,sap data intelligence,233
+scw_1-149_220-272_da.csv,sap ecc,211
+scw_1-149_220-272_da.csv,sap pos,185
+scw_1-149_220-272_da.csv,sap cloud alm,164
+scw_1-149_220-272_da.csv,sap business objects,160
+scw_1-149_220-272_da.csv,sap tutor,151
+scw_1-149_220-272_da.csv,sap data hub,149
+scw_1-149_220-272_da.csv,sap cc,144
+scw_1-149_220-272_da.csv,sap gds,132
+scw_1-149_220-272_da.csv,sap screen personas,131
+scw_1-149_220-272_da.csv,sap retail,131
+scw_1-149_220-272_da.csv,sap operational process intelligence,122
+scw_1-149_220-272_da.csv,sap banking,119
+scw_1-149_220-272_da.csv,sap web analytics,115
+scw_1-149_220-272_da.csv,sap cloud for customer,114
+scw_1-149_220-272_da.csv,sap business intelligence,113
+scw_1-149_220-272_da.csv,sap sourcing,107
+scw_1-149_220-272_da.csv,sap document center,107
+scw_1-149_220-272_da.csv,sap bpc,105
+scw_1-149_220-272_da.csv,sap mdm,99
+scw_1-149_220-272_da.csv,sap digital manufacturing,95
+scw_1-149_220-272_da.csv,sap river,92
+scw_1-149_220-272_da.csv,sap crystal reports,91
+scw_1-149_220-272_da.csv,sap data services,88
+scw_1-149_220-272_da.csv,sap authenticator,86
+scw_1-149_220-272_da.csv,sap identity management,83
+scw_1-149_220-272_da.csv,sap customer activity repository,82
+scw_1-149_220-272_da.csv,sap cloud for real estate,79
+scw_1-149_220-272_da.csv,sap business one,79
+scw_1-149_220-272_da.csv,sap omnichannel promotion pricing,74
+scw_1-149_220-272_da.csv,sap hci,73
+scw_1-149_220-272_da.csv,sap copilot,72
+scw_1-149_220-272_da.csv,sap build,69
+scw_1-149_220-272_da.csv,sap business planning and consolidation,67
+scw_1-149_220-272_da.csv,sap task center,66
+scw_1-149_220-272_da.csv,sap hec,65
+scw_1-149_220-272_da.csv,sap vora,63
+scw_1-149_220-272_da.csv,sap predictive analysis,62
+scw_1-149_220-272_da.csv,sap business warehouse,61
+scw_1-149_220-272_da.csv,sap afaria,60
+scw_1-149_220-272_da.csv,sap mkt,58
+scw_1-149_220-272_da.csv,sap intelligent robotic process automation,56
+scw_1-149_220-272_da.csv,sap enterprise threat detection,56
+scw_1-149_220-272_da.csv,sap business application studio,56
+scw_1-149_220-272_da.csv,sap for me,55
+scw_1-149_220-272_da.csv,sap enhancement package,55
+scw_1-149_220-272_da.csv,sap srm,54
+scw_1-149_220-272_da.csv,sap mobile documents,52
+scw_1-149_220-272_da.csv,sap customer engagement center,51
+scw_1-149_220-272_da.csv,sap hcm,50
+scw_1-149_220-272_da.csv,sap apo,50
+scw_1-149_220-272_da.csv,sap logistics business network,48
+scw_1-149_220-272_da.csv,sap assurance and compliance,48
+scw_1-149_220-272_da.csv,sap sybase iq,47
+scw_1-149_220-272_da.csv,sap db control center,46
+scw_1-149_220-272_da.csv,sap mobile secure,45
+scw_1-149_220-272_da.csv,sap realspend,42
+scw_1-149_220-272_da.csv,sap integrated business planning,42
+scw_1-149_220-272_da.csv,sap vehicle insights,40
+scw_1-149_220-272_da.csv,sap field service,40
+scw_1-149_220-272_da.csv,sap data warehouse cloud,40
+scw_1-149_220-272_da.csv,sap bi,40
+scw_1-149_220-272_da.csv,sap grc access control,39
+scw_1-149_220-272_da.csv,sap enterprise portal,38
+scw_1-149_220-272_da.csv,sap conversational ai,38
+scw_1-149_220-272_da.csv,sap plm,37
+scw_1-149_220-272_da.csv,sap dmi,37
+scw_1-149_220-272_da.csv,sap asset intelligence network,37
+scw_1-149_220-272_da.csv,sap infiniteinsight,36
+scw_1-149_220-272_da.csv,sap appcenter,35
+scw_1-149_220-272_da.csv,sap landscape transformation,34
+scw_1-149_220-272_da.csv,sap fraud management,34
+scw_1-149_220-272_da.csv,sap fieldglass,34
+scw_1-149_220-272_da.csv,saphana,33
+scw_1-149_220-272_da.csv,sap bcm,33
+scw_1-149_220-272_da.csv,sap vehicles network,32
+scw_1-149_220-272_da.csv,sap process integration,32
+scw_1-149_220-272_da.csv,sap mii,32
+scw_1-149_220-272_da.csv,sap replication server,31
+scw_1-149_220-272_da.csv,sap dcm,30
+scw_1-149_220-272_da.csv,sap analytics hub,30
+scw_1-149_220-272_da.csv,sap policy management,29
+scw_1-149_220-272_da.csv,sap fortify,29
+scw_1-149_220-272_da.csv,sap sales cloud,28
+scw_1-149_220-272_da.csv,sap web as,27
+scw_1-149_220-272_da.csv,sap successfactors employee central,27
+scw_1-149_220-272_da.csv,sap enterprise pos,27
+scw_1-149_220-272_da.csv,sap ea designer,26
+scw_1-149_220-272_da.csv,sap leonardo machine learning foundation,25
+scw_1-149_220-272_da.csv,sap extended warehouse management,25
+scw_1-149_220-272_da.csv,sap event stream processor,25
+scw_1-149_220-272_da.csv,sap anywhere,25
+scw_1-149_220-272_da.csv,sap adaptive server enterprise,25
+scw_1-149_220-272_da.csv,sap lt replication server,24
+scw_1-149_220-272_da.csv,sap knowledge warehouse,24
+scw_1-149_220-272_da.csv,sap real estate,23
+scw_1-149_220-272_da.csv,sap payment engine,23
+scw_1-149_220-272_da.csv,sap convergent charging,23
+scw_1-149_220-272_da.csv,sap cloud for product stewardship,23
+scw_1-149_220-272_da.csv,sap transportation management,22
+scw_1-149_220-272_da.csv,sap iot application enablement,22
+scw_1-149_220-272_da.csv,sap customer relationship management,22
+scw_1-149_220-272_da.csv,sap customer data cloud,22
+scw_1-149_220-272_da.csv,sap lbn,21
+scw_1-149_220-272_da.csv,sap information steward,21
+scw_1-149_220-272_da.csv,sap cloud for travel and expense,21
+scw_1-149_220-272_da.csv,sap work manager,20
+scw_1-149_220-272_da.csv,sap portfolio and project management,20
+scw_1-149_220-272_da.csv,sap leonardo ml foundation,20
+scw_1-149_220-272_da.csv,sap ectr,20
+scw_1-149_220-272_da.csv,sap business information warehouse,20
+scw_1-149_220-272_da.csv,sap workforce performance builder,19
+scw_1-149_220-272_da.csv,sap product stewardship network,18
+scw_1-149_220-272_da.csv,sap mobile cards,18
+scw_1-149_220-272_da.csv,sap kw,18
+scw_1-149_220-272_da.csv,sap engineering control center,18
+scw_1-149_220-272_da.csv,sap edge services,18
+scw_1-149_220-272_da.csv,sap claims management,18
+scw_1-149_220-272_da.csv,sap big data margin assurance,18
+scw_1-149_220-272_da.csv,sap application interface framework,18
+scw_1-149_220-272_da.csv,sap single sign on,17
+scw_1-149_220-272_da.csv,sap liquidity risk management,17
+scw_1-149_220-272_da.csv,sap emr,17
+scw_1-149_220-272_da.csv,sap sql anywhere,16
+scw_1-149_220-272_da.csv,sap process mining,16
+scw_1-149_220-272_da.csv,sap privacy governance,16
+scw_1-149_220-272_da.csv,sap contact center,16
+scw_1-149_220-272_da.csv,sap commercial project management,16
+scw_1-149_220-272_da.csv,sap time recording,15
+scw_1-149_220-272_da.csv,sap revenue accounting,15
+scw_1-149_220-272_da.csv,sap manufacturing integration and intelligence,15
+scw_1-149_220-272_da.csv,sap cloud for energy,15
+scw_1-149_220-272_da.csv,sap accelerated trade promotion planning,15
+scw_1-149_220-272_da.csv,sap product configuration,14
+scw_1-149_220-272_da.csv,sap pdms,14
+scw_1-149_220-272_da.csv,sap graph,14
+scw_1-149_220-272_da.csv,sap for utilities,14
+scw_1-149_220-272_da.csv,sap data custodian,14
+scw_1-149_220-272_da.csv,sap ai core,14
+scw_1-149_220-272_da.csv,sap pcm,13
+scw_1-149_220-272_da.csv,sap jam communities,13
+scw_1-149_220-272_da.csv,sap customer briefing,13
+scw_1-149_220-272_da.csv,sap bank analyzer,13
+scw_1-149_220-272_da.csv,sap xem,12
+scw_1-149_220-272_da.csv,sap plant connectivity,12
+scw_1-149_220-272_da.csv,sap manager approvals,12
+scw_1-149_220-272_da.csv,sap health data,12
+scw_1-149_220-272_da.csv,sap customer order sourcing,12
+scw_1-149_220-272_da.csv,sap customer attribution,12
+scw_1-149_220-272_da.csv,sap predictive service,11
+scw_1-149_220-272_da.csv,sap one domain model,11
+scw_1-149_220-272_da.csv,sap master data governance,11
+scw_1-149_220-272_da.csv,sap global track and trace,11
+scw_1-149_220-272_da.csv,sap central process scheduling,11
+scw_1-149_220-272_da.csv,sap cash application,11
+scw_1-149_220-272_da.csv,sap supply chain management,10
+scw_1-149_220-272_da.csv,sap product lifecycle management,10
+scw_1-149_220-272_da.csv,sap product lifecycle costing,10
+scw_1-149_220-272_da.csv,sap manufacturing execution,10
+scw_1-149_220-272_da.csv,sap management of change,10
+scw_1-149_220-272_da.csv,sap learning solution,10
+scw_1-149_220-272_da.csv,sap landscape management,10
+scw_1-149_220-272_da.csv,sap icm,10
+scw_1-149_220-272_da.csv,sap global trade services,10
+scw_1-149_220-272_da.csv,sap fsm,10
+scw_1-149_220-272_da.csv,sap event ticketing,10
+scw_1-149_220-272_da.csv,sap entitlement management,10
+scw_1-149_220-272_da.csv,sap digital boardroom,10
+scw_1-149_220-272_da.csv,sap cdm,10
+scw_1-149_220-272_da.csv,sap access control,10
+scw_1-149_220-272_da.csv,sap loadrunner,9
+scw_1-149_220-272_da.csv,sap group reporting data collection,9
+scw_1-149_220-272_da.csv,sap fraud watch,9
+scw_1-149_220-272_da.csv,sap dqm,9
+scw_1-149_220-272_da.csv,sap dme,9
+scw_1-149_220-272_da.csv,sap customer financial fact sheet,9
+scw_1-149_220-272_da.csv,sap core cee,9
+scw_1-149_220-272_da.csv,sap asset manager,9
+scw_1-149_220-272_da.csv,sap warehouse insights,8
+scw_1-149_220-272_da.csv,sap talent visualization,8
+scw_1-149_220-272_da.csv,sap successfactors learning,8
+scw_1-149_220-272_da.csv,sap qualtrics,8
+scw_1-149_220-272_da.csv,sap price and margin management,8
+scw_1-149_220-272_da.csv,sap omnichannel banking,8
+scw_1-149_220-272_da.csv,sap jam collaboration,8
+scw_1-149_220-272_da.csv,sap intelligent trade claims management,8
+scw_1-149_220-272_da.csv,sap gardener,8
+scw_1-149_220-272_da.csv,sap forecasting and replenishment,8
+scw_1-149_220-272_da.csv,sap document access,8
+scw_1-149_220-272_da.csv,sap crystal server,8
+scw_1-149_220-272_da.csv,sap transportation resource planning,7
+scw_1-149_220-272_da.csv,sap supplier relationship management,7
+scw_1-149_220-272_da.csv,sap successfactors recruiting,7
+scw_1-149_220-272_da.csv,sap receivables manager,7
+scw_1-149_220-272_da.csv,sap quality center,7
+scw_1-149_220-272_da.csv,sap promotion management,7
+scw_1-149_220-272_da.csv,sap open server,7
+scw_1-149_220-272_da.csv,sap one procurement,7
+scw_1-149_220-272_da.csv,sap liquidity management,7
+scw_1-149_220-272_da.csv,sap environmental compliance,7
+scw_1-149_220-272_da.csv,sap enterprise chatbot,7
+scw_1-149_220-272_da.csv,sap energy analysis,7
+scw_1-149_220-272_da.csv,sap demand signal management,7
+scw_1-149_220-272_da.csv,sap dam,7
+scw_1-149_220-272_da.csv,sap aro,7
+scw_1-149_220-272_da.csv,sap supplier infonet,6
+scw_1-149_220-272_da.csv,sap sem,6
+scw_1-149_220-272_da.csv,sap rural sourcing management,6
+scw_1-149_220-272_da.csv,sap nw identity management,6
+scw_1-149_220-272_da.csv,sap networking,6
+scw_1-149_220-272_da.csv,sap mobile service,6
+scw_1-149_220-272_da.csv,sap mobile app protection,6
+scw_1-149_220-272_da.csv,sap localization hub,6
+scw_1-149_220-272_da.csv,sap litmos training,6
+scw_1-149_220-272_da.csv,sap landed cost analysis,6
+scw_1-149_220-272_da.csv,sap knowledge workspace,6
+scw_1-149_220-272_da.csv,sap it infrastructure management,6
+scw_1-149_220-272_da.csv,sap inventory manager,6
+scw_1-149_220-272_da.csv,sap grc access approver,6
+scw_1-149_220-272_da.csv,sap fscm,6
+scw_1-149_220-272_da.csv,sap financial statement insights,6
+scw_1-149_220-272_da.csv,sap financial closing cockpit,6
+scw_1-149_220-272_da.csv,sap fan engagement,6
+scw_1-149_220-272_da.csv,sap extended ecm,6
+scw_1-149_220-272_da.csv,sap enterprise support academy,6
+scw_1-149_220-272_da.csv,sap enterprise learning,6
+scw_1-149_220-272_da.csv,sap disclosure management,6
+scw_1-149_220-272_da.csv,sap digital for customer engagement,6
+scw_1-149_220-272_da.csv,sap data federator,6
+scw_1-149_220-272_da.csv,sap connected agriculture,6
+scw_1-149_220-272_da.csv,sap circular authority,6
+scw_1-149_220-272_da.csv,sap allegiance,6
+scw_1-149_220-272_da.csv,sap agile data preparation,6
+scw_1-149_220-272_da.csv,sap agent connection,6
+scw_1-149_220-272_da.csv,sap account intelligence,6
+scw_1-149_220-272_da.csv,sap ws,5
+scw_1-149_220-272_da.csv,sap sports one,5
+scw_1-149_220-272_da.csv,sap sales manager,5
+scw_1-149_220-272_da.csv,sap predictive integrator,5
+scw_1-149_220-272_da.csv,sap newdb,5
+scw_1-149_220-272_da.csv,sap mobile apps,5
+scw_1-149_220-272_da.csv,sap mds,5
+scw_1-149_220-272_da.csv,sap invoice management,5
+scw_1-149_220-272_da.csv,sap innovation management,5
+scw_1-149_220-272_da.csv,sap innovation center,5
+scw_1-149_220-272_da.csv,sap ies,5
+scw_1-149_220-272_da.csv,sap health link,5
+scw_1-149_220-272_da.csv,sap grc global trade services,5
+scw_1-149_220-272_da.csv,sap gcp,5
+scw_1-149_220-272_da.csv,sap flexible solution billing,5
+scw_1-149_220-272_da.csv,sap fashion management,5
+scw_1-149_220-272_da.csv,sap enterprise store,5
+scw_1-149_220-272_da.csv,sap document presentment,5
+scw_1-149_220-272_da.csv,sap digital asset management,5
+scw_1-149_220-272_da.csv,sap ariba cloud integration gateway,5
+scw_1-149_220-272_da.csv,sap ar warehouse picker,5
+scw_1-149_220-272_da.csv,sap advanced planning and optimization,5
+scw_1-149_220-272_da.csv,sap advanced data migration,5
+scw_1-149_220-272_da.csv,sap sales ondemand,4
+scw_1-149_220-272_da.csv,sap sales and operations planning,4
+scw_1-149_220-272_da.csv,sap quotation and underwriting for insurance,4
+scw_1-149_220-272_da.csv,sap predictive maintenance and service,4
+scw_1-149_220-272_da.csv,sap ppm,4
+scw_1-149_220-272_da.csv,sap networked logistics hub,4
+scw_1-149_220-272_da.csv,sap multiresource scheduling,4
+scw_1-149_220-272_da.csv,sap moving assets,4
+scw_1-149_220-272_da.csv,sap market rates management,4
+scw_1-149_220-272_da.csv,sap lease administration,4
+scw_1-149_220-272_da.csv,sap learning assistant,4
+scw_1-149_220-272_da.csv,sap java virtual machine,4
+scw_1-149_220-272_da.csv,sap it operations analytics,4
+scw_1-149_220-272_da.csv,sap it incident management,4
+scw_1-149_220-272_da.csv,sap intelligent product design,4
+scw_1-149_220-272_da.csv,sap grower management for perishables,4
+scw_1-149_220-272_da.csv,sap focused run,4
+scw_1-149_220-272_da.csv,sap farm management,4
+scw_1-149_220-272_da.csv,sap extended diagnostics,4
+scw_1-149_220-272_da.csv,sap enterprise modeling,4
+scw_1-149_220-272_da.csv,sap enterprise cockpit,4
+scw_1-149_220-272_da.csv,sap employee lookup,4
+scw_1-149_220-272_da.csv,sap electronic medical record,4
+scw_1-149_220-272_da.csv,sap digital consumer insight,4
+scw_1-149_220-272_da.csv,sap demand management,4
+scw_1-149_220-272_da.csv,sap customer loyalty,4
+scw_1-149_220-272_da.csv,sap customer insight,4
+scw_1-149_220-272_da.csv,sap customer energy management,4
+scw_1-149_220-272_da.csv,sap content server,4
+scw_1-149_220-272_da.csv,sap cloud for financials,4
+scw_1-149_220-272_da.csv,sap business profitability management,4
+scw_1-149_220-272_da.csv,sap analysis for microsoft office,4
+scw_1-149_220-272_da.csv,sap acrobat connect,4
+scw_1-149_220-272_da.csv,sap waste and recycling,3
+scw_1-149_220-272_da.csv,sap treasury and risk management,3
+scw_1-149_220-272_da.csv,sap supply base optimization,3
+scw_1-149_220-272_da.csv,sap rounds manager,3
+scw_1-149_220-272_da.csv,sap risk management,3
+scw_1-149_220-272_da.csv,sap process control,3
+scw_1-149_220-272_da.csv,sap payment approvals,3
+scw_1-149_220-272_da.csv,sap org visualization,3
+scw_1-149_220-272_da.csv,sap mobile asset management,3
+scw_1-149_220-272_da.csv,sap loss prevention,3
+scw_1-149_220-272_da.csv,sap leonardo iot bridge,3
+scw_1-149_220-272_da.csv,sap itoa,3
+scw_1-149_220-272_da.csv,sap it change approval,3
+scw_1-149_220-272_da.csv,sap interview assistant,3
+scw_1-149_220-272_da.csv,sap internet of things,3
+scw_1-149_220-272_da.csv,sap insurance sales assistant,3
+scw_1-149_220-272_da.csv,sap insurance analyzer,3
+scw_1-149_220-272_da.csv,sap incentive and commission management,3
+scw_1-149_220-272_da.csv,sap incentive administration,3
+scw_1-149_220-272_da.csv,sap grc policy survey,3
+scw_1-149_220-272_da.csv,sap funding management,3
+scw_1-149_220-272_da.csv,sap enterprise product development,3
+scw_1-149_220-272_da.csv,sap enterprise dashboard,3
+scw_1-149_220-272_da.csv,sap enterprise architect,3
+scw_1-149_220-272_da.csv,sap dp,3
+scw_1-149_220-272_da.csv,sap dom,3
+scw_1-149_220-272_da.csv,sap deposits management,3
+scw_1-149_220-272_da.csv,sap data quality management,3
+scw_1-149_220-272_da.csv,sap data maintenance,3
+scw_1-149_220-272_da.csv,sap dairy management,3
+scw_1-149_220-272_da.csv,sap commissions,3
+scw_1-149_220-272_da.csv,sap cash forecasting,3
+scw_1-149_220-272_da.csv,sap business center,3
+scw_1-149_220-272_da.csv,sap billing and revenue innovation management,3
+scw_1-149_220-272_da.csv,sap ai foundation,3
+scw_1-149_220-272_da.csv,sap xrpm,2
+scw_1-149_220-272_da.csv,sap working capital analytics,2
+scw_1-149_220-272_da.csv,sap workforce management,2
+scw_1-149_220-272_da.csv,sap trade promotion optimization,2
+scw_1-149_220-272_da.csv,sap trade management,2
+scw_1-149_220-272_da.csv,sap successfactors onboarding,2
+scw_1-149_220-272_da.csv,sap spend performance management,2
+scw_1-149_220-272_da.csv,sap sailing analytics,2
+scw_1-149_220-272_da.csv,sap records management,2
+scw_1-149_220-272_da.csv,sap product data management integration,2
+scw_1-149_220-272_da.csv,sap portal site management,2
+scw_1-149_220-272_da.csv,sap portal content management,2
+scw_1-149_220-272_da.csv,sap policyholder lookup,2
+scw_1-149_220-272_da.csv,sap patient management,2
+scw_1-149_220-272_da.csv,sap mfg execution,2
+scw_1-149_220-272_da.csv,sap leave request,2
+scw_1-149_220-272_da.csv,sap learn now,2
+scw_1-149_220-272_da.csv,sap job progress monitor,2
+scw_1-149_220-272_da.csv,sap it process automation,2
+scw_1-149_220-272_da.csv,sap intl proc autom,2
+scw_1-149_220-272_da.csv,sap internet sales,2
+scw_1-149_220-272_da.csv,sap intelligent services for marketing,2
+scw_1-149_220-272_da.csv,sap hr approvals,2
+scw_1-149_220-272_da.csv,sap grc risk management,2
+scw_1-149_220-272_da.csv,sap global batch traceability,2
+scw_1-149_220-272_da.csv,sap financial supply chain management,2
+scw_1-149_220-272_da.csv,sap fatca,2
+scw_1-149_220-272_da.csv,sap exchange infrastructure,2
+scw_1-149_220-272_da.csv,sap event management,2
+scw_1-149_220-272_da.csv,sap eppm,2
+scw_1-149_220-272_da.csv,sap employee file management,2
+scw_1-149_220-272_da.csv,sap document management system,2
+scw_1-149_220-272_da.csv,sap digital content processing,2
+scw_1-149_220-272_da.csv,sap data encryption,2
+scw_1-149_220-272_da.csv,sap cloud for predictive,2
+scw_1-149_220-272_da.csv,sap cash flow management,2
+scw_1-149_220-272_da.csv,sap caf,2
+scw_1-149_220-272_da.csv,sap business server and publisher,2
+scw_1-149_220-272_da.csv,sap business process optimization,2
+scw_1-149_220-272_da.csv,sap business designer,2
+scw_1-149_220-272_da.csv,sap bank communication management,2
+scw_1-149_220-272_da.csv,sap asset strategy and performance management,2
+scw_1-149_220-272_da.csv,sap ariba procurement,2
+scw_1-149_220-272_da.csv,sap application visualization,2
+scw_1-149_220-272_da.csv,sap ads,2
+scw_1-149_220-272_da.csv,sasap hana,1
+scw_1-149_220-272_da.csv,sap text analysis,1
+scw_1-149_220-272_da.csv,sap supply chain performance management,1
+scw_1-149_220-272_da.csv,sap supply chain info center,1
+scw_1-149_220-272_da.csv,sap supplier lifecycle management,1
+scw_1-149_220-272_da.csv,sap successfactors mobile,1
+scw_1-149_220-272_da.csv,sap successfactors compensation,1
+scw_1-149_220-272_da.csv,sap sps,1
+scw_1-149_220-272_da.csv,sap spend analytics,1
+scw_1-149_220-272_da.csv,sap signature management,1
+scw_1-149_220-272_da.csv,sap producer pro,1
+scw_1-149_220-272_da.csv,sap process performance management,1
+scw_1-149_220-272_da.csv,sap privacy management,1
+scw_1-149_220-272_da.csv,sap precision marketing,1
+scw_1-149_220-272_da.csv,sap pra,1
+scw_1-149_220-272_da.csv,sap portal on demand,1
+scw_1-149_220-272_da.csv,sap player engagement,1
+scw_1-149_220-272_da.csv,sap organizational visualization,1
+scw_1-149_220-272_da.csv,sap multichannel foundation for utilities and public sector,1
+scw_1-149_220-272_da.csv,sap mobile consumer assistant,1
+scw_1-149_220-272_da.csv,sap military data exchange,1
+scw_1-149_220-272_da.csv,sap meter data management,1
+scw_1-149_220-272_da.csv,sap manufacturing analytics,1
+scw_1-149_220-272_da.csv,sap manager insight,1
+scw_1-149_220-272_da.csv,sap ltrs,1
+scw_1-149_220-272_da.csv,sap lr,1
+scw_1-149_220-272_da.csv,sap loyalty marketing,1
+scw_1-149_220-272_da.csv,sap le application platform,1
+scw_1-149_220-272_da.csv,sap invoice mgmt,1
+scw_1-149_220-272_da.csv,sap intercompany financial hub,1
+scw_1-149_220-272_da.csv,sap intercompany data exchange,1
+scw_1-149_220-272_da.csv,sap infrastructure management,1
+scw_1-149_220-272_da.csv,sap info interchange,1
+scw_1-149_220-272_da.csv,sap health for patient engagement,1
+scw_1-149_220-272_da.csv,sap grc process control,1
+scw_1-149_220-272_da.csv,sap gp,1
+scw_1-149_220-272_da.csv,sap german metering,1
+scw_1-149_220-272_da.csv,sap geographical enablement framework,1
+scw_1-149_220-272_da.csv,sap general ledger,1
+scw_1-149_220-272_da.csv,sap gef,1
+scw_1-149_220-272_da.csv,sap funds management,1
+scw_1-149_220-272_da.csv,sap financial consolidation,1
+scw_1-149_220-272_da.csv,sap fan experience,1
+scw_1-149_220-272_da.csv,sap extended enterprise content management,1
+scw_1-149_220-272_da.csv,sap ewm for fashion,1
+scw_1-149_220-272_da.csv,sap environment health and safety management,1
+scw_1-149_220-272_da.csv,sap enterprise project connection,1
+scw_1-149_220-272_da.csv,sap energy portfolio management,1
+scw_1-149_220-272_da.csv,sap enable now cloud,1
+scw_1-149_220-272_da.csv,sap eeg billing,1
+scw_1-149_220-272_da.csv,sap easy document management,1
+scw_1-149_220-272_da.csv,sap eam work order,1
+scw_1-149_220-272_da.csv,sap eam and service mobile app sdk,1
+scw_1-149_220-272_da.csv,sap document builder,1
+scw_1-149_220-272_da.csv,sap docb,1
+scw_1-149_220-272_da.csv,sap discrete industries,1
+scw_1-149_220-272_da.csv,sap digital vehicle hub,1
+scw_1-149_220-272_da.csv,sap digital assistant,1
+scw_1-149_220-272_da.csv,sap decision service management,1
+scw_1-149_220-272_da.csv,sap dealer business management,1
+scw_1-149_220-272_da.csv,sap data platform,1
+scw_1-149_220-272_da.csv,sap customer view,1
+scw_1-149_220-272_da.csv,sap customer profile,1
+scw_1-149_220-272_da.csv,sap customer journey,1
+scw_1-149_220-272_da.csv,sap customer identity,1
+scw_1-149_220-272_da.csv,sap customer analytics for retail,1
+scw_1-149_220-272_da.csv,sap cpq,1
+scw_1-149_220-272_da.csv,sap connectivity service,1
+scw_1-149_220-272_da.csv,sap certified solutions directory,1
+scw_1-149_220-272_da.csv,sap central finance,1
+scw_1-149_220-272_da.csv,sap catch weight management,1
+scw_1-149_220-272_da.csv,sap careers,1
+scw_1-149_220-272_da.csv,sap career ondemand,1
+scw_1-149_220-272_da.csv,sap campus management,1
+scw_1-149_220-272_da.csv,sap business process analytics,1
+scw_1-149_220-272_da.csv,sap business in focus,1
+scw_1-149_220-272_da.csv,sap business connector,1
+scw_1-149_220-272_da.csv,sap budgeting and planning,1
+scw_1-149_220-272_da.csv,sap beverage,1
+scw_1-149_220-272_da.csv,sap automotive,1
+scw_1-149_220-272_da.csv,sap audit watch,1
+scw_1-149_220-272_da.csv,sap asset retirement obligation management,1
+scw_1-149_220-272_da.csv,sap asset information workbench,1
+scw_1-149_220-272_da.csv,sap assessment management,1
+scw_1-149_220-272_da.csv,sap apparel and footwear,1
+scw_1-149_220-272_da.csv,sap adapter for quality center,1
+scw_1-149_220-272_da.csv,sap act,1
+scw_1-149_220-272_da.csv,sap accounts payable,1

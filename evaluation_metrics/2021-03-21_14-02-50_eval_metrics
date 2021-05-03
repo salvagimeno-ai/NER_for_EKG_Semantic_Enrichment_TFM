@@ -1,0 +1,78 @@
+
+Model_name: models_saved/2021-03-21_14-02-50
+--------------------------------------------------------------
+EVALUATION METRICS: 
+--------------------------------------------------------------
+a) TOKEN/LABEL LEVEL Evaluation Metrics: 
+
+f1 socre:  0.9719701014415376
+Accuracy score:  0.9946386996176603
+
+              precision    recall  f1-score   support
+
+        PROD     0.9658    0.9782    0.9720      3722
+
+   micro avg     0.9658    0.9782    0.9720      3722
+   macro avg     0.9658    0.9782    0.9720      3722
+weighted avg     0.9658    0.9782    0.9720      3722
+
+--------------------------------------------------------------
+b) CONFUSION MATRIX:  
+
+B-PROD: B-I-O [3624   18   37]
+I-PROD: B-I-O [   7 2919   27]
+O     : B-I-O [   89    73 40023]
+
+
+--------------------------------------------------------------
+c) TOKEN/LABEL LEVEL Evaluation Metrics: 
+
+              precision    recall  f1-score   support
+
+      B-PROD   0.962211  0.983852  0.972911      1734
+      I-PROD   0.955352  0.977435  0.966268      1817
+           O   0.998317  0.995804  0.997059     32170
+
+    accuracy                       0.994289     35721
+   macro avg   0.971960  0.985697  0.978746     35721
+weighted avg   0.994379  0.994289  0.994320     35721
+
+
+--------------------------------------------------------------
+d) FULL-ENTITY LEVEL Evaluation Metrics: 
+
+Number of True Predicted Entities: 1694
+Number of False Predicted Entities: 133
+Total Predicted Entities: 1827
+Total True Entities: 1777
+Precision = 0.9272030651340997
+Recall: 0.9532920652785594
+f1-score: 0.9400665926748057
+--------------------------------------------------------------
+
+
+--------------------------------------------------------------
+c) TOKEN/LABEL LEVEL Evaluation Metrics: 
+
+              precision    recall  f1-score   support
+
+      B-PROD   0.962211  0.983852  0.972911      1734
+      I-PROD   0.955352  0.977435  0.966268      1817
+           O   0.998317  0.995804  0.997059     32170
+
+    accuracy                       0.994289     35721
+   macro avg   0.971960  0.985697  0.978746     35721
+weighted avg   0.994379  0.994289  0.994320     35721
+
+
+--------------------------------------------------------------
+d) FULL-ENTITY LEVEL Evaluation Metrics: 
+
+Number of True Predicted Entities: 1694
+Number of False Predicted Entities: 133
+Total Predicted Entities: 1827
+Total True Entities: 1777
+Precision = 0.9272030651340997
+Recall: 0.9532920652785594
+f1-score: 0.9400665926748057
+--------------------------------------------------------------

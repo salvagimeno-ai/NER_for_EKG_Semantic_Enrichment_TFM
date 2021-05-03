@@ -1,0 +1,22 @@
+
+--------------------------------------------------------------
+Execution Summary:   
+--------------------------------------------------------------
+Datetime: 2021-03-21 14:02:55
+Model_name (generated): models_saved/2021-03-21_14-02-50
+--------------------------------------------------------------
+MODEL_SOURCE: Transformers
+selected_model: (if source= saved_model):  2021-03-21_13-21-34.checkpoint
+
+Supervised Annotated Dataset: scw_01-23_sa_v6.csv
+Distant Annotated Dataset: scw_24_49_da.csv
+
+Training data source: sa
+Validation data source: sa
+--------------------------------------------------------------
+Max length: 256
+Batch Size: 16
+Learning_rate: 5e-05
+EPS: 1e-08
+Epochs: 5
+--------------------------------------------------------------

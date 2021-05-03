@@ -1,0 +1,19 @@
+
+Model_name: models_saved/2021-03-18_11-19-27
+
+EVALUATION METRICS: 
+f1 socre:  0.9964106555959176
+Accuracy score:  0.9989884366241625
+
+              precision    recall  f1-score   support
+
+        PROD     0.9948    0.9980    0.9964     23087
+
+   micro avg     0.9948    0.9980    0.9964     23087
+   macro avg     0.9948    0.9980    0.9964     23087
+weighted avg     0.9948    0.9980    0.9964     23087
+
+Confusion Matrix:  
+B-PROD: B-I-O [23053     0    34]
+I-PROD: B-I-O [    0 26467    58]
+O     : B-I-O [   106    129 273415]

@@ -1,0 +1,49 @@
+
+Model_name: models_saved/2021-03-18_02-35-03
+--------------------------------------------------------------
+EVALUATION METRICS: 
+--------------------------------------------------------------
+a) TOKEN/LABEL LEVEL Evaluation Metrics: 
+
+f1 socre:  0.996562831016667
+Accuracy score:  0.9989513150323885
+
+              precision    recall  f1-score   support
+
+        PROD     0.9947    0.9984    0.9966     23087
+
+   micro avg     0.9947    0.9984    0.9966     23087
+   macro avg     0.9947    0.9984    0.9966     23087
+weighted avg     0.9947    0.9984    0.9966     23087
+--------------------------------------------------------------
+b) CONFUSION MATRIX:  
+
+B-PROD: B-I-O [23060     0    27]
+I-PROD: B-I-O [    0 26479    46]
+O     : B-I-O [   109    157 273384]
+
+--------------------------------------------------------------
+c) TOKEN/LABEL LEVEL Evaluation Metrics: 
+
+              precision    recall  f1-score   support
+
+      B-PROD   0.955696  0.609573  0.744366      1734
+      I-PROD   0.963658  0.875619  0.917532      1817
+           O   0.972667  0.996674  0.984524     32170
+
+    accuracy                       0.971725     35721
+   macro avg   0.964007  0.827289  0.882141     35721
+weighted avg   0.971385  0.971725  0.969459     35721
+
+
+--------------------------------------------------------------
+d) FULL-ENTITY LEVEL Evaluation Metrics: 
+
+Number of True Predicted Entities: 1103
+Number of False Predicted Entities: 4
+Total Predicted Entities: 1107
+Total True Entities: 1777
+Precision = 0.996386630532972
+Recall: 0.6207090602138435
+f1-score: 0.7649098474341192
+--------------------------------------------------------------
